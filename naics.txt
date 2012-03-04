@@ -1,0 +1,1386 @@
+11	 Agriculture, Forestry, Fishing and Hunting
+ 
+111	 Crop Production
+ 
+1111	 Oilseed and Grain Farming
+11111	 Soybean Farming
+111110	 Soybean Farming
+11112	 Oilseed (except Soybean) Farming
+111120	 Oilseed (except Soybean) Farming US
+11113	 Dry Pea and Bean Farming
+111130	 Dry Pea and Bean Farming US
+11114	 Wheat Farming
+111140	 Wheat Farming
+11115	 Corn Farming
+111150	 Corn Farming US
+11116	 Rice Farming
+111160	 Rice Farming
+11119	 Other Grain Farming
+111190	 Other Grain Farming CAN
+ 
+1112	 Vegetable and Melon Farming
+11121	 Vegetable and Melon Farming
+111211	 Potato Farming US
+111219	 Other Vegetable (except Potato) and Melon Farming US
+ 
+1113	 Fruit and Tree Nut Farming
+11131	 Orange Groves
+111310	 Orange Groves
+11132	 Citrus (except Orange) Groves
+111320	 Citrus (except Orange) Groves US
+11133	 Non-Citrus Fruit and Tree Nut Farming
+111330	 Non-Citrus Fruit and Tree Nut Farming CAN
+ 
+1114	 Greenhouse, Nursery and Floriculture Production
+11141	 Food Crops Grown Under Cover
+111411	 Mushroom Production US
+111419	 Other Food Crops Grown Under Cover US
+11142	 Nursery and Floriculture Production
+111421	 Nursery and Tree Production US
+111422	 Floriculture Production US
+ 
+1119	 Other Crop Farming
+11191	 Tobacco Farming
+111910	 Tobacco Farming
+11192	 Cotton Farming
+111920	 Cotton Farming
+11193	 Sugar Cane Farming
+111930	 Sugar Cane Farming
+11194	 Hay Farming
+111940	 Hay Farming US
+11199	 All Other Crop Farming
+111993	 Fruit and Vegetable Combination Farming CAN
+111994	 Maple Syrup and Products Production CAN
+111999	 All Other Miscellaneous Crop Farming CAN
+ 
+112	 Animal Production
+ 
+1121	 Cattle Ranching and Farming
+11211	 Beef Cattle Ranching and Farming, including Feedlots
+112110	 Beef Cattle Ranching and Farming, including Feedlots CAN
+11212	 Dairy Cattle and Milk Production
+112120	 Dairy Cattle and Milk Production
+ 
+1122	 Hog and Pig Farming
+11221	 Hog and Pig Farming
+112210	 Hog and Pig Farming US
+ 
+1123	 Poultry and Egg Production
+11231	 Chicken Egg Production
+112310	 Chicken Egg Production US
+11232	 Broiler and Other Meat-Type Chicken Production
+112320	 Broiler and Other Meat-Type Chicken Production
+11233	 Turkey Production
+112330	 Turkey Production
+11234	 Poultry Hatcheries
+112340	 Poultry Hatcheries
+11239	 Other Poultry Production
+112391	 Combination Poultry and Egg Production CAN
+112399	 All Other Poultry Production CAN
+ 
+1124	 Sheep and Goat Farming
+11241	 Sheep Farming
+112410	 Sheep Farming US
+11242	 Goat Farming
+112420	 Goat Farming
+ 
+1125	 Aquaculture
+11251	 Aquaculture
+112510	 Aquaculture CAN
+ 
+1129	 Other Animal Production
+11291	 Apiculture
+112910	 Apiculture
+11292	 Horse and Other Equine Production
+112920	 Horse and Other Equine Production
+11293	 Fur-Bearing Animal and Rabbit Production
+112930	 Fur-Bearing Animal and Rabbit Production
+11299	 All Other Animal Production
+112991	 Animal Combination Farming CAN
+112999	 All Other Miscellaneous Animal Production CAN
+ 
+113	 Forestry and Logging
+ 
+1131	 Timber Tract Operations
+11311	 Timber Tract Operations
+113110	 Timber Tract Operations
+ 
+1132	 Forest Nurseries and Gathering of Forest Products
+11321	 Forest Nurseries and Gathering of Forest Products
+113210	 Forest Nurseries and Gathering of Forest Products US
+ 
+1133	 Logging
+11331	 Logging
+113311	 Logging (except Contract) CAN
+113312	 Contract Logging CAN
+ 
+114	 Fishing, Hunting and Trapping
+ 
+1141	 Fishing
+11411	 Fishing
+114113	 Salt Water Fishing CAN
+114114	 Inland Fishing CAN
+ 
+1142	 Hunting and Trapping
+11421	 Hunting and Trapping
+114210	 Hunting and Trapping
+ 
+115	 Support Activities for Agriculture and Forestry
+ 
+1151	 Support Activities for Crop Production
+11511	 Support Activities for Crop Production
+115110	 Support Activities for Crop Production CAN
+ 
+1152	 Support Activities for Animal Production
+11521	 Support Activities for Animal Production
+115210	 Support Activities for Animal Production
+ 
+1153	 Support Activities for Forestry
+11531	 Support Activities for Forestry
+115310	 Support Activities for Forestry
+
+21	 Mining, Quarrying, and Oil and Gas Extraction
+ 
+211	 Oil and Gas Extraction
+ 
+2111	 Oil and Gas Extraction
+21111	 Oil and Gas Extraction
+211113	 Conventional Oil and Gas Extraction CAN
+211114	 Non-Conventional Oil Extraction CAN
+ 
+212	 Mining and Quarrying (except Oil and Gas)
+ 
+2121	 Coal Mining
+21211	 Coal Mining
+212114	 Bituminous Coal Mining CAN
+212115	 Subbituminous Coal Mining CAN
+212116	 Lignite Coal Mining CAN
+ 
+2122	 Metal Ore Mining
+21221	 Iron Ore Mining
+212210	 Iron Ore Mining
+21222	 Gold and Silver Ore Mining
+212220	 Gold and Silver Ore Mining CAN
+21223	 Copper, Nickel, Lead and Zinc Ore Mining
+212231	 Lead-Zinc Ore Mining US
+212232	 Nickel-Copper Ore Mining CAN
+212233	 Copper-Zinc Ore Mining CAN
+21229	 Other Metal Ore Mining
+212291	 Uranium Ore Mining US
+212299	 All Other Metal Ore Mining US
+ 
+2123	 Non-Metallic Mineral Mining and Quarrying
+21231	 Stone Mining and Quarrying
+212314	 Granite Mining and Quarrying CAN
+212315	 Limestone Mining and Quarrying CAN
+212316	 Marble Mining and Quarrying CAN
+212317	 Sandstone Mining and Quarrying CAN
+21232	 Sand, Gravel, Clay, and Ceramic and Refractory Minerals Mining and Quarrying
+212323	 Sand and Gravel Mining and Quarrying CAN
+212326	 Shale, Clay and Refractory Mineral Mining and Quarrying CAN
+21239	 Other Non-Metallic Mineral Mining and Quarrying
+212392	 Diamond Mining CAN
+212393	 Salt Mining CAN
+212394	 Asbestos Mining CAN
+212395	 Gypsum Mining CAN
+212396	 Potash Mining CAN
+212397	 Peat Extraction CAN
+212398	 All Other Non-Metallic Mineral Mining and Quarrying CAN
+ 
+213	 Support Activities for Mining and Oil and Gas Extraction
+ 
+2131	 Support Activities for Mining and Oil and Gas Extraction
+21311	 Support Activities for Mining and Oil and Gas Extraction
+213111	 Oil and Gas Contract Drilling
+213117	 Contract Drilling (except Oil and Gas) CAN
+213118	 Services to Oil and Gas Extraction CAN
+213119	 Other Support Activities for Mining CAN
+
+22	 Utilities
+ 
+221	 Utilities US
+ 
+2211	 Electric Power Generation, Transmission and Distribution
+22111	 Electric Power Generation US
+221111	 Hydro-Electric Power Generation US
+221112	 Fossil-Fuel Electric Power Generation US
+221113	 Nuclear Electric Power Generation US
+221119	 Other Electric Power Generation US
+22112	 Electric Power Transmission, Control and Distribution US
+221121	 Electric Bulk Power Transmission and Control US
+221122	 Electric Power Distribution US
+ 
+2212	 Natural Gas Distribution US
+22121	 Natural Gas Distribution US
+221210	 Natural Gas Distribution US
+ 
+2213	 Water, Sewage and Other Systems US
+22131	 Water Supply and Irrigation Systems US
+221310	 Water Supply and Irrigation Systems US
+22132	 Sewage Treatment Facilities US
+221320	 Sewage Treatment Facilities US
+22133	 Steam and Air-Conditioning Supply US
+221330	 Steam and Air-Conditioning Supply US
+
+23	 Construction
+ 
+236	 Construction of Buildings
+ 
+2361	 Residential Building Construction
+23611	 Residential Building Construction
+236110	 Residential Building Construction CAN
+ 
+2362	 Non-residential Building Construction
+23621	 Industrial Building and Structure Construction
+236210	 Industrial Building and Structure Construction US
+23622	 Commercial and Institutional Building Construction
+236220	 Commercial and Institutional Building Construction US
+ 
+237	 Heavy and Civil Engineering Construction
+ 
+2371	 Utility System Construction
+23711	 Water and Sewer Line and Related Structures Construction
+237110	 Water and Sewer Line and Related Structures Construction US
+23712	 Oil and Gas Pipeline and Related Structures Construction
+237120	 Oil and Gas Pipeline and Related Structures Construction US
+23713	 Power and Communication Line and Related Structures Construction
+237130	 Power and Communication Line and Related Structures Construction US
+ 
+2372	 Land Subdivision
+23721	 Land Subdivision
+237210	 Land Subdivision US
+ 
+2373	 Highway, Street and Bridge Construction
+23731	 Highway, Street and Bridge Construction
+237310	 Highway, Street and Bridge Construction US
+ 
+2379	 Other Heavy and Civil Engineering Construction
+23799	 Other Heavy and Civil Engineering Construction
+237990	 Other Heavy and Civil Engineering Construction US
+ 
+238	 Specialty Trade Contractors
+ 
+2381	 Foundation, Structure, and Building Exterior Contractors
+23811	 Poured Concrete Foundation and Structure Contractors
+238110	 Poured Concrete Foundation and Structure Contractors
+23812	 Structural Steel and Precast Concrete Contractors
+238120	 Structural Steel and Precast Concrete Contractors US
+23813	 Framing Contractors US
+238130	 Framing Contractors US
+23814	 Masonry Contractors US
+238140	 Masonry Contractors US
+23815	 Glass and Glazing Contractors US
+238150	 Glass and Glazing Contractors US
+23816	 Roofing Contractors US
+238160	 Roofing Contractors US
+23817	 Siding Contractors US
+238170	 Siding Contractors US
+23819	 Other Foundation, Structure and Building Exterior Contractors US
+238190	 Other Foundation, Structure and Building Exterior Contractors US
+ 
+2382	 Building Equipment Contractors
+23821	 Electrical Contractors and Other Wiring Installation Contractors
+238210	 Electrical Contractors and Other Wiring Installation Contractors
+23822	 Plumbing, Heating and Air-Conditioning Contractors
+238220	 Plumbing, Heating and Air-Conditioning Contractors US
+23829	 Other Building Equipment Contractors
+238291	 Elevator and Escalator Installation Contractors CAN
+238299	 All Other Building Equipment Contractors CAN
+ 
+2383	 Building Finishing Contractors
+23831	 Drywall and Insulation Contractors
+238310	 Drywall and Insulation Contractors US
+23832	 Painting and Wall Covering Contractors
+238320	 Painting and Wall Covering Contractors
+23833	 Flooring Contractors
+238330	 Flooring Contractors
+23834	 Tile and Terrazzo Contractors
+238340	 Tile and Terrazzo Contractors
+23835	 Finish Carpentry Contractors
+238350	 Finish Carpentry Contractors
+23839	 Other Building Finishing Contractors
+238390	 Other Building Finishing Contractors
+ 
+2389	 Other Specialty Trade Contractors
+23891	 Site Preparation Contractors
+238910	 Site Preparation Contractors
+23899	 All Other Specialty Trade Contractors
+238990	 All Other Specialty Trade Contractors US
+
+31-33	 Manufacturing
+ 
+311	 Food Manufacturing
+ 
+3111	 Animal Food Manufacturing
+31111	 Animal Food Manufacturing
+311111	 Dog and Cat Food Manufacturing US
+311119	 Other Animal Food Manufacturing US
+ 
+3112	 Grain and Oilseed Milling
+31121	 Flour Milling and Malt Manufacturing
+311211	 Flour Milling US
+311214	 Rice Milling and Malt Manufacturing CAN
+31122	 Starch and Vegetable Fat and Oil Manufacturing
+311221	 Wet Corn Milling US
+311224	 Oilseed Processing CAN
+311225	 Fat and Oil Refining and Blending US
+31123	 Breakfast Cereal Manufacturing
+311230	 Breakfast Cereal Manufacturing
+ 
+3113	 Sugar and Confectionery Product Manufacturing
+31131	 Sugar Manufacturing
+311310	 Sugar Manufacturing CAN
+31132	 Chocolate and Confectionery Manufacturing from Cacao Beans
+311320	 Chocolate and Confectionery Manufacturing from Cacao Beans
+31133	 Confectionery Manufacturing from Purchased Chocolate
+311330	 Confectionery Manufacturing from Purchased Chocolate
+31134	 Non-Chocolate Confectionery Manufacturing
+311340	 Non-Chocolate Confectionery Manufacturing
+ 
+3114	 Fruit and Vegetable Preserving and Specialty Food Manufacturing
+31141	 Frozen Food Manufacturing
+311410	 Frozen Food Manufacturing CAN
+31142	 Fruit and Vegetable Canning, Pickling and Drying
+311420	 Fruit and Vegetable Canning, Pickling and Drying CAN
+ 
+3115	 Dairy Product Manufacturing
+31151	 Dairy Product (except Frozen) Manufacturing
+311511	 Fluid Milk Manufacturing US
+311515	 Butter, Cheese, and Dry and Condensed Dairy Product Manufacturing CAN
+31152	 Ice Cream and Frozen Dessert Manufacturing
+311520	 Ice Cream and Frozen Dessert Manufacturing
+ 
+3116	 Meat Product Manufacturing
+31161	 Animal Slaughtering and Processing
+311611	 Animal (except Poultry) Slaughtering US
+311614	 Rendering and Meat Processing from Carcasses CAN
+311615	 Poultry Processing US
+ 
+3117	 Seafood Product Preparation and Packaging
+31171	 Seafood Product Preparation and Packaging
+311710	 Seafood Product Preparation and Packaging MEX
+ 
+3118	 Bakeries and Tortilla Manufacturing
+31181	 Bread and Bakery Product Manufacturing
+311811	 Retail Bakeries US
+311814	 Commercial Bakeries and Frozen Bakery Product Manufacturing CAN
+31182	 Cookie, Cracker and Pasta Manufacturing
+311821	 Cookie and Cracker Manufacturing US
+311822	 Flour Mixes and Dough Manufacturing from Purchased Flour US
+311823	 Dry Pasta Manufacturing US
+31183	 Tortilla Manufacturing
+311830	 Tortilla Manufacturing
+ 
+3119	 Other Food Manufacturing
+31191	 Snack Food Manufacturing
+311911	 Roasted Nut and Peanut Butter Manufacturing US
+311919	 Other Snack Food Manufacturing US
+31192	 Coffee and Tea Manufacturing
+311920	 Coffee and Tea Manufacturing US
+31193	 Flavouring Syrup and Concentrate Manufacturing
+311930	 Flavouring Syrup and Concentrate Manufacturing
+31194	 Seasoning and Dressing Manufacturing
+311940	 Seasoning and Dressing Manufacturing MEX
+31199	 All Other Food Manufacturing
+311990	 All Other Food Manufacturing CAN
+ 
+312	 Beverage and Tobacco Product Manufacturing
+ 
+3121	 Beverage Manufacturing
+31211	 Soft Drink and Ice Manufacturing
+312110	 Soft Drink and Ice Manufacturing CAN
+31212	 Breweries
+312120	 Breweries
+31213	 Wineries
+312130	 Wineries US
+31214	 Distilleries
+312140	 Distilleries US
+ 
+3122	 Tobacco Manufacturing
+31221	 Tobacco Stemming and Redrying
+312210	 Tobacco Stemming and Redrying
+31222	 Tobacco Product Manufacturing
+312220	 Tobacco Product Manufacturing CAN
+ 
+313	 Textile Mills
+ 
+3131	 Fibre, Yarn and Thread Mills
+31311	 Fibre, Yarn and Thread Mills
+313110	 Fibre, Yarn and Thread Mills CAN
+ 
+3132	 Fabric Mills
+31321	 Broad-Woven Fabric Mills
+313210	 Broad-Woven Fabric Mills
+31322	 Narrow Fabric Mills and Schiffli Machine Embroidery
+313220	 Narrow Fabric Mills and Schiffli Machine Embroidery MEX
+31323	 Nonwoven Fabric Mills
+313230	 Nonwoven Fabric Mills
+31324	 Knit Fabric Mills
+313240	 Knit Fabric Mills MEX
+ 
+3133	 Textile and Fabric Finishing and Fabric Coating
+31331	 Textile and Fabric Finishing
+313310	 Textile and Fabric Finishing CAN
+31332	 Fabric Coating
+313320	 Fabric Coating
+ 
+314	 Textile Product Mills
+ 
+3141	 Textile Furnishings Mills
+31411	 Carpet and Rug Mills
+314110	 Carpet and Rug Mills
+31412	 Curtain and Linen Mills
+314120	 Curtain and Linen Mills MEX
+ 
+3149	 Other Textile Product Mills
+31491	 Textile Bag and Canvas Mills
+314910	 Textile Bag and Canvas Mills CAN
+31499	 All Other Textile Product Mills
+314990	 All Other Textile Product Mills CAN
+ 
+315	 Clothing Manufacturing
+ 
+3151	 Clothing Knitting Mills
+31511	 Hosiery and Sock Mills
+315110	 Hosiery and Sock Mills MEX
+31519	 Other Clothing Knitting Mills
+315190	 Other Clothing Knitting Mills CAN
+ 
+3152	 Cut and Sew Clothing Manufacturing
+31521	 Cut and Sew Clothing Contracting US
+315210	 Cut and Sew Clothing Contracting CAN
+31522	 Men's and Boys' Cut and Sew Clothing Manufacturing US
+315221	 Men's and Boys' Cut and Sew Underwear and Nightwear Manufacturing US
+315222	 Men's and Boys' Cut and Sew Suit, Coat and Overcoat Manufacturing US
+315226	 Men's and Boys' Cut and Sew Shirt Manufacturing CAN
+315227	 Men's and Boys' Cut and Sew Trouser, Slack and Jean Manufacturing CAN
+315229	 Other Men's and Boys' Cut and Sew Clothing Manufacturing CAN
+31523	 Women's and Girls' Cut and Sew Clothing Manufacturing US
+315231	 Women's and Girls' Cut and Sew Lingerie, Loungewear and Nightwear Manufacturing US
+315232	 Women's and Girls' Cut and Sew Blouse and Shirt Manufacturing US
+315233	 Women's and Girls' Cut and Sew Dress Manufacturing US
+315234	 Women's and Girls' Cut and Sew Suit, Coat, Tailored Jacket and Skirt Manufacturing US
+315239	 Other Women's and Girls' Cut and Sew Clothing Manufacturing US
+31529	 Other Cut and Sew Clothing Manufacturing US
+315291	 Infants' Cut and Sew Clothing Manufacturing US
+315292	 Fur and Leather Clothing Manufacturing US
+315299	 All Other Cut and Sew Clothing Manufacturing US
+ 
+3159	 Clothing Accessories and Other Clothing Manufacturing
+31599	 Clothing Accessories and Other Clothing Manufacturing
+315990	 Clothing Accessories and Other Clothing Manufacturing CAN
+ 
+316	 Leather and Allied Product Manufacturing
+ 
+3161	 Leather and Hide Tanning and Finishing
+31611	 Leather and Hide Tanning and Finishing
+316110	 Leather and Hide Tanning and Finishing
+ 
+3162	 Footwear Manufacturing
+31621	 Footwear Manufacturing
+316210	 Footwear Manufacturing CAN
+ 
+3169	 Other Leather and Allied Product Manufacturing
+31699	 Other Leather and Allied Product Manufacturing
+316990	 Other Leather and Allied Product Manufacturing CAN
+ 
+321	 Wood Product Manufacturing
+ 
+3211	 Sawmills and Wood Preservation
+32111	 Sawmills and Wood Preservation
+321111	 Sawmills (except Shingle and Shake Mills) MEX
+321112	 Shingle and Shake Mills MEX
+321114	 Wood Preservation US
+ 
+3212	 Veneer, Plywood and Engineered Wood Product Manufacturing
+32121	 Veneer, Plywood and Engineered Wood Product Manufacturing
+321211	 Hardwood Veneer and Plywood Mills US
+321212	 Softwood Veneer and Plywood Mills US
+321215	 Structural Wood Product Manufacturing CAN
+321216	 Particle Board and Fibreboard Mills CAN
+321217	 Waferboard Mills CAN
+ 
+3219	 Other Wood Product Manufacturing
+32191	 Millwork
+321911	 Wood Window and Door Manufacturing US
+321919	 Other Millwork CAN
+32192	 Wood Container and Pallet Manufacturing
+321920	 Wood Container and Pallet Manufacturing
+32199	 All Other Wood Product Manufacturing
+321991	 Manufactured (Mobile) Home Manufacturing US
+321992	 Prefabricated Wood Building Manufacturing US
+321999	 All Other Miscellaneous Wood Product Manufacturing US
+ 
+322	 Paper Manufacturing
+ 
+3221	 Pulp, Paper and Paperboard Mills
+32211	 Pulp Mills
+322111	 Mechanical Pulp Mills CAN
+322112	 Chemical Pulp Mills CAN
+32212	 Paper Mills
+322121	 Paper (except Newsprint) Mills US
+322122	 Newsprint Mills US
+32213	 Paperboard Mills
+322130	 Paperboard Mills US
+ 
+3222	 Converted Paper Product Manufacturing
+32221	 Paperboard Container Manufacturing
+322211	 Corrugated and Solid Fibre Box Manufacturing US
+322212	 Folding Paperboard Box Manufacturing US
+322219	 Other Paperboard Container Manufacturing CAN
+32222	 Paper Bag and Coated and Treated Paper Manufacturing
+322220	 Paper Bag and Coated and Treated Paper Manufacturing MEX
+32223	 Stationery Product Manufacturing
+322230	 Stationery Product Manufacturing MEX
+32229	 Other Converted Paper Product Manufacturing
+322291	 Sanitary Paper Product Manufacturing US
+322299	 All Other Converted Paper Product Manufacturing US
+ 
+323	 Printing and Related Support Activities
+ 
+3231	 Printing and Related Support Activities
+32311	 Printing
+323113	 Commercial Screen Printing US
+323114	 Quick Printing US
+323115	 Digital Printing US
+323116	 Manifold Business Forms Printing US
+323119	 Other Printing CAN
+32312	 Support Activities for Printing
+323120	 Support Activities for Printing MEX
+ 
+324	 Petroleum and Coal Product Manufacturing
+ 
+3241	 Petroleum and Coal Product Manufacturing
+32411	 Petroleum Refineries
+324110	 Petroleum Refineries
+32412	 Asphalt Paving, Roofing and Saturated Materials Manufacturing
+324121	 Asphalt Paving Mixture and Block Manufacturing US
+324122	 Asphalt Shingle and Coating Material Manufacturing US
+32419	 Other Petroleum and Coal Product Manufacturing
+324190	 Other Petroleum and Coal Product Manufacturing CAN
+ 
+325	 Chemical Manufacturing
+ 
+3251	 Basic Chemical Manufacturing
+32511	 Petrochemical Manufacturing
+325110	 Petrochemical Manufacturing
+32512	 Industrial Gas Manufacturing
+325120	 Industrial Gas Manufacturing
+32513	 Synthetic Dye and Pigment Manufacturing
+325130	 Synthetic Dye and Pigment Manufacturing MEX
+32518	 Other Basic Inorganic Chemical Manufacturing
+325181	 Alkali and Chlorine Manufacturing US
+325189	 All Other Basic Inorganic Chemical Manufacturing CAN
+32519	 Other Basic Organic Chemical Manufacturing
+325190	 Other Basic Organic Chemical Manufacturing MEX
+ 
+3252	 Resin, Synthetic Rubber, and Artificial and Synthetic Fibres and Filaments Manufacturing
+32521	 Resin and Synthetic Rubber Manufacturing
+325210	 Resin and Synthetic Rubber Manufacturing CAN
+32522	 Artificial and Synthetic Fibres and Filaments Manufacturing
+325220	 Artificial and Synthetic Fibres and Filaments Manufacturing MEX
+ 
+3253	 Pesticide, Fertilizer and Other Agricultural Chemical Manufacturing
+32531	 Fertilizer Manufacturing
+325313	 Chemical Fertilizer (except Potash) Manufacturing CAN
+325314	 Mixed Fertilizer Manufacturing US
+32532	 Pesticide and Other Agricultural Chemical Manufacturing
+325320	 Pesticide and Other Agricultural Chemical Manufacturing
+ 
+3254	 Pharmaceutical and Medicine Manufacturing
+32541	 Pharmaceutical and Medicine Manufacturing
+325410	 Pharmaceutical and Medicine Manufacturing CAN
+ 
+3255	 Paint, Coating and Adhesive Manufacturing
+32551	 Paint and Coating Manufacturing
+325510	 Paint and Coating Manufacturing
+32552	 Adhesive Manufacturing
+325520	 Adhesive Manufacturing
+ 
+3256	 Soap, Cleaning Compound and Toilet Preparation Manufacturing
+32561	 Soap and Cleaning Compound Manufacturing
+325610	 Soap and Cleaning Compound Manufacturing MEX
+32562	 Toilet Preparation Manufacturing
+325620	 Toilet Preparation Manufacturing
+ 
+3259	 Other Chemical Product Manufacturing
+32591	 Printing Ink Manufacturing
+325910	 Printing Ink Manufacturing
+32592	 Explosives Manufacturing
+325920	 Explosives Manufacturing
+32599	 All Other Chemical Product Manufacturing
+325991	 Custom Compounding of Purchased Resins US
+325999	 All Other Miscellaneous Chemical Product Manufacturing CAN
+ 
+326	 Plastics and Rubber Products Manufacturing
+ 
+3261	 Plastic Product Manufacturing
+32611	 Plastic Packaging Materials and Unlaminated Film and Sheet Manufacturing
+326111	 Plastic Bag and Pouch Manufacturing US
+326114	 Plastic Film and Sheet Manufacturing CAN
+32612	 Plastic Pipe, Pipe Fitting, and Unlaminated Profile Shape Manufacturing
+326121	 Unlaminated Plastic Profile Shape Manufacturing US
+326122	 Plastic Pipe and Pipe Fitting Manufacturing US
+32613	 Laminated Plastic Plate, Sheet (except Packaging), and Shape Manufacturing
+326130	 Laminated Plastic Plate, Sheet (except Packaging), and Shape Manufacturing
+32614	 Polystyrene Foam Product Manufacturing
+326140	 Polystyrene Foam Product Manufacturing
+32615	 Urethane and Other Foam Product (except Polystyrene) Manufacturing
+326150	 Urethane and Other Foam Product (except Polystyrene) Manufacturing
+32616	 Plastic Bottle Manufacturing
+326160	 Plastic Bottle Manufacturing
+32619	 Other Plastic Product Manufacturing
+326191	 Plastic Plumbing Fixture Manufacturing US
+326193	 Motor Vehicle Plastic Parts Manufacturing CAN
+326196	 Plastic Window and Door Manufacturing CAN
+326198	 All Other Plastic Product Manufacturing CAN
+ 
+3262	 Rubber Product Manufacturing
+32621	 Tire Manufacturing
+326210	 Tire Manufacturing CAN
+32622	 Rubber and Plastic Hose and Belting Manufacturing
+326220	 Rubber and Plastic Hose and Belting Manufacturing
+32629	 Other Rubber Product Manufacturing
+326290	 Other Rubber Product Manufacturing MEX
+ 
+327	 Non-Metallic Mineral Product Manufacturing
+ 
+3271	 Clay Product and Refractory Manufacturing
+32711	 Pottery, Ceramics and Plumbing Fixture Manufacturing
+327110	 Pottery, Ceramics and Plumbing Fixture Manufacturing CAN
+32712	 Clay Building Material and Refractory Manufacturing
+327120	 Clay Building Material and Refractory Manufacturing CAN
+ 
+3272	 Glass and Glass Product Manufacturing
+32721	 Glass and Glass Product Manufacturing
+327214	 Glass Manufacturing CAN
+327215	 Glass Product Manufacturing from Purchased Glass US
+ 
+3273	 Cement and Concrete Product Manufacturing
+32731	 Cement Manufacturing
+327310	 Cement Manufacturing
+32732	 Ready-Mix Concrete Manufacturing
+327320	 Ready-Mix Concrete Manufacturing
+32733	 Concrete Pipe, Brick and Block Manufacturing
+327330	 Concrete Pipe, Brick and Block Manufacturing MEX
+32739	 Other Concrete Product Manufacturing
+327390	 Other Concrete Product Manufacturing US
+ 
+3274	 Lime and Gypsum Product Manufacturing
+32741	 Lime Manufacturing
+327410	 Lime Manufacturing
+32742	 Gypsum Product Manufacturing
+327420	 Gypsum Product Manufacturing
+ 
+3279	 Other Non-Metallic Mineral Product Manufacturing
+32791	 Abrasive Product Manufacturing
+327910	 Abrasive Product Manufacturing
+32799	 All Other Non-Metallic Mineral Product Manufacturing
+327990	 All Other Non-Metallic Mineral Product Manufacturing CAN
+ 
+331	 Primary Metal Manufacturing
+ 
+3311	 Iron and Steel Mills and Ferro-Alloy Manufacturing
+33111	 Iron and Steel Mills and Ferro-Alloy Manufacturing
+331110	 Iron and Steel Mills and Ferro-Alloy Manufacturing CAN
+ 
+3312	 Steel Product Manufacturing from Purchased Steel
+33121	 Iron and Steel Pipes and Tubes Manufacturing from Purchased Steel
+331210	 Iron and Steel Pipes and Tubes Manufacturing from Purchased Steel
+33122	 Rolling and Drawing of Purchased Steel
+331221	 Cold-Rolled Steel Shape Manufacturing US
+331222	 Steel Wire Drawing US
+ 
+3313	 Alumina and Aluminum Production and Processing
+33131	 Alumina and Aluminum Production and Processing
+331313	 Primary Production of Alumina and Aluminum CAN
+331317	 Aluminum Rolling, Drawing, Extruding and Alloying CAN
+ 
+3314	 Non-Ferrous Metal (except Aluminum) Production and Processing
+33141	 Non-Ferrous Metal (except Aluminum) Smelting and Refining
+331410	 Non-Ferrous Metal (except Aluminum) Smelting and Refining CAN
+33142	 Copper Rolling, Drawing, Extruding and Alloying
+331420	 Copper Rolling, Drawing, Extruding and Alloying MEX
+33149	 Non-Ferrous Metal (except Copper and Aluminum) Rolling, Drawing, Extruding and Alloying
+331490	 Non-Ferrous Metal (except Copper and Aluminum) Rolling, Drawing, Extruding and Alloying CAN
+ 
+3315	 Foundries
+33151	 Ferrous Metal Foundries
+331511	 Iron Foundries US
+331514	 Steel Foundries CAN
+33152	 Non-Ferrous Metal Foundries
+331523	 Non-Ferrous Die-Casting Foundries CAN
+331529	 Non-Ferrous Foundries (except Die-Casting) CAN
+ 
+332	 Fabricated Metal Product Manufacturing
+ 
+3321	 Forging and Stamping
+33211	 Forging and Stamping
+332113	 Forging CAN
+332118	 Stamping CAN
+ 
+3322	 Cutlery and Hand Tool Manufacturing
+33221	 Cutlery and Hand Tool Manufacturing
+332210	 Cutlery and Hand Tool Manufacturing CAN
+ 
+3323	 Architectural and Structural Metals Manufacturing
+33231	 Plate Work and Fabricated Structural Product Manufacturing
+332311	 Prefabricated Metal Building and Component Manufacturing US
+332314	 Concrete Reinforcing Bar Manufacturing CAN
+332319	 Other Plate Work and Fabricated Structural Product Manufacturing CAN
+33232	 Ornamental and Architectural Metal Product Manufacturing
+332321	 Metal Window and Door Manufacturing US
+332329	 Other Ornamental and Architectural Metal Product Manufacturing CAN
+ 
+3324	 Boiler, Tank and Shipping Container Manufacturing
+33241	 Power Boiler and Heat Exchanger Manufacturing
+332410	 Power Boiler and Heat Exchanger Manufacturing
+33242	 Metal Tank (Heavy Gauge) Manufacturing
+332420	 Metal Tank (Heavy Gauge) Manufacturing
+33243	 Metal Can, Box and Other Metal Container (Light Gauge) Manufacturing
+332431	 Metal Can Manufacturing US
+332439	 Other Metal Container Manufacturing US
+ 
+3325	 Hardware Manufacturing
+33251	 Hardware Manufacturing
+332510	 Hardware Manufacturing
+ 
+3326	 Spring and Wire Product Manufacturing
+33261	 Spring and Wire Product Manufacturing
+332611	 Spring (Heavy Gauge) Manufacturing US
+332619	 Other Fabricated Wire Product Manufacturing CAN
+ 
+3327	 Machine Shops, Turned Product, and Screw, Nut and Bolt Manufacturing
+33271	 Machine Shops
+332710	 Machine Shops
+33272	 Turned Product and Screw, Nut and Bolt Manufacturing
+332720	 Turned Product and Screw, Nut and Bolt Manufacturing MEX
+ 
+3328	 Coating, Engraving, Heat Treating and Allied Activities
+33281	 Coating, Engraving, Heat Treating and Allied Activities
+332810	 Coating, Engraving, Heat Treating and Allied Activities MEX
+ 
+3329	 Other Fabricated Metal Product Manufacturing
+33291	 Metal Valve Manufacturing
+332910	 Metal Valve Manufacturing MEX
+33299	 All Other Fabricated Metal Product Manufacturing
+332991	 Ball and Roller Bearing Manufacturing
+332999	 All Other Miscellaneous Fabricated Metal Product Manufacturing MEX
+ 
+333	 Machinery Manufacturing
+ 
+3331	 Agricultural, Construction and Mining Machinery Manufacturing
+33311	 Agricultural Implement Manufacturing
+333110	 Agricultural Implement Manufacturing CAN
+33312	 Construction Machinery Manufacturing
+333120	 Construction Machinery Manufacturing
+33313	 Mining and Oil and Gas Field Machinery Manufacturing
+333130	 Mining and Oil and Gas Field Machinery Manufacturing MEX
+ 
+3332	 Industrial Machinery Manufacturing
+33321	 Sawmill and Woodworking Machinery Manufacturing
+333210	 Sawmill and Woodworking Machinery Manufacturing
+33322	 Rubber and Plastics Industry Machinery Manufacturing
+333220	 Rubber and Plastics Industry Machinery Manufacturing
+33329	 Other Industrial Machinery Manufacturing
+333291	 Paper Industry Machinery Manufacturing US
+333299	 All Other Industrial Machinery Manufacturing CAN
+ 
+3333	 Commercial and Service Industry Machinery Manufacturing
+33331	 Commercial and Service Industry Machinery Manufacturing
+333310	 Commercial and Service Industry Machinery Manufacturing CAN
+ 
+3334	 Ventilation, Heating, Air-Conditioning and Commercial Refrigeration Equipment Manufacturing
+33341	 Ventilation, Heating, Air-Conditioning and Commercial Refrigeration Equipment Manufacturing
+333413	 Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing CAN
+333416	 Heating Equipment and Commercial Refrigeration Equipment Manufacturing CAN
+ 
+3335	 Metalworking Machinery Manufacturing
+33351	 Metalworking Machinery Manufacturing
+333511	 Industrial Mould Manufacturing US
+333519	 Other Metalworking Machinery Manufacturing CAN
+ 
+3336	 Engine, Turbine and Power Transmission Equipment Manufacturing
+33361	 Engine, Turbine and Power Transmission Equipment Manufacturing
+333611	 Turbine and Turbine Generator Set Unit Manufacturing US
+333619	 Other Engine and Power Transmission Equipment Manufacturing CAN
+ 
+3339	 Other General-Purpose Machinery Manufacturing
+33391	 Pump and Compressor Manufacturing
+333910	 Pump and Compressor Manufacturing CAN
+33392	 Material Handling Equipment Manufacturing
+333920	 Material Handling Equipment Manufacturing MEX
+33399	 All Other General-Purpose Machinery Manufacturing
+333990	 All Other General-Purpose Machinery Manufacturing CAN
+ 
+334	 Computer and Electronic Product Manufacturing
+ 
+3341	 Computer and Peripheral Equipment Manufacturing
+33411	 Computer and Peripheral Equipment Manufacturing
+334110	 Computer and Peripheral Equipment Manufacturing MEX
+ 
+3342	 Communications Equipment Manufacturing
+33421	 Telephone Apparatus Manufacturing
+334210	 Telephone Apparatus Manufacturing
+33422	 Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing
+334220	 Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing
+33429	 Other Communications Equipment Manufacturing
+334290	 Other Communications Equipment Manufacturing
+ 
+3343	 Audio and Video Equipment Manufacturing
+33431	 Audio and Video Equipment Manufacturing
+334310	 Audio and Video Equipment Manufacturing
+ 
+3344	 Semiconductor and Other Electronic Component Manufacturing
+33441	 Semiconductor and Other Electronic Component Manufacturing
+334410	 Semiconductor and Other Electronic Component Manufacturing MEX
+ 
+3345	 Navigational, Measuring, Medical and Control Instruments Manufacturing
+33451	 Navigational, Measuring, Medical and Control Instruments Manufacturing
+334511	 Navigational and Guidance Instruments Manufacturing US
+334512	 Measuring, Medical and Controlling Devices Manufacturing CAN
+ 
+3346	 Manufacturing and Reproducing Magnetic and Optical Media
+33461	 Manufacturing and Reproducing Magnetic and Optical Media
+334610	 Manufacturing and Reproducing Magnetic and Optical Media MEX
+ 
+335	 Electrical Equipment, Appliance and Component Manufacturing
+ 
+3351	 Electric Lighting Equipment Manufacturing
+33511	 Electric Lamp Bulb and Parts Manufacturing
+335110	 Electric Lamp Bulb and Parts Manufacturing
+33512	 Lighting Fixture Manufacturing
+335120	 Lighting Fixture Manufacturing CAN
+ 
+3352	 Household Appliance Manufacturing
+33521	 Small Electrical Appliance Manufacturing
+335210	 Small Electrical Appliance Manufacturing MEX
+33522	 Major Appliance Manufacturing
+335223	 Major Kitchen Appliance Manufacturing CAN
+335229	 Other Major Appliance Manufacturing CAN
+ 
+3353	 Electrical Equipment Manufacturing
+33531	 Electrical Equipment Manufacturing
+335311	 Power, Distribution and Specialty Transformers Manufacturing US
+335312	 Motor and Generator Manufacturing US
+335315	 Switchgear and Switchboard, and Relay and Industrial Control Apparatus Manufacturing CAN
+ 
+3359	 Other Electrical Equipment and Component Manufacturing
+33591	 Battery Manufacturing
+335910	 Battery Manufacturing CAN
+33592	 Communication and Energy Wire and Cable Manufacturing
+335920	 Communication and Energy Wire and Cable Manufacturing CAN
+33593	 Wiring Device Manufacturing
+335930	 Wiring Device Manufacturing CAN
+33599	 All Other Electrical Equipment and Component Manufacturing
+335990	 All Other Electrical Equipment and Component Manufacturing CAN
+ 
+336	 Transportation Equipment Manufacturing
+ 
+3361	 Motor Vehicle Manufacturing
+33611	 Automobile and Light-Duty Motor Vehicle Manufacturing
+336110	 Automobile and Light-Duty Motor Vehicle Manufacturing MEX
+33612	 Heavy-Duty Truck Manufacturing
+336120	 Heavy-Duty Truck Manufacturing
+ 
+3362	 Motor Vehicle Body and Trailer Manufacturing
+33621	 Motor Vehicle Body and Trailer Manufacturing
+336211	 Motor Vehicle Body Manufacturing US
+336212	 Truck Trailer Manufacturing US
+336215	 Motor Home, Travel Trailer and Camper Manufacturing CAN
+ 
+3363	 Motor Vehicle Parts Manufacturing
+33631	 Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
+336310	 Motor Vehicle Gasoline Engine and Engine Parts Manufacturing MEX
+33632	 Motor Vehicle Electrical and Electronic Equipment Manufacturing
+336320	 Motor Vehicle Electrical and Electronic Equipment Manufacturing MEX
+33633	 Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing
+336330	 Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing
+33634	 Motor Vehicle Brake System Manufacturing
+336340	 Motor Vehicle Brake System Manufacturing
+33635	 Motor Vehicle Transmission and Power Train Parts Manufacturing
+336350	 Motor Vehicle Transmission and Power Train Parts Manufacturing
+33636	 Motor Vehicle Seating and Interior Trim Manufacturing
+336360	 Motor Vehicle Seating and Interior Trim Manufacturing
+33637	 Motor Vehicle Metal Stamping
+336370	 Motor Vehicle Metal Stamping
+33639	 Other Motor Vehicle Parts Manufacturing
+336390	 Other Motor Vehicle Parts Manufacturing MEX
+ 
+3364	 Aerospace Product and Parts Manufacturing
+33641	 Aerospace Product and Parts Manufacturing
+336410	 Aerospace Product and Parts Manufacturing MEX
+ 
+3365	 Railroad Rolling Stock Manufacturing
+33651	 Railroad Rolling Stock Manufacturing
+336510	 Railroad Rolling Stock Manufacturing
+ 
+3366	 Ship and Boat Building
+33661	 Ship and Boat Building
+336611	 Ship Building and Repairing US
+336612	 Boat Building US
+ 
+3369	 Other Transportation Equipment Manufacturing
+33699	 Other Transportation Equipment Manufacturing
+336990	 Other Transportation Equipment Manufacturing CAN
+ 
+337	 Furniture and Related Product Manufacturing
+ 
+3371	 Household and Institutional Furniture and Kitchen Cabinet Manufacturing
+33711	 Wood Kitchen Cabinet and Counter Top Manufacturing
+337110	 Wood Kitchen Cabinet and Counter Top Manufacturing
+33712	 Household and Institutional Furniture Manufacturing
+337121	 Upholstered Household Furniture Manufacturing US
+337123	 Other Wood Household Furniture Manufacturing CAN
+337126	 Household Furniture (except Wood and Upholstered) Manufacturing CAN
+337127	 Institutional Furniture Manufacturing US
+ 
+3372	 Office Furniture (including Fixtures) Manufacturing
+33721	 Office Furniture (including Fixtures) Manufacturing
+337213	 Wood Office Furniture, including Custom Architectural Woodwork, Manufacturing CAN
+337214	 Office Furniture (except Wood) Manufacturing US
+337215	 Showcase, Partition, Shelving and Locker Manufacturing US
+ 
+3379	 Other Furniture-Related Product Manufacturing
+33791	 Mattress Manufacturing
+337910	 Mattress Manufacturing
+33792	 Blind and Shade Manufacturing
+337920	 Blind and Shade Manufacturing
+ 
+339	 Miscellaneous Manufacturing
+ 
+3391	 Medical Equipment and Supplies Manufacturing
+33911	 Medical Equipment and Supplies Manufacturing
+339110	 Medical Equipment and Supplies Manufacturing CAN
+ 
+3399	 Other Miscellaneous Manufacturing
+
+41	 Wholesale Trade
+ 
+411	 Farm Product Wholesaler-Distributors CAN
+ 
+4111	 Farm Product Wholesaler-Distributors CAN
+41111	 Live Animal Wholesaler-Distributors CAN
+411110	 Live Animal Wholesaler-Distributors CAN
+41112	 Oilseed and Grain Wholesaler-Distributors CAN
+411120	 Oilseed and Grain Wholesaler-Distributors CAN
+41113	 Nursery Stock and Plant Wholesaler-Distributors CAN
+411130	 Nursery Stock and Plant Wholesaler-Distributors CAN
+41119	 Other Farm Product Wholesaler-Distributors CAN
+411190	 Other Farm Product Wholesaler-Distributors CAN
+ 
+412	 Petroleum Product Wholesaler-Distributors CAN
+ 
+4121	 Petroleum Product Wholesaler-Distributors CAN
+41211	 Petroleum Product Wholesaler-Distributors CAN
+412110	 Petroleum Product Wholesaler-Distributors CAN
+ 
+413	 Food, Beverage and Tobacco Wholesaler-Distributors CAN
+ 
+4131	 Food Wholesaler-Distributors CAN
+41311	 General-Line Food Wholesaler-Distributors CAN
+413110	 General-Line Food Wholesaler-Distributors CAN
+41312	 Dairy and Milk Products Wholesaler-Distributors CAN
+413120	 Dairy and Milk Products Wholesaler-Distributors CAN
+41313	 Poultry and Egg Wholesaler-Distributors CAN
+413130	 Poultry and Egg Wholesaler-Distributors CAN
+41314	 Fish and Seafood Product Wholesaler-Distributors CAN
+413140	 Fish and Seafood Product Wholesaler-Distributors CAN
+41315	 Fresh Fruit and Vegetable Wholesaler-Distributors CAN
+413150	 Fresh Fruit and Vegetable Wholesaler-Distributors CAN
+41316	 Red Meat and Meat Product Wholesaler-Distributors CAN
+413160	 Red Meat and Meat Product Wholesaler-Distributors CAN
+41319	 Other Specialty-Line Food Wholesaler-Distributors CAN
+413190	 Other Specialty-Line Food Wholesaler-Distributors CAN
+ 
+4132	 Beverage Wholesaler-Distributors CAN
+41321	 Non-Alcoholic Beverage Wholesaler-Distributors CAN
+413210	 Non-Alcoholic Beverage Wholesaler-Distributors CAN
+41322	 Alcoholic Beverage Wholesaler-Distributors CAN
+413220	 Alcoholic Beverage Wholesaler-Distributors CAN
+ 
+4133	 Cigarette and Tobacco Product Wholesaler-Distributors CAN
+41331	 Cigarette and Tobacco Product Wholesaler-Distributors CAN
+413310	 Cigarette and Tobacco Product Wholesaler-Distributors CAN
+ 
+414	 Personal and Household Goods Wholesaler-Distributors CAN
+ 
+4141	 Textile, Clothing and Footwear Wholesaler-Distributors CAN
+41411	 Clothing and Clothing Accessories Wholesaler-Distributors CAN
+414110	 Clothing and Clothing Accessories Wholesaler-Distributors CAN
+41412	 Footwear Wholesaler-Distributors CAN
+414120	 Footwear Wholesaler-Distributors CAN
+41413	 Piece Goods, Notions and Other Dry Goods Wholesaler-Distributors CAN
+414130	 Piece Goods, Notions and Other Dry Goods Wholesaler-Distributors CAN
+ 
+4142	 Home Entertainment Equipment and Household Appliance Wholesaler-Distributors CAN
+41421	 Home Entertainment Equipment Wholesaler-Distributors CAN
+414210	 Home Entertainment Equipment Wholesaler-Distributors CAN
+41422	 Household Appliance Wholesaler-Distributors CAN
+414220	 Household Appliance Wholesaler-Distributors CAN
+ 
+4143	 Home Furnishings Wholesaler-Distributors CAN
+41431	 China, Glassware, Crockery and Pottery Wholesaler-Distributors CAN
+414310	 China, Glassware, Crockery and Pottery Wholesaler-Distributors CAN
+41432	 Floor Covering Wholesaler-Distributors CAN
+414320	 Floor Covering Wholesaler-Distributors CAN
+41433	 Linen, Drapery and Other Textile Furnishings Wholesaler-Distributors CAN
+414330	 Linen, Drapery and Other Textile Furnishings Wholesaler-Distributors CAN
+41439	 Other Home Furnishings Wholesaler-Distributors CAN
+414390	 Other Home Furnishings Wholesaler-Distributors CAN
+ 
+4144	 Personal Goods Wholesaler-Distributors CAN
+41441	 Jewellery and Watch Wholesaler-Distributors CAN
+414410	 Jewellery and Watch Wholesaler-Distributors CAN
+41442	 Book, Periodical and Newspaper Wholesaler-Distributors CAN
+414420	 Book, Periodical and Newspaper Wholesaler-Distributors CAN
+41443	 Photographic Equipment and Supplies Wholesaler-Distributors CAN
+414430	 Photographic Equipment and Supplies Wholesaler-Distributors CAN
+41444	 Sound Recording Wholesalers CAN
+414440	 Sound Recording Wholesalers CAN
+41445	 Video Cassette Wholesalers CAN
+414450	 Video Cassette Wholesalers CAN
+41446	 Toy and Hobby Goods Wholesaler-Distributors CAN
+414460	 Toy and Hobby Goods Wholesaler-Distributors CAN
+41447	 Amusement and Sporting Goods Wholesaler-Distributors CAN
+414470	 Amusement and Sporting Goods Wholesaler-Distributors CAN
+ 
+4145	 Pharmaceuticals, Toiletries, Cosmetics and Sundries Wholesaler-Distributors CAN
+41451	 Pharmaceuticals and Pharmacy Supplies Wholesaler-Distributors CAN
+414510	 Pharmaceuticals and Pharmacy Supplies Wholesaler-Distributors CAN
+41452	 Toiletries, Cosmetics and Sundries Wholesaler-Distributors CAN
+414520	 Toiletries, Cosmetics and Sundries Wholesaler-Distributors CAN
+ 
+415	 Motor Vehicle and Parts Wholesaler-Distributors CAN
+ 
+4151	 Motor Vehicle Wholesaler-Distributors CAN
+41511	 New and Used Automobile and Light-Duty Truck Wholesaler-Distributors CAN
+415110	 New and Used Automobile and Light-Duty Truck Wholesaler-Distributors CAN
+41512	 Truck, Truck Tractor and Bus Wholesaler-Distributors CAN
+415120	 Truck, Truck Tractor and Bus Wholesaler-Distributors CAN
+41519	 Recreational and Other Motor Vehicles Wholesaler-Distributors CAN
+415190	 Recreational and Other Motor Vehicles Wholesaler-Distributors CAN
+ 
+4152	 New Motor Vehicle Parts and Accessories Wholesaler-Distributors CAN
+41521	 Tire Wholesaler-Distributors CAN
+415210	 Tire Wholesaler-Distributors CAN
+41529	 Other New Motor Vehicle Parts and Accessories Wholesaler-Distributors CAN
+415290	 Other New Motor Vehicle Parts and Accessories Wholesaler-Distributors CAN
+ 
+4153	 Used Motor Vehicle Parts and Accessories Wholesaler-Distributors CAN
+41531	 Used Motor Vehicle Parts and Accessories Wholesaler-Distributors CAN
+415310	 Used Motor Vehicle Parts and Accessories Wholesaler-Distributors CAN
+ 
+416	 Building Material and Supplies Wholesaler-Distributors CAN
+ 
+4161	 Electrical, Plumbing, Heating and Air-Conditioning Equipment and Supplies Wholesaler-Distributors CAN
+41611	 Electrical Wiring and Construction Supplies Wholesaler-Distributors CAN
+416110	 Electrical Wiring and Construction Supplies Wholesaler-Distributors CAN
+41612	 Plumbing, Heating and Air-Conditioning Equipment and Supplies Wholesaler-Distributors CAN
+416120	 Plumbing, Heating and Air-Conditioning Equipment and Supplies Wholesaler-Distributors CAN
+ 
+4162	 Metal Service Centres CAN
+41621	 Metal Service Centres CAN
+416210	 Metal Service Centres CAN
+ 
+4163	 Lumber, Millwork, Hardware and Other Building Supplies Wholesaler-Distributors CAN
+41631	 General-Line Building Supplies Wholesaler-Distributors CAN
+416310	 General-Line Building Supplies Wholesaler-Distributors CAN
+41632	 Lumber, Plywood and Millwork Wholesaler-Distributors CAN
+416320	 Lumber, Plywood and Millwork Wholesaler-Distributors CAN
+41633	 Hardware Wholesaler-Distributors CAN
+416330	 Hardware Wholesaler-Distributors CAN
+41634	 Paint, Glass and Wallpaper Wholesaler-Distributors CAN
+416340	 Paint, Glass and Wallpaper Wholesaler-Distributors CAN
+41639	 Other Specialty-Line Building Supplies Wholesaler-Distributors CAN
+416390	 Other Specialty-Line Building Supplies Wholesaler-Distributors CAN
+ 
+417	 Machinery, Equipment and Supplies Wholesaler-Distributors CAN
+ 
+4171	 Farm, Lawn and Garden Machinery and Equipment Wholesaler-Distributors CAN
+41711	 Farm, Lawn and Garden Machinery and Equipment Wholesaler-Distributors CAN
+417110	 Farm, Lawn and Garden Machinery and Equipment Wholesaler-Distributors CAN
+ 
+4172	 Construction, Forestry, Mining, and Industrial Machinery, Equipment and Supplies Wholesaler-Distributors CAN
+41721	 Construction and Forestry Machinery, Equipment and Supplies Wholesaler-Distributors CAN
+417210	 Construction and Forestry Machinery, Equipment and Supplies Wholesaler-Distributors CAN
+41722	 Mining and Oil and Gas Well Machinery, Equipment and Supplies Wholesaler-Distributors CAN
+417220	 Mining and Oil and Gas Well Machinery, Equipment and Supplies Wholesaler-Distributors CAN
+41723	 Industrial Machinery, Equipment and Supplies Wholesaler-Distributors CAN
+417230	 Industrial Machinery, Equipment and Supplies Wholesaler-Distributors CAN
+ 
+4173	 Computer and Communications Equipment and Supplies Wholesaler-Distributors CAN
+41731	 Computer, Computer Peripheral and Pre-Packaged Software Wholesaler-Distributors CAN
+417310	 Computer, Computer Peripheral and Pre-Packaged Software Wholesaler-Distributors CAN
+41732	 Electronic Components, Navigational and Communications Equipment and Supplies Wholesaler-Distributors CAN
+417320	 Electronic Components, Navigational and Communications Equipment and Supplies Wholesaler-Distributors CAN
+ 
+4179	 Other Machinery, Equipment and Supplies Wholesaler-Distributors CAN
+41791	 Office and Store Machinery and Equipment Wholesaler-Distributors CAN
+417910	 Office and Store Machinery and Equipment Wholesaler-Distributors CAN
+41792	 Service Establishment Machinery, Equipment and Supplies Wholesaler-Distributors CAN
+417920	 Service Establishment Machinery, Equipment and Supplies Wholesaler-Distributors CAN
+41793	 Professional Machinery, Equipment and Supplies Wholesaler-Distributors CAN
+417930	 Professional Machinery, Equipment and Supplies Wholesaler-Distributors CAN
+41799	 All Other Machinery, Equipment and Supplies Wholesaler-Distributors CAN
+417990	 All Other Machinery, Equipment and Supplies Wholesaler-Distributors CAN
+ 
+418	 Miscellaneous Wholesaler-Distributors CAN
+ 
+4181	 Recyclable Material Wholesaler-Distributors CAN
+41811	 Recyclable Metal Wholesaler-Distributors CAN
+418110	 Recyclable Metal Wholesaler-Distributors CAN
+41812	 Recyclable Paper and Paperboard Wholesaler-Distributors CAN
+418120	 Recyclable Paper and Paperboard Wholesaler-Distributors CAN
+41819	 Other Recyclable Material Wholesaler-Distributors CAN
+418190	 Other Recyclable Material Wholesaler-Distributors CAN
+ 
+4182	 Paper, Paper Product and Disposable Plastic Product Wholesaler-Distributors CAN
+41821	 Stationery and Office Supplies Wholesaler-Distributors CAN
+418210	 Stationery and Office Supplies Wholesaler-Distributors CAN
+41822	 Other Paper and Disposable Plastic Product Wholesaler-Distributors CAN
+418220	 Other Paper and Disposable Plastic Product Wholesaler-Distributors CAN
+ 
+4183	 Agricultural Supplies Wholesaler-Distributors CAN
+41831	 Agricultural Feed Wholesaler-Distributors CAN
+418310	 Agricultural Feed Wholesaler-Distributors CAN
+41832	 Seed Wholesaler-Distributors CAN
+418320	 Seed Wholesaler-Distributors CAN
+41839	 Agricultural Chemical and Other Farm Supplies Wholesaler-Distributors CAN
+418390	 Agricultural Chemical and Other Farm Supplies Wholesaler-Distributors CAN
+ 
+4184	 Chemical (except Agricultural) and Allied Product Wholesaler-Distributors CAN
+41841	 Chemical (except Agricultural) and Allied Product Wholesaler-Distributors CAN
+418410	 Chemical (except Agricultural) and Allied Product Wholesaler-Distributors CAN
+ 
+4189	 Other Miscellaneous Wholesaler-Distributors CAN
+41891	 Log and Wood Chip Wholesaler-Distributors CAN
+418910	 Log and Wood Chip Wholesaler-Distributors CAN
+41892	 Mineral, Ore and Precious Metal Wholesaler-Distributors CAN
+418920	 Mineral, Ore and Precious Metal Wholesaler-Distributors CAN
+41893	 Second-Hand Goods (except Machinery and Automotive) Wholesaler-Distributors CAN
+418930	 Second-Hand Goods (except Machinery and Automotive) Wholesaler-Distributors CAN
+41899	 All Other Wholesaler-Distributors CAN
+418990	 All Other Wholesaler-Distributors CAN
+ 
+419	 Wholesale Electronic Markets, and Agents and Brokers US
+ 
+4191	 Wholesale Electronic Markets, and Agents and Brokers US
+41911	 Business-to-Business Electronic Markets US
+419110	 Business-to-Business Electronic Markets US
+41912	 Wholesale Trade Agents and Brokers US
+419120	 Wholesale Trade Agents and Brokers US
+
+	 44-45	 Retail Trade
+ 
+441	 Motor Vehicle and Parts Dealers US
+ 
+4411	 Automobile Dealers US
+44111	 New Car Dealers US
+441110	 New Car Dealers US
+44112	 Used Car Dealers US
+441120	 Used Car Dealers US
+ 
+4412	 Other Motor Vehicle Dealers US
+44121	 Recreational Vehicle Dealers US
+441210	 Recreational Vehicle Dealers US
+44122	 Motorcycle, Boat and Other Motor Vehicle Dealers US
+441220	 Motorcycle, Boat and Other Motor Vehicle Dealers CAN
+ 
+4413	 Automotive Parts, Accessories and Tire Stores US
+44131	 Automotive Parts and Accessories Stores US
+441310	 Automotive Parts and Accessories Stores US
+44132	 Tire Dealers US
+441320	 Tire Dealers US
+ 
+442	 Furniture and Home Furnishings Stores US
+ 
+4421	 Furniture Stores US
+44211	 Furniture Stores US
+442110	 Furniture Stores US
+ 
+4422	 Home Furnishings Stores US
+44221	 Floor Covering Stores US
+442210	 Floor Covering Stores US
+44229	 Other Home Furnishings Stores US
+442291	 Window Treatment Stores US
+442292	 Print and Picture Frame Stores CAN
+442298	 All Other Home Furnishings Stores CAN
+ 
+443	 Electronics and Appliance Stores US
+ 
+4431	 Electronics and Appliance Stores US
+44311	 Appliance, Television and Other Electronics Stores US
+443110	 Appliance, Television and Other Electronics Stores CAN
+44312	 Computer and Software Stores US
+443120	 Computer and Software Stores US
+44313	 Camera and Photographic Supplies Stores US
+443130	 Camera and Photographic Supplies Stores US
+ 
+444	 Building Material and Garden Equipment and Supplies Dealers US
+ 
+4441	 Building Material and Supplies Dealers US
+44411	 Home Centres US
+444110	 Home Centres US
+44412	 Paint and Wallpaper Stores US
+444120	 Paint and Wallpaper Stores US
+44413	 Hardware Stores US
+444130	 Hardware Stores US
+44419	 Other Building Material Dealers US
+444190	 Other Building Material Dealers US
+ 
+4442	 Lawn and Garden Equipment and Supplies Stores US
+44421	 Outdoor Power Equipment Stores US
+444210	 Outdoor Power Equipment Stores US
+44422	 Nursery Stores and Garden Centres US
+444220	 Nursery Stores and Garden Centres US
+ 
+445	 Food and Beverage Stores US
+ 
+4451	 Grocery Stores US
+44511	 Supermarkets and Other Grocery (except Convenience) Stores US
+445110	 Supermarkets and Other Grocery (except Convenience) Stores US
+44512	 Convenience Stores US
+445120	 Convenience Stores US
+ 
+4452	 Specialty Food Stores US
+44521	 Meat Markets US
+445210	 Meat Markets US
+44522	 Fish and Seafood Markets US
+445220	 Fish and Seafood Markets US
+44523	 Fruit and Vegetable Markets US
+445230	 Fruit and Vegetable Markets US
+44529	 Other Specialty Food Stores US
+445291	 Baked Goods Stores US
+445292	 Confectionery and Nut Stores US
+445299	 All Other Specialty Food Stores US
+ 
+4453	 Beer, Wine and Liquor Stores US
+44531	 Beer, Wine and Liquor Stores US
+445310	 Beer, Wine and Liquor Stores US
+ 
+446	 Health and Personal Care Stores US
+ 
+4461	 Health and Personal Care Stores US
+44611	 Pharmacies and Drug Stores US
+446110	 Pharmacies and Drug Stores US
+44612	 Cosmetics, Beauty Supplies and Perfume Stores US
+446120	 Cosmetics, Beauty Supplies and Perfume Stores US
+44613	 Optical Goods Stores US
+446130	 Optical Goods Stores US
+44619	 Other Health and Personal Care Stores US
+446191	 Food (Health) Supplement Stores US
+446199	 All Other Health and Personal Care Stores US
+ 
+447	 Gasoline Stations US
+ 
+4471	 Gasoline Stations US
+44711	 Gasoline Stations with Convenience Stores US
+447110	 Gasoline Stations with Convenience Stores US
+44719	 Other Gasoline Stations US
+447190	 Other Gasoline Stations US
+ 
+448	 Clothing and Clothing Accessories Stores US
+ 
+4481	 Clothing Stores US
+44811	 Men's Clothing Stores US
+448110	 Men's Clothing Stores US
+44812	 Women's Clothing Stores US
+448120	 Women's Clothing Stores US
+44813	 Children's and Infants' Clothing Stores US
+448130	 Children's and Infants' Clothing Stores US
+44814	 Family Clothing Stores US
+448140	 Family Clothing Stores US
+44815	 Clothing Accessories Stores US
+448150	 Clothing Accessories Stores US
+44819	 Other Clothing Stores US
+448191	 Fur Stores CAN
+448199	 All Other Clothing Stores CAN
+ 
+4482	 Shoe Stores US
+44821	 Shoe Stores US
+448210	 Shoe Stores US
+ 
+4483	 Jewellery, Luggage and Leather Goods Stores US
+44831	 Jewellery Stores US
+448310	 Jewellery Stores US
+44832	 Luggage and Leather Goods Stores US
+448320	 Luggage and Leather Goods Stores US
+ 
+451	 Sporting Goods, Hobby, Book and Music Stores US
+ 
+4511	 Sporting Goods, Hobby and Musical Instrument Stores US
+45111	 Sporting Goods Stores US
+451110	 Sporting Goods Stores US
+45112	 Hobby, Toy and Game Stores US
+451120	 Hobby, Toy and Game Stores US
+45113	 Sewing, Needlework and Piece Goods Stores US
+451130	 Sewing, Needlework and Piece Goods Stores US
+45114	 Musical Instrument and Supplies Stores US
+451140	 Musical Instrument and Supplies Stores US
+ 
+4512	 Book, Periodical and Music Stores US
+45121	 Book Stores and News Dealers US
+451210	 Book Stores and News Dealers CAN
+45122	 Pre-Recorded Tape, Compact Disc and Record Stores US
+451220	 Pre-Recorded Tape, Compact Disc and Record Stores US
+ 
+452	 General Merchandise Stores US
+ 
+4521	 Department Stores US
+45211	 Department Stores US
+452110	 Department Stores CAN
+ 
+4529	 Other General Merchandise Stores US
+45291	 Warehouse Clubs and Superstores US
+452910	 Warehouse Clubs and Superstores US
+45299	 All Other General Merchandise Stores US
+452991	 Home and Auto Supplies Stores CAN
+452999	 All Other Miscellaneous General Merchandise Stores CAN
+ 
+453	 Miscellaneous Store Retailers US
+ 
+4531	 Florists US
+45311	 Florists US
+453110	 Florists US
+ 
+4532	 Office Supplies, Stationery and Gift Stores US
+45321	 Office Supplies and Stationery Stores US
+453210	 Office Supplies and Stationery Stores US
+45322	 Gift, Novelty and Souvenir Stores US
+453220	 Gift, Novelty and Souvenir Stores US
+ 
+4533	 Used Merchandise Stores US
+45331	 Used Merchandise Stores US
+453310	 Used Merchandise Stores US
+ 
+4539	 Other Miscellaneous Store Retailers US
+45391	 Pet and Pet Supplies Stores US
+453910	 Pet and Pet Supplies Stores US
+45392	 Art Dealers US
+453920	 Art Dealers US
+45393	 Mobile Home Dealers US
+453930	 Mobile Home Dealers US
+45399	 All Other Miscellaneous Store Retailers US
+453992	 Beer and Wine-Making Supplies Stores CAN
+453999	 All Other Miscellaneous Store Retailers (except Beer and Wine-Making Supplies Stores) CAN
+ 
+454	 Non-Store Retailers US
+ 
+4541	 Electronic Shopping and Mail-Order Houses US
+45411	 Electronic Shopping and Mail-Order Houses US
+454111	 Internet Shopping US
+454112	 Electronic Auctions US
+454113	 Mail-Order Houses US
+ 
+4542	 Vending Machine Operators US
+45421	 Vending Machine Operators US
+454210	 Vending Machine Operators US
+ 
+4543	 Direct Selling Establishments US
+45431	 Fuel Dealers US
+454311	 Heating Oil Dealers US
+454312	 Liquefied Petroleum Gas (Bottled Gas) Dealers US
+454319	 Other Fuel Dealers US
+45439	 Other Direct Selling Establishments US
+454390	 Other Direct Selling Establishments US
