@@ -1,0 +1,2076 @@
+level,code,name,notes
+2,11,"Agriculture, Forestry, Fishing and Hunting",""
+3,111,Crop Production,""
+4,1111,Oilseed and Grain Farming,""
+5,11111,Soybean Farming,""
+6,111110,Soybean Farming,""
+5,11112,Oilseed (except Soybean) Farming,""
+6,111120,Oilseed (except Soybean) Farming ,US
+5,11113,Dry Pea and Bean Farming,""
+6,111130,Dry Pea and Bean Farming ,US
+5,11114,Wheat Farming,""
+6,111140,Wheat Farming,""
+5,11115,Corn Farming,""
+6,111150,Corn Farming ,US
+5,11116,Rice Farming,""
+6,111160,Rice Farming,""
+5,11119,Other Grain Farming,""
+6,111190,Other Grain Farming ,CAN
+4,1112,Vegetable and Melon Farming,""
+5,11121,Vegetable and Melon Farming,""
+6,111211,Potato Farming ,US
+6,111219,Other Vegetable (except Potato) and Melon Farming ,US
+4,1113,Fruit and Tree Nut Farming,""
+5,11131,Orange Groves,""
+6,111310,Orange Groves,""
+5,11132,Citrus (except Orange) Groves,""
+6,111320,Citrus (except Orange) Groves ,US
+5,11133,Non-Citrus Fruit and Tree Nut Farming,""
+6,111330,Non-Citrus Fruit and Tree Nut Farming ,CAN
+4,1114,"Greenhouse, Nursery and Floriculture Production",""
+5,11141,Food Crops Grown Under Cover,""
+6,111411,Mushroom Production ,US
+6,111419,Other Food Crops Grown Under Cover ,US
+5,11142,Nursery and Floriculture Production,""
+6,111421,Nursery and Tree Production ,US
+6,111422,Floriculture Production ,US
+4,1119,Other Crop Farming,""
+5,11191,Tobacco Farming,""
+6,111910,Tobacco Farming,""
+5,11192,Cotton Farming,""
+6,111920,Cotton Farming,""
+5,11193,Sugar Cane Farming,""
+6,111930,Sugar Cane Farming,""
+5,11194,Hay Farming,""
+6,111940,Hay Farming ,US
+5,11199,All Other Crop Farming,""
+6,111993,Fruit and Vegetable Combination Farming ,CAN
+6,111994,Maple Syrup and Products Production ,CAN
+6,111999,All Other Miscellaneous Crop Farming ,CAN
+3,112,Animal Production,""
+4,1121,Cattle Ranching and Farming,""
+5,11211,"Beef Cattle Ranching and Farming, including Feedlots",""
+6,112110,"Beef Cattle Ranching and Farming, including Feedlots ",CAN
+5,11212,Dairy Cattle and Milk Production,""
+6,112120,Dairy Cattle and Milk Production,""
+4,1122,Hog and Pig Farming,""
+5,11221,Hog and Pig Farming,""
+6,112210,Hog and Pig Farming ,US
+4,1123,Poultry and Egg Production,""
+5,11231,Chicken Egg Production,""
+6,112310,Chicken Egg Production ,US
+5,11232,Broiler and Other Meat-Type Chicken Production,""
+6,112320,Broiler and Other Meat-Type Chicken Production,""
+5,11233,Turkey Production,""
+6,112330,Turkey Production,""
+5,11234,Poultry Hatcheries,""
+6,112340,Poultry Hatcheries,""
+5,11239,Other Poultry Production,""
+6,112391,Combination Poultry and Egg Production ,CAN
+6,112399,All Other Poultry Production ,CAN
+4,1124,Sheep and Goat Farming,""
+5,11241,Sheep Farming,""
+6,112410,Sheep Farming ,US
+5,11242,Goat Farming,""
+6,112420,Goat Farming,""
+4,1125,Aquaculture,""
+5,11251,Aquaculture,""
+6,112510,Aquaculture ,CAN
+4,1129,Other Animal Production,""
+5,11291,Apiculture,""
+6,112910,Apiculture,""
+5,11292,Horse and Other Equine Production,""
+6,112920,Horse and Other Equine Production,""
+5,11293,Fur-Bearing Animal and Rabbit Production,""
+6,112930,Fur-Bearing Animal and Rabbit Production,""
+5,11299,All Other Animal Production,""
+6,112991,Animal Combination Farming ,CAN
+6,112999,All Other Miscellaneous Animal Production ,CAN
+3,113,Forestry and Logging,""
+4,1131,Timber Tract Operations,""
+5,11311,Timber Tract Operations,""
+6,113110,Timber Tract Operations,""
+4,1132,Forest Nurseries and Gathering of Forest Products,""
+5,11321,Forest Nurseries and Gathering of Forest Products,""
+6,113210,Forest Nurseries and Gathering of Forest Products ,US
+4,1133,Logging,""
+5,11331,Logging,""
+6,113311,Logging (except Contract) ,CAN
+6,113312,Contract Logging ,CAN
+3,114,"Fishing, Hunting and Trapping",""
+4,1141,Fishing,""
+5,11411,Fishing,""
+6,114113,Salt Water Fishing ,CAN
+6,114114,Inland Fishing ,CAN
+4,1142,Hunting and Trapping,""
+5,11421,Hunting and Trapping,""
+6,114210,Hunting and Trapping,""
+3,115,Support Activities for Agriculture and Forestry,""
+4,1151,Support Activities for Crop Production,""
+5,11511,Support Activities for Crop Production,""
+6,115110,Support Activities for Crop Production ,CAN
+4,1152,Support Activities for Animal Production,""
+5,11521,Support Activities for Animal Production,""
+6,115210,Support Activities for Animal Production,""
+4,1153,Support Activities for Forestry,""
+5,11531,Support Activities for Forestry,""
+6,115310,Support Activities for Forestry,""
+2,21,"Mining, Quarrying, and Oil and Gas Extraction",""
+3,211,Oil and Gas Extraction,""
+4,2111,Oil and Gas Extraction,""
+5,21111,Oil and Gas Extraction,""
+6,211113,Conventional Oil and Gas Extraction ,CAN
+6,211114,Non-Conventional Oil Extraction ,CAN
+3,212,Mining and Quarrying (except Oil and Gas),""
+4,2121,Coal Mining,""
+5,21211,Coal Mining,""
+6,212114,Bituminous Coal Mining ,CAN
+6,212115,Subbituminous Coal Mining ,CAN
+6,212116,Lignite Coal Mining ,CAN
+4,2122,Metal Ore Mining,""
+5,21221,Iron Ore Mining,""
+6,212210,Iron Ore Mining,""
+5,21222,Gold and Silver Ore Mining,""
+6,212220,Gold and Silver Ore Mining ,CAN
+5,21223,"Copper, Nickel, Lead and Zinc Ore Mining",""
+6,212231,Lead-Zinc Ore Mining ,US
+6,212232,Nickel-Copper Ore Mining ,CAN
+6,212233,Copper-Zinc Ore Mining ,CAN
+5,21229,Other Metal Ore Mining,""
+6,212291,Uranium Ore Mining ,US
+6,212299,All Other Metal Ore Mining ,US
+4,2123,Non-Metallic Mineral Mining and Quarrying,""
+5,21231,Stone Mining and Quarrying,""
+6,212314,Granite Mining and Quarrying ,CAN
+6,212315,Limestone Mining and Quarrying ,CAN
+6,212316,Marble Mining and Quarrying ,CAN
+6,212317,Sandstone Mining and Quarrying ,CAN
+5,21232,"Sand, Gravel, Clay, and Ceramic and Refractory Minerals Mining and Quarrying",""
+6,212323,Sand and Gravel Mining and Quarrying ,CAN
+6,212326,"Shale, Clay and Refractory Mineral Mining and Quarrying ",CAN
+5,21239,Other Non-Metallic Mineral Mining and Quarrying,""
+6,212392,Diamond Mining ,CAN
+6,212393,Salt Mining ,CAN
+6,212394,Asbestos Mining ,CAN
+6,212395,Gypsum Mining ,CAN
+6,212396,Potash Mining ,CAN
+6,212397,Peat Extraction ,CAN
+6,212398,All Other Non-Metallic Mineral Mining and Quarrying ,CAN
+3,213,Support Activities for Mining and Oil and Gas Extraction,""
+4,2131,Support Activities for Mining and Oil and Gas Extraction,""
+5,21311,Support Activities for Mining and Oil and Gas Extraction,""
+6,213111,Oil and Gas Contract Drilling,""
+6,213117,Contract Drilling (except Oil and Gas) ,CAN
+6,213118,Services to Oil and Gas Extraction ,CAN
+6,213119,Other Support Activities for Mining ,CAN
+2,22,Utilities,""
+3,221,Utilities ,US
+4,2211,"Electric Power Generation, Transmission and Distribution",""
+5,22111,Electric Power Generation ,US
+6,221111,Hydro-Electric Power Generation ,US
+6,221112,Fossil-Fuel Electric Power Generation ,US
+6,221113,Nuclear Electric Power Generation ,US
+6,221119,Other Electric Power Generation ,US
+5,22112,"Electric Power Transmission, Control and Distribution ",US
+6,221121,Electric Bulk Power Transmission and Control ,US
+6,221122,Electric Power Distribution ,US
+4,2212,Natural Gas Distribution ,US
+5,22121,Natural Gas Distribution ,US
+6,221210,Natural Gas Distribution ,US
+4,2213,"Water, Sewage and Other Systems ",US
+5,22131,Water Supply and Irrigation Systems ,US
+6,221310,Water Supply and Irrigation Systems ,US
+5,22132,Sewage Treatment Facilities ,US
+6,221320,Sewage Treatment Facilities ,US
+5,22133,Steam and Air-Conditioning Supply ,US
+6,221330,Steam and Air-Conditioning Supply ,US
+2,23,Construction,""
+3,236,Construction of Buildings,""
+4,2361,Residential Building Construction,""
+5,23611,Residential Building Construction,""
+6,236110,Residential Building Construction ,CAN
+4,2362,Non-residential Building Construction,""
+5,23621,Industrial Building and Structure Construction,""
+6,236210,Industrial Building and Structure Construction ,US
+5,23622,Commercial and Institutional Building Construction,""
+6,236220,Commercial and Institutional Building Construction ,US
+3,237,Heavy and Civil Engineering Construction,""
+4,2371,Utility System Construction,""
+5,23711,Water and Sewer Line and Related Structures Construction,""
+6,237110,Water and Sewer Line and Related Structures Construction ,US
+5,23712,Oil and Gas Pipeline and Related Structures Construction,""
+6,237120,Oil and Gas Pipeline and Related Structures Construction ,US
+5,23713,Power and Communication Line and Related Structures Construction,""
+6,237130,Power and Communication Line and Related Structures Construction ,US
+4,2372,Land Subdivision,""
+5,23721,Land Subdivision,""
+6,237210,Land Subdivision ,US
+4,2373,"Highway, Street and Bridge Construction",""
+5,23731,"Highway, Street and Bridge Construction",""
+6,237310,"Highway, Street and Bridge Construction ",US
+4,2379,Other Heavy and Civil Engineering Construction,""
+5,23799,Other Heavy and Civil Engineering Construction,""
+6,237990,Other Heavy and Civil Engineering Construction ,US
+3,238,Specialty Trade Contractors,""
+4,2381,"Foundation, Structure, and Building Exterior Contractors",""
+5,23811,Poured Concrete Foundation and Structure Contractors,""
+6,238110,Poured Concrete Foundation and Structure Contractors,""
+5,23812,Structural Steel and Precast Concrete Contractors,""
+6,238120,Structural Steel and Precast Concrete Contractors ,US
+5,23813,Framing Contractors ,US
+6,238130,Framing Contractors ,US
+5,23814,Masonry Contractors ,US
+6,238140,Masonry Contractors ,US
+5,23815,Glass and Glazing Contractors ,US
+6,238150,Glass and Glazing Contractors ,US
+5,23816,Roofing Contractors ,US
+6,238160,Roofing Contractors ,US
+5,23817,Siding Contractors ,US
+6,238170,Siding Contractors ,US
+5,23819,"Other Foundation, Structure and Building Exterior Contractors ",US
+6,238190,"Other Foundation, Structure and Building Exterior Contractors ",US
+4,2382,Building Equipment Contractors,""
+5,23821,Electrical Contractors and Other Wiring Installation Contractors,""
+6,238210,Electrical Contractors and Other Wiring Installation Contractors,""
+5,23822,"Plumbing, Heating and Air-Conditioning Contractors",""
+6,238220,"Plumbing, Heating and Air-Conditioning Contractors ",US
+5,23829,Other Building Equipment Contractors,""
+6,238291,Elevator and Escalator Installation Contractors ,CAN
+6,238299,All Other Building Equipment Contractors ,CAN
+4,2383,Building Finishing Contractors,""
+5,23831,Drywall and Insulation Contractors,""
+6,238310,Drywall and Insulation Contractors ,US
+5,23832,Painting and Wall Covering Contractors,""
+6,238320,Painting and Wall Covering Contractors,""
+5,23833,Flooring Contractors,""
+6,238330,Flooring Contractors,""
+5,23834,Tile and Terrazzo Contractors,""
+6,238340,Tile and Terrazzo Contractors,""
+5,23835,Finish Carpentry Contractors,""
+6,238350,Finish Carpentry Contractors,""
+5,23839,Other Building Finishing Contractors,""
+6,238390,Other Building Finishing Contractors,""
+4,2389,Other Specialty Trade Contractors,""
+5,23891,Site Preparation Contractors,""
+6,238910,Site Preparation Contractors,""
+5,23899,All Other Specialty Trade Contractors,""
+6,238990,All Other Specialty Trade Contractors ,US
+5,31,Manufacturing,""
+3,311,Food Manufacturing,""
+4,3111,Animal Food Manufacturing,""
+5,31111,Animal Food Manufacturing,""
+6,311111,Dog and Cat Food Manufacturing ,US
+6,311119,Other Animal Food Manufacturing ,US
+4,3112,Grain and Oilseed Milling,""
+5,31121,Flour Milling and Malt Manufacturing,""
+6,311211,Flour Milling ,US
+6,311214,Rice Milling and Malt Manufacturing ,CAN
+5,31122,Starch and Vegetable Fat and Oil Manufacturing,""
+6,311221,Wet Corn Milling ,US
+6,311224,Oilseed Processing ,CAN
+6,311225,Fat and Oil Refining and Blending ,US
+5,31123,Breakfast Cereal Manufacturing,""
+6,311230,Breakfast Cereal Manufacturing,""
+4,3113,Sugar and Confectionery Product Manufacturing,""
+5,31131,Sugar Manufacturing,""
+6,311310,Sugar Manufacturing ,CAN
+5,31132,Chocolate and Confectionery Manufacturing from Cacao Beans,""
+6,311320,Chocolate and Confectionery Manufacturing from Cacao Beans,""
+5,31133,Confectionery Manufacturing from Purchased Chocolate,""
+6,311330,Confectionery Manufacturing from Purchased Chocolate,""
+5,31134,Non-Chocolate Confectionery Manufacturing,""
+6,311340,Non-Chocolate Confectionery Manufacturing,""
+4,3114,Fruit and Vegetable Preserving and Specialty Food Manufacturing,""
+5,31141,Frozen Food Manufacturing,""
+6,311410,Frozen Food Manufacturing ,CAN
+5,31142,"Fruit and Vegetable Canning, Pickling and Drying",""
+6,311420,"Fruit and Vegetable Canning, Pickling and Drying ",CAN
+4,3115,Dairy Product Manufacturing,""
+5,31151,Dairy Product (except Frozen) Manufacturing,""
+6,311511,Fluid Milk Manufacturing ,US
+6,311515,"Butter, Cheese, and Dry and Condensed Dairy Product Manufacturing ",CAN
+5,31152,Ice Cream and Frozen Dessert Manufacturing,""
+6,311520,Ice Cream and Frozen Dessert Manufacturing,""
+4,3116,Meat Product Manufacturing,""
+5,31161,Animal Slaughtering and Processing,""
+6,311611,Animal (except Poultry) Slaughtering ,US
+6,311614,Rendering and Meat Processing from Carcasses ,CAN
+6,311615,Poultry Processing ,US
+4,3117,Seafood Product Preparation and Packaging,""
+5,31171,Seafood Product Preparation and Packaging,""
+6,311710,Seafood Product Preparation and Packaging ,MEX
+4,3118,Bakeries and Tortilla Manufacturing,""
+5,31181,Bread and Bakery Product Manufacturing,""
+6,311811,Retail Bakeries ,US
+6,311814,Commercial Bakeries and Frozen Bakery Product Manufacturing ,CAN
+5,31182,"Cookie, Cracker and Pasta Manufacturing",""
+6,311821,Cookie and Cracker Manufacturing ,US
+6,311822,Flour Mixes and Dough Manufacturing from Purchased Flour ,US
+6,311823,Dry Pasta Manufacturing ,US
+5,31183,Tortilla Manufacturing,""
+6,311830,Tortilla Manufacturing,""
+4,3119,Other Food Manufacturing,""
+5,31191,Snack Food Manufacturing,""
+6,311911,Roasted Nut and Peanut Butter Manufacturing ,US
+6,311919,Other Snack Food Manufacturing ,US
+5,31192,Coffee and Tea Manufacturing,""
+6,311920,Coffee and Tea Manufacturing ,US
+5,31193,Flavouring Syrup and Concentrate Manufacturing,""
+6,311930,Flavouring Syrup and Concentrate Manufacturing,""
+5,31194,Seasoning and Dressing Manufacturing,""
+6,311940,Seasoning and Dressing Manufacturing ,MEX
+5,31199,All Other Food Manufacturing,""
+6,311990,All Other Food Manufacturing ,CAN
+3,312,Beverage and Tobacco Product Manufacturing,""
+4,3121,Beverage Manufacturing,""
+5,31211,Soft Drink and Ice Manufacturing,""
+6,312110,Soft Drink and Ice Manufacturing ,CAN
+5,31212,Breweries,""
+6,312120,Breweries,""
+5,31213,Wineries,""
+6,312130,Wineries ,US
+5,31214,Distilleries,""
+6,312140,Distilleries ,US
+4,3122,Tobacco Manufacturing,""
+5,31221,Tobacco Stemming and Redrying,""
+6,312210,Tobacco Stemming and Redrying,""
+5,31222,Tobacco Product Manufacturing,""
+6,312220,Tobacco Product Manufacturing ,CAN
+3,313,Textile Mills,""
+4,3131,"Fibre, Yarn and Thread Mills",""
+5,31311,"Fibre, Yarn and Thread Mills",""
+6,313110,"Fibre, Yarn and Thread Mills ",CAN
+4,3132,Fabric Mills,""
+5,31321,Broad-Woven Fabric Mills,""
+6,313210,Broad-Woven Fabric Mills,""
+5,31322,Narrow Fabric Mills and Schiffli Machine Embroidery,""
+6,313220,Narrow Fabric Mills and Schiffli Machine Embroidery ,MEX
+5,31323,Nonwoven Fabric Mills,""
+6,313230,Nonwoven Fabric Mills,""
+5,31324,Knit Fabric Mills,""
+6,313240,Knit Fabric Mills ,MEX
+4,3133,Textile and Fabric Finishing and Fabric Coating,""
+5,31331,Textile and Fabric Finishing,""
+6,313310,Textile and Fabric Finishing ,CAN
+5,31332,Fabric Coating,""
+6,313320,Fabric Coating,""
+3,314,Textile Product Mills,""
+4,3141,Textile Furnishings Mills,""
+5,31411,Carpet and Rug Mills,""
+6,314110,Carpet and Rug Mills,""
+5,31412,Curtain and Linen Mills,""
+6,314120,Curtain and Linen Mills ,MEX
+4,3149,Other Textile Product Mills,""
+5,31491,Textile Bag and Canvas Mills,""
+6,314910,Textile Bag and Canvas Mills ,CAN
+5,31499,All Other Textile Product Mills,""
+6,314990,All Other Textile Product Mills ,CAN
+3,315,Clothing Manufacturing,""
+4,3151,Clothing Knitting Mills,""
+5,31511,Hosiery and Sock Mills,""
+6,315110,Hosiery and Sock Mills ,MEX
+5,31519,Other Clothing Knitting Mills,""
+6,315190,Other Clothing Knitting Mills ,CAN
+4,3152,Cut and Sew Clothing Manufacturing,""
+5,31521,Cut and Sew Clothing Contracting ,US
+6,315210,Cut and Sew Clothing Contracting ,CAN
+5,31522,Men's and Boys' Cut and Sew Clothing Manufacturing ,US
+6,315221,Men's and Boys' Cut and Sew Underwear and Nightwear Manufacturing ,US
+6,315222,"Men's and Boys' Cut and Sew Suit, Coat and Overcoat Manufacturing ",US
+6,315226,Men's and Boys' Cut and Sew Shirt Manufacturing ,CAN
+6,315227,"Men's and Boys' Cut and Sew Trouser, Slack and Jean Manufacturing ",CAN
+6,315229,Other Men's and Boys' Cut and Sew Clothing Manufacturing ,CAN
+5,31523,Women's and Girls' Cut and Sew Clothing Manufacturing ,US
+6,315231,"Women's and Girls' Cut and Sew Lingerie, Loungewear and Nightwear Manufacturing ",US
+6,315232,Women's and Girls' Cut and Sew Blouse and Shirt Manufacturing ,US
+6,315233,Women's and Girls' Cut and Sew Dress Manufacturing ,US
+6,315234,"Women's and Girls' Cut and Sew Suit, Coat, Tailored Jacket and Skirt Manufacturing ",US
+6,315239,Other Women's and Girls' Cut and Sew Clothing Manufacturing ,US
+5,31529,Other Cut and Sew Clothing Manufacturing ,US
+6,315291,Infants' Cut and Sew Clothing Manufacturing ,US
+6,315292,Fur and Leather Clothing Manufacturing ,US
+6,315299,All Other Cut and Sew Clothing Manufacturing ,US
+4,3159,Clothing Accessories and Other Clothing Manufacturing,""
+5,31599,Clothing Accessories and Other Clothing Manufacturing,""
+6,315990,Clothing Accessories and Other Clothing Manufacturing ,CAN
+3,316,Leather and Allied Product Manufacturing,""
+4,3161,Leather and Hide Tanning and Finishing,""
+5,31611,Leather and Hide Tanning and Finishing,""
+6,316110,Leather and Hide Tanning and Finishing,""
+4,3162,Footwear Manufacturing,""
+5,31621,Footwear Manufacturing,""
+6,316210,Footwear Manufacturing ,CAN
+4,3169,Other Leather and Allied Product Manufacturing,""
+5,31699,Other Leather and Allied Product Manufacturing,""
+6,316990,Other Leather and Allied Product Manufacturing ,CAN
+3,321,Wood Product Manufacturing,""
+4,3211,Sawmills and Wood Preservation,""
+5,32111,Sawmills and Wood Preservation,""
+6,321111,Sawmills (except Shingle and Shake Mills) ,MEX
+6,321112,Shingle and Shake Mills ,MEX
+6,321114,Wood Preservation ,US
+4,3212,"Veneer, Plywood and Engineered Wood Product Manufacturing",""
+5,32121,"Veneer, Plywood and Engineered Wood Product Manufacturing",""
+6,321211,Hardwood Veneer and Plywood Mills ,US
+6,321212,Softwood Veneer and Plywood Mills ,US
+6,321215,Structural Wood Product Manufacturing ,CAN
+6,321216,Particle Board and Fibreboard Mills ,CAN
+6,321217,Waferboard Mills ,CAN
+4,3219,Other Wood Product Manufacturing,""
+5,32191,Millwork,""
+6,321911,Wood Window and Door Manufacturing ,US
+6,321919,Other Millwork ,CAN
+5,32192,Wood Container and Pallet Manufacturing,""
+6,321920,Wood Container and Pallet Manufacturing,""
+5,32199,All Other Wood Product Manufacturing,""
+6,321991,Manufactured (Mobile) Home Manufacturing ,US
+6,321992,Prefabricated Wood Building Manufacturing ,US
+6,321999,All Other Miscellaneous Wood Product Manufacturing ,US
+3,322,Paper Manufacturing,""
+4,3221,"Pulp, Paper and Paperboard Mills",""
+5,32211,Pulp Mills,""
+6,322111,Mechanical Pulp Mills ,CAN
+6,322112,Chemical Pulp Mills ,CAN
+5,32212,Paper Mills,""
+6,322121,Paper (except Newsprint) Mills ,US
+6,322122,Newsprint Mills ,US
+5,32213,Paperboard Mills,""
+6,322130,Paperboard Mills ,US
+4,3222,Converted Paper Product Manufacturing,""
+5,32221,Paperboard Container Manufacturing,""
+6,322211,Corrugated and Solid Fibre Box Manufacturing ,US
+6,322212,Folding Paperboard Box Manufacturing ,US
+6,322219,Other Paperboard Container Manufacturing ,CAN
+5,32222,Paper Bag and Coated and Treated Paper Manufacturing,""
+6,322220,Paper Bag and Coated and Treated Paper Manufacturing ,MEX
+5,32223,Stationery Product Manufacturing,""
+6,322230,Stationery Product Manufacturing ,MEX
+5,32229,Other Converted Paper Product Manufacturing,""
+6,322291,Sanitary Paper Product Manufacturing ,US
+6,322299,All Other Converted Paper Product Manufacturing ,US
+3,323,Printing and Related Support Activities,""
+4,3231,Printing and Related Support Activities,""
+5,32311,Printing,""
+6,323113,Commercial Screen Printing ,US
+6,323114,Quick Printing ,US
+6,323115,Digital Printing ,US
+6,323116,Manifold Business Forms Printing ,US
+6,323119,Other Printing ,CAN
+5,32312,Support Activities for Printing,""
+6,323120,Support Activities for Printing ,MEX
+3,324,Petroleum and Coal Product Manufacturing,""
+4,3241,Petroleum and Coal Product Manufacturing,""
+5,32411,Petroleum Refineries,""
+6,324110,Petroleum Refineries,""
+5,32412,"Asphalt Paving, Roofing and Saturated Materials Manufacturing",""
+6,324121,Asphalt Paving Mixture and Block Manufacturing ,US
+6,324122,Asphalt Shingle and Coating Material Manufacturing ,US
+5,32419,Other Petroleum and Coal Product Manufacturing,""
+6,324190,Other Petroleum and Coal Product Manufacturing ,CAN
+3,325,Chemical Manufacturing,""
+4,3251,Basic Chemical Manufacturing,""
+5,32511,Petrochemical Manufacturing,""
+6,325110,Petrochemical Manufacturing,""
+5,32512,Industrial Gas Manufacturing,""
+6,325120,Industrial Gas Manufacturing,""
+5,32513,Synthetic Dye and Pigment Manufacturing,""
+6,325130,Synthetic Dye and Pigment Manufacturing ,MEX
+5,32518,Other Basic Inorganic Chemical Manufacturing,""
+6,325181,Alkali and Chlorine Manufacturing ,US
+6,325189,All Other Basic Inorganic Chemical Manufacturing ,CAN
+5,32519,Other Basic Organic Chemical Manufacturing,""
+6,325190,Other Basic Organic Chemical Manufacturing ,MEX
+4,3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibres and Filaments Manufacturing",""
+5,32521,Resin and Synthetic Rubber Manufacturing,""
+6,325210,Resin and Synthetic Rubber Manufacturing ,CAN
+5,32522,Artificial and Synthetic Fibres and Filaments Manufacturing,""
+6,325220,Artificial and Synthetic Fibres and Filaments Manufacturing ,MEX
+4,3253,"Pesticide, Fertilizer and Other Agricultural Chemical Manufacturing",""
+5,32531,Fertilizer Manufacturing,""
+6,325313,Chemical Fertilizer (except Potash) Manufacturing ,CAN
+6,325314,Mixed Fertilizer Manufacturing ,US
+5,32532,Pesticide and Other Agricultural Chemical Manufacturing,""
+6,325320,Pesticide and Other Agricultural Chemical Manufacturing,""
+4,3254,Pharmaceutical and Medicine Manufacturing,""
+5,32541,Pharmaceutical and Medicine Manufacturing,""
+6,325410,Pharmaceutical and Medicine Manufacturing ,CAN
+4,3255,"Paint, Coating and Adhesive Manufacturing",""
+5,32551,Paint and Coating Manufacturing,""
+6,325510,Paint and Coating Manufacturing,""
+5,32552,Adhesive Manufacturing,""
+6,325520,Adhesive Manufacturing,""
+4,3256,"Soap, Cleaning Compound and Toilet Preparation Manufacturing",""
+5,32561,Soap and Cleaning Compound Manufacturing,""
+6,325610,Soap and Cleaning Compound Manufacturing ,MEX
+5,32562,Toilet Preparation Manufacturing,""
+6,325620,Toilet Preparation Manufacturing,""
+4,3259,Other Chemical Product Manufacturing,""
+5,32591,Printing Ink Manufacturing,""
+6,325910,Printing Ink Manufacturing,""
+5,32592,Explosives Manufacturing,""
+6,325920,Explosives Manufacturing,""
+5,32599,All Other Chemical Product Manufacturing,""
+6,325991,Custom Compounding of Purchased Resins ,US
+6,325999,All Other Miscellaneous Chemical Product Manufacturing ,CAN
+3,326,Plastics and Rubber Products Manufacturing,""
+4,3261,Plastic Product Manufacturing,""
+5,32611,Plastic Packaging Materials and Unlaminated Film and Sheet Manufacturing,""
+6,326111,Plastic Bag and Pouch Manufacturing ,US
+6,326114,Plastic Film and Sheet Manufacturing ,CAN
+5,32612,"Plastic Pipe, Pipe Fitting, and Unlaminated Profile Shape Manufacturing",""
+6,326121,Unlaminated Plastic Profile Shape Manufacturing ,US
+6,326122,Plastic Pipe and Pipe Fitting Manufacturing ,US
+5,32613,"Laminated Plastic Plate, Sheet (except Packaging), and Shape Manufacturing",""
+6,326130,"Laminated Plastic Plate, Sheet (except Packaging), and Shape Manufacturing",""
+5,32614,Polystyrene Foam Product Manufacturing,""
+6,326140,Polystyrene Foam Product Manufacturing,""
+5,32615,Urethane and Other Foam Product (except Polystyrene) Manufacturing,""
+6,326150,Urethane and Other Foam Product (except Polystyrene) Manufacturing,""
+5,32616,Plastic Bottle Manufacturing,""
+6,326160,Plastic Bottle Manufacturing,""
+5,32619,Other Plastic Product Manufacturing,""
+6,326191,Plastic Plumbing Fixture Manufacturing ,US
+6,326193,Motor Vehicle Plastic Parts Manufacturing ,CAN
+6,326196,Plastic Window and Door Manufacturing ,CAN
+6,326198,All Other Plastic Product Manufacturing ,CAN
+4,3262,Rubber Product Manufacturing,""
+5,32621,Tire Manufacturing,""
+6,326210,Tire Manufacturing ,CAN
+5,32622,Rubber and Plastic Hose and Belting Manufacturing,""
+6,326220,Rubber and Plastic Hose and Belting Manufacturing,""
+5,32629,Other Rubber Product Manufacturing,""
+6,326290,Other Rubber Product Manufacturing ,MEX
+3,327,Non-Metallic Mineral Product Manufacturing,""
+4,3271,Clay Product and Refractory Manufacturing,""
+5,32711,"Pottery, Ceramics and Plumbing Fixture Manufacturing",""
+6,327110,"Pottery, Ceramics and Plumbing Fixture Manufacturing ",CAN
+5,32712,Clay Building Material and Refractory Manufacturing,""
+6,327120,Clay Building Material and Refractory Manufacturing ,CAN
+4,3272,Glass and Glass Product Manufacturing,""
+5,32721,Glass and Glass Product Manufacturing,""
+6,327214,Glass Manufacturing ,CAN
+6,327215,Glass Product Manufacturing from Purchased Glass ,US
+4,3273,Cement and Concrete Product Manufacturing,""
+5,32731,Cement Manufacturing,""
+6,327310,Cement Manufacturing,""
+5,32732,Ready-Mix Concrete Manufacturing,""
+6,327320,Ready-Mix Concrete Manufacturing,""
+5,32733,"Concrete Pipe, Brick and Block Manufacturing",""
+6,327330,"Concrete Pipe, Brick and Block Manufacturing ",MEX
+5,32739,Other Concrete Product Manufacturing,""
+6,327390,Other Concrete Product Manufacturing ,US
+4,3274,Lime and Gypsum Product Manufacturing,""
+5,32741,Lime Manufacturing,""
+6,327410,Lime Manufacturing,""
+5,32742,Gypsum Product Manufacturing,""
+6,327420,Gypsum Product Manufacturing,""
+4,3279,Other Non-Metallic Mineral Product Manufacturing,""
+5,32791,Abrasive Product Manufacturing,""
+6,327910,Abrasive Product Manufacturing,""
+5,32799,All Other Non-Metallic Mineral Product Manufacturing,""
+6,327990,All Other Non-Metallic Mineral Product Manufacturing ,CAN
+3,331,Primary Metal Manufacturing,""
+4,3311,Iron and Steel Mills and Ferro-Alloy Manufacturing,""
+5,33111,Iron and Steel Mills and Ferro-Alloy Manufacturing,""
+6,331110,Iron and Steel Mills and Ferro-Alloy Manufacturing ,CAN
+4,3312,Steel Product Manufacturing from Purchased Steel,""
+5,33121,Iron and Steel Pipes and Tubes Manufacturing from Purchased Steel,""
+6,331210,Iron and Steel Pipes and Tubes Manufacturing from Purchased Steel,""
+5,33122,Rolling and Drawing of Purchased Steel,""
+6,331221,Cold-Rolled Steel Shape Manufacturing ,US
+6,331222,Steel Wire Drawing ,US
+4,3313,Alumina and Aluminum Production and Processing,""
+5,33131,Alumina and Aluminum Production and Processing,""
+6,331313,Primary Production of Alumina and Aluminum ,CAN
+6,331317,"Aluminum Rolling, Drawing, Extruding and Alloying ",CAN
+4,3314,Non-Ferrous Metal (except Aluminum) Production and Processing,""
+5,33141,Non-Ferrous Metal (except Aluminum) Smelting and Refining,""
+6,331410,Non-Ferrous Metal (except Aluminum) Smelting and Refining ,CAN
+5,33142,"Copper Rolling, Drawing, Extruding and Alloying",""
+6,331420,"Copper Rolling, Drawing, Extruding and Alloying ",MEX
+5,33149,"Non-Ferrous Metal (except Copper and Aluminum) Rolling, Drawing, Extruding and Alloying",""
+6,331490,"Non-Ferrous Metal (except Copper and Aluminum) Rolling, Drawing, Extruding and Alloying ",CAN
+4,3315,Foundries,""
+5,33151,Ferrous Metal Foundries,""
+6,331511,Iron Foundries ,US
+6,331514,Steel Foundries ,CAN
+5,33152,Non-Ferrous Metal Foundries,""
+6,331523,Non-Ferrous Die-Casting Foundries ,CAN
+6,331529,Non-Ferrous Foundries (except Die-Casting) ,CAN
+3,332,Fabricated Metal Product Manufacturing,""
+4,3321,Forging and Stamping,""
+5,33211,Forging and Stamping,""
+6,332113,Forging ,CAN
+6,332118,Stamping ,CAN
+4,3322,Cutlery and Hand Tool Manufacturing,""
+5,33221,Cutlery and Hand Tool Manufacturing,""
+6,332210,Cutlery and Hand Tool Manufacturing ,CAN
+4,3323,Architectural and Structural Metals Manufacturing,""
+5,33231,Plate Work and Fabricated Structural Product Manufacturing,""
+6,332311,Prefabricated Metal Building and Component Manufacturing ,US
+6,332314,Concrete Reinforcing Bar Manufacturing ,CAN
+6,332319,Other Plate Work and Fabricated Structural Product Manufacturing ,CAN
+5,33232,Ornamental and Architectural Metal Product Manufacturing,""
+6,332321,Metal Window and Door Manufacturing ,US
+6,332329,Other Ornamental and Architectural Metal Product Manufacturing ,CAN
+4,3324,"Boiler, Tank and Shipping Container Manufacturing",""
+5,33241,Power Boiler and Heat Exchanger Manufacturing,""
+6,332410,Power Boiler and Heat Exchanger Manufacturing,""
+5,33242,Metal Tank (Heavy Gauge) Manufacturing,""
+6,332420,Metal Tank (Heavy Gauge) Manufacturing,""
+5,33243,"Metal Can, Box and Other Metal Container (Light Gauge) Manufacturing",""
+6,332431,Metal Can Manufacturing ,US
+6,332439,Other Metal Container Manufacturing ,US
+4,3325,Hardware Manufacturing,""
+5,33251,Hardware Manufacturing,""
+6,332510,Hardware Manufacturing,""
+4,3326,Spring and Wire Product Manufacturing,""
+5,33261,Spring and Wire Product Manufacturing,""
+6,332611,Spring (Heavy Gauge) Manufacturing ,US
+6,332619,Other Fabricated Wire Product Manufacturing ,CAN
+4,3327,"Machine Shops, Turned Product, and Screw, Nut and Bolt Manufacturing",""
+5,33271,Machine Shops,""
+6,332710,Machine Shops,""
+5,33272,"Turned Product and Screw, Nut and Bolt Manufacturing",""
+6,332720,"Turned Product and Screw, Nut and Bolt Manufacturing ",MEX
+4,3328,"Coating, Engraving, Heat Treating and Allied Activities",""
+5,33281,"Coating, Engraving, Heat Treating and Allied Activities",""
+6,332810,"Coating, Engraving, Heat Treating and Allied Activities ",MEX
+4,3329,Other Fabricated Metal Product Manufacturing,""
+5,33291,Metal Valve Manufacturing,""
+6,332910,Metal Valve Manufacturing ,MEX
+5,33299,All Other Fabricated Metal Product Manufacturing,""
+6,332991,Ball and Roller Bearing Manufacturing,""
+6,332999,All Other Miscellaneous Fabricated Metal Product Manufacturing ,MEX
+3,333,Machinery Manufacturing,""
+4,3331,"Agricultural, Construction and Mining Machinery Manufacturing",""
+5,33311,Agricultural Implement Manufacturing,""
+6,333110,Agricultural Implement Manufacturing ,CAN
+5,33312,Construction Machinery Manufacturing,""
+6,333120,Construction Machinery Manufacturing,""
+5,33313,Mining and Oil and Gas Field Machinery Manufacturing,""
+6,333130,Mining and Oil and Gas Field Machinery Manufacturing ,MEX
+4,3332,Industrial Machinery Manufacturing,""
+5,33321,Sawmill and Woodworking Machinery Manufacturing,""
+6,333210,Sawmill and Woodworking Machinery Manufacturing,""
+5,33322,Rubber and Plastics Industry Machinery Manufacturing,""
+6,333220,Rubber and Plastics Industry Machinery Manufacturing,""
+5,33329,Other Industrial Machinery Manufacturing,""
+6,333291,Paper Industry Machinery Manufacturing ,US
+6,333299,All Other Industrial Machinery Manufacturing ,CAN
+4,3333,Commercial and Service Industry Machinery Manufacturing,""
+5,33331,Commercial and Service Industry Machinery Manufacturing,""
+6,333310,Commercial and Service Industry Machinery Manufacturing ,CAN
+4,3334,"Ventilation, Heating, Air-Conditioning and Commercial Refrigeration Equipment Manufacturing",""
+5,33341,"Ventilation, Heating, Air-Conditioning and Commercial Refrigeration Equipment Manufacturing",""
+6,333413,Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing ,CAN
+6,333416,Heating Equipment and Commercial Refrigeration Equipment Manufacturing ,CAN
+4,3335,Metalworking Machinery Manufacturing,""
+5,33351,Metalworking Machinery Manufacturing,""
+6,333511,Industrial Mould Manufacturing ,US
+6,333519,Other Metalworking Machinery Manufacturing ,CAN
+4,3336,"Engine, Turbine and Power Transmission Equipment Manufacturing",""
+5,33361,"Engine, Turbine and Power Transmission Equipment Manufacturing",""
+6,333611,Turbine and Turbine Generator Set Unit Manufacturing ,US
+6,333619,Other Engine and Power Transmission Equipment Manufacturing ,CAN
+4,3339,Other General-Purpose Machinery Manufacturing,""
+5,33391,Pump and Compressor Manufacturing,""
+6,333910,Pump and Compressor Manufacturing ,CAN
+5,33392,Material Handling Equipment Manufacturing,""
+6,333920,Material Handling Equipment Manufacturing ,MEX
+5,33399,All Other General-Purpose Machinery Manufacturing,""
+6,333990,All Other General-Purpose Machinery Manufacturing ,CAN
+3,334,Computer and Electronic Product Manufacturing,""
+4,3341,Computer and Peripheral Equipment Manufacturing,""
+5,33411,Computer and Peripheral Equipment Manufacturing,""
+6,334110,Computer and Peripheral Equipment Manufacturing ,MEX
+4,3342,Communications Equipment Manufacturing,""
+5,33421,Telephone Apparatus Manufacturing,""
+6,334210,Telephone Apparatus Manufacturing,""
+5,33422,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,""
+6,334220,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,""
+5,33429,Other Communications Equipment Manufacturing,""
+6,334290,Other Communications Equipment Manufacturing,""
+4,3343,Audio and Video Equipment Manufacturing,""
+5,33431,Audio and Video Equipment Manufacturing,""
+6,334310,Audio and Video Equipment Manufacturing,""
+4,3344,Semiconductor and Other Electronic Component Manufacturing,""
+5,33441,Semiconductor and Other Electronic Component Manufacturing,""
+6,334410,Semiconductor and Other Electronic Component Manufacturing ,MEX
+4,3345,"Navigational, Measuring, Medical and Control Instruments Manufacturing",""
+5,33451,"Navigational, Measuring, Medical and Control Instruments Manufacturing",""
+6,334511,Navigational and Guidance Instruments Manufacturing ,US
+6,334512,"Measuring, Medical and Controlling Devices Manufacturing ",CAN
+4,3346,Manufacturing and Reproducing Magnetic and Optical Media,""
+5,33461,Manufacturing and Reproducing Magnetic and Optical Media,""
+6,334610,Manufacturing and Reproducing Magnetic and Optical Media ,MEX
+3,335,"Electrical Equipment, Appliance and Component Manufacturing",""
+4,3351,Electric Lighting Equipment Manufacturing,""
+5,33511,Electric Lamp Bulb and Parts Manufacturing,""
+6,335110,Electric Lamp Bulb and Parts Manufacturing,""
+5,33512,Lighting Fixture Manufacturing,""
+6,335120,Lighting Fixture Manufacturing ,CAN
+4,3352,Household Appliance Manufacturing,""
+5,33521,Small Electrical Appliance Manufacturing,""
+6,335210,Small Electrical Appliance Manufacturing ,MEX
+5,33522,Major Appliance Manufacturing,""
+6,335223,Major Kitchen Appliance Manufacturing ,CAN
+6,335229,Other Major Appliance Manufacturing ,CAN
+4,3353,Electrical Equipment Manufacturing,""
+5,33531,Electrical Equipment Manufacturing,""
+6,335311,"Power, Distribution and Specialty Transformers Manufacturing ",US
+6,335312,Motor and Generator Manufacturing ,US
+6,335315,"Switchgear and Switchboard, and Relay and Industrial Control Apparatus Manufacturing ",CAN
+4,3359,Other Electrical Equipment and Component Manufacturing,""
+5,33591,Battery Manufacturing,""
+6,335910,Battery Manufacturing ,CAN
+5,33592,Communication and Energy Wire and Cable Manufacturing,""
+6,335920,Communication and Energy Wire and Cable Manufacturing ,CAN
+5,33593,Wiring Device Manufacturing,""
+6,335930,Wiring Device Manufacturing ,CAN
+5,33599,All Other Electrical Equipment and Component Manufacturing,""
+6,335990,All Other Electrical Equipment and Component Manufacturing ,CAN
+3,336,Transportation Equipment Manufacturing,""
+4,3361,Motor Vehicle Manufacturing,""
+5,33611,Automobile and Light-Duty Motor Vehicle Manufacturing,""
+6,336110,Automobile and Light-Duty Motor Vehicle Manufacturing ,MEX
+5,33612,Heavy-Duty Truck Manufacturing,""
+6,336120,Heavy-Duty Truck Manufacturing,""
+4,3362,Motor Vehicle Body and Trailer Manufacturing,""
+5,33621,Motor Vehicle Body and Trailer Manufacturing,""
+6,336211,Motor Vehicle Body Manufacturing ,US
+6,336212,Truck Trailer Manufacturing ,US
+6,336215,"Motor Home, Travel Trailer and Camper Manufacturing ",CAN
+4,3363,Motor Vehicle Parts Manufacturing,""
+5,33631,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,""
+6,336310,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing ,MEX
+5,33632,Motor Vehicle Electrical and Electronic Equipment Manufacturing,""
+6,336320,Motor Vehicle Electrical and Electronic Equipment Manufacturing ,MEX
+5,33633,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,""
+6,336330,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,""
+5,33634,Motor Vehicle Brake System Manufacturing,""
+6,336340,Motor Vehicle Brake System Manufacturing,""
+5,33635,Motor Vehicle Transmission and Power Train Parts Manufacturing,""
+6,336350,Motor Vehicle Transmission and Power Train Parts Manufacturing,""
+5,33636,Motor Vehicle Seating and Interior Trim Manufacturing,""
+6,336360,Motor Vehicle Seating and Interior Trim Manufacturing,""
+5,33637,Motor Vehicle Metal Stamping,""
+6,336370,Motor Vehicle Metal Stamping,""
+5,33639,Other Motor Vehicle Parts Manufacturing,""
+6,336390,Other Motor Vehicle Parts Manufacturing ,MEX
+4,3364,Aerospace Product and Parts Manufacturing,""
+5,33641,Aerospace Product and Parts Manufacturing,""
+6,336410,Aerospace Product and Parts Manufacturing ,MEX
+4,3365,Railroad Rolling Stock Manufacturing,""
+5,33651,Railroad Rolling Stock Manufacturing,""
+6,336510,Railroad Rolling Stock Manufacturing,""
+4,3366,Ship and Boat Building,""
+5,33661,Ship and Boat Building,""
+6,336611,Ship Building and Repairing ,US
+6,336612,Boat Building ,US
+4,3369,Other Transportation Equipment Manufacturing,""
+5,33699,Other Transportation Equipment Manufacturing,""
+6,336990,Other Transportation Equipment Manufacturing ,CAN
+3,337,Furniture and Related Product Manufacturing,""
+4,3371,Household and Institutional Furniture and Kitchen Cabinet Manufacturing,""
+5,33711,Wood Kitchen Cabinet and Counter Top Manufacturing,""
+6,337110,Wood Kitchen Cabinet and Counter Top Manufacturing,""
+5,33712,Household and Institutional Furniture Manufacturing,""
+6,337121,Upholstered Household Furniture Manufacturing ,US
+6,337123,Other Wood Household Furniture Manufacturing ,CAN
+6,337126,Household Furniture (except Wood and Upholstered) Manufacturing ,CAN
+6,337127,Institutional Furniture Manufacturing ,US
+4,3372,Office Furniture (including Fixtures) Manufacturing,""
+5,33721,Office Furniture (including Fixtures) Manufacturing,""
+6,337213,"Wood Office Furniture, including Custom Architectural Woodwork, Manufacturing ",CAN
+6,337214,Office Furniture (except Wood) Manufacturing ,US
+6,337215,"Showcase, Partition, Shelving and Locker Manufacturing ",US
+4,3379,Other Furniture-Related Product Manufacturing,""
+5,33791,Mattress Manufacturing,""
+6,337910,Mattress Manufacturing,""
+5,33792,Blind and Shade Manufacturing,""
+6,337920,Blind and Shade Manufacturing,""
+3,339,Miscellaneous Manufacturing,""
+4,3391,Medical Equipment and Supplies Manufacturing,""
+5,33911,Medical Equipment and Supplies Manufacturing,""
+6,339110,Medical Equipment and Supplies Manufacturing ,CAN
+4,3399,Other Miscellaneous Manufacturing,""
+2,41,Wholesale Trade,""
+3,411,Farm Product Wholesaler-Distributors ,CAN
+4,4111,Farm Product Wholesaler-Distributors ,CAN
+5,41111,Live Animal Wholesaler-Distributors ,CAN
+6,411110,Live Animal Wholesaler-Distributors ,CAN
+5,41112,Oilseed and Grain Wholesaler-Distributors ,CAN
+6,411120,Oilseed and Grain Wholesaler-Distributors ,CAN
+5,41113,Nursery Stock and Plant Wholesaler-Distributors ,CAN
+6,411130,Nursery Stock and Plant Wholesaler-Distributors ,CAN
+5,41119,Other Farm Product Wholesaler-Distributors ,CAN
+6,411190,Other Farm Product Wholesaler-Distributors ,CAN
+3,412,Petroleum Product Wholesaler-Distributors ,CAN
+4,4121,Petroleum Product Wholesaler-Distributors ,CAN
+5,41211,Petroleum Product Wholesaler-Distributors ,CAN
+6,412110,Petroleum Product Wholesaler-Distributors ,CAN
+3,413,"Food, Beverage and Tobacco Wholesaler-Distributors ",CAN
+4,4131,Food Wholesaler-Distributors ,CAN
+5,41311,General-Line Food Wholesaler-Distributors ,CAN
+6,413110,General-Line Food Wholesaler-Distributors ,CAN
+5,41312,Dairy and Milk Products Wholesaler-Distributors ,CAN
+6,413120,Dairy and Milk Products Wholesaler-Distributors ,CAN
+5,41313,Poultry and Egg Wholesaler-Distributors ,CAN
+6,413130,Poultry and Egg Wholesaler-Distributors ,CAN
+5,41314,Fish and Seafood Product Wholesaler-Distributors ,CAN
+6,413140,Fish and Seafood Product Wholesaler-Distributors ,CAN
+5,41315,Fresh Fruit and Vegetable Wholesaler-Distributors ,CAN
+6,413150,Fresh Fruit and Vegetable Wholesaler-Distributors ,CAN
+5,41316,Red Meat and Meat Product Wholesaler-Distributors ,CAN
+6,413160,Red Meat and Meat Product Wholesaler-Distributors ,CAN
+5,41319,Other Specialty-Line Food Wholesaler-Distributors ,CAN
+6,413190,Other Specialty-Line Food Wholesaler-Distributors ,CAN
+4,4132,Beverage Wholesaler-Distributors ,CAN
+5,41321,Non-Alcoholic Beverage Wholesaler-Distributors ,CAN
+6,413210,Non-Alcoholic Beverage Wholesaler-Distributors ,CAN
+5,41322,Alcoholic Beverage Wholesaler-Distributors ,CAN
+6,413220,Alcoholic Beverage Wholesaler-Distributors ,CAN
+4,4133,Cigarette and Tobacco Product Wholesaler-Distributors ,CAN
+5,41331,Cigarette and Tobacco Product Wholesaler-Distributors ,CAN
+6,413310,Cigarette and Tobacco Product Wholesaler-Distributors ,CAN
+3,414,Personal and Household Goods Wholesaler-Distributors ,CAN
+4,4141,"Textile, Clothing and Footwear Wholesaler-Distributors ",CAN
+5,41411,Clothing and Clothing Accessories Wholesaler-Distributors ,CAN
+6,414110,Clothing and Clothing Accessories Wholesaler-Distributors ,CAN
+5,41412,Footwear Wholesaler-Distributors ,CAN
+6,414120,Footwear Wholesaler-Distributors ,CAN
+5,41413,"Piece Goods, Notions and Other Dry Goods Wholesaler-Distributors ",CAN
+6,414130,"Piece Goods, Notions and Other Dry Goods Wholesaler-Distributors ",CAN
+4,4142,Home Entertainment Equipment and Household Appliance Wholesaler-Distributors ,CAN
+5,41421,Home Entertainment Equipment Wholesaler-Distributors ,CAN
+6,414210,Home Entertainment Equipment Wholesaler-Distributors ,CAN
+5,41422,Household Appliance Wholesaler-Distributors ,CAN
+6,414220,Household Appliance Wholesaler-Distributors ,CAN
+4,4143,Home Furnishings Wholesaler-Distributors ,CAN
+5,41431,"China, Glassware, Crockery and Pottery Wholesaler-Distributors ",CAN
+6,414310,"China, Glassware, Crockery and Pottery Wholesaler-Distributors ",CAN
+5,41432,Floor Covering Wholesaler-Distributors ,CAN
+6,414320,Floor Covering Wholesaler-Distributors ,CAN
+5,41433,"Linen, Drapery and Other Textile Furnishings Wholesaler-Distributors ",CAN
+6,414330,"Linen, Drapery and Other Textile Furnishings Wholesaler-Distributors ",CAN
+5,41439,Other Home Furnishings Wholesaler-Distributors ,CAN
+6,414390,Other Home Furnishings Wholesaler-Distributors ,CAN
+4,4144,Personal Goods Wholesaler-Distributors ,CAN
+5,41441,Jewellery and Watch Wholesaler-Distributors ,CAN
+6,414410,Jewellery and Watch Wholesaler-Distributors ,CAN
+5,41442,"Book, Periodical and Newspaper Wholesaler-Distributors ",CAN
+6,414420,"Book, Periodical and Newspaper Wholesaler-Distributors ",CAN
+5,41443,Photographic Equipment and Supplies Wholesaler-Distributors ,CAN
+6,414430,Photographic Equipment and Supplies Wholesaler-Distributors ,CAN
+5,41444,Sound Recording Wholesalers ,CAN
+6,414440,Sound Recording Wholesalers ,CAN
+5,41445,Video Cassette Wholesalers ,CAN
+6,414450,Video Cassette Wholesalers ,CAN
+5,41446,Toy and Hobby Goods Wholesaler-Distributors ,CAN
+6,414460,Toy and Hobby Goods Wholesaler-Distributors ,CAN
+5,41447,Amusement and Sporting Goods Wholesaler-Distributors ,CAN
+6,414470,Amusement and Sporting Goods Wholesaler-Distributors ,CAN
+4,4145,"Pharmaceuticals, Toiletries, Cosmetics and Sundries Wholesaler-Distributors ",CAN
+5,41451,Pharmaceuticals and Pharmacy Supplies Wholesaler-Distributors ,CAN
+6,414510,Pharmaceuticals and Pharmacy Supplies Wholesaler-Distributors ,CAN
+5,41452,"Toiletries, Cosmetics and Sundries Wholesaler-Distributors ",CAN
+6,414520,"Toiletries, Cosmetics and Sundries Wholesaler-Distributors ",CAN
+3,415,Motor Vehicle and Parts Wholesaler-Distributors ,CAN
+4,4151,Motor Vehicle Wholesaler-Distributors ,CAN
+5,41511,New and Used Automobile and Light-Duty Truck Wholesaler-Distributors ,CAN
+6,415110,New and Used Automobile and Light-Duty Truck Wholesaler-Distributors ,CAN
+5,41512,"Truck, Truck Tractor and Bus Wholesaler-Distributors ",CAN
+6,415120,"Truck, Truck Tractor and Bus Wholesaler-Distributors ",CAN
+5,41519,Recreational and Other Motor Vehicles Wholesaler-Distributors ,CAN
+6,415190,Recreational and Other Motor Vehicles Wholesaler-Distributors ,CAN
+4,4152,New Motor Vehicle Parts and Accessories Wholesaler-Distributors ,CAN
+5,41521,Tire Wholesaler-Distributors ,CAN
+6,415210,Tire Wholesaler-Distributors ,CAN
+5,41529,Other New Motor Vehicle Parts and Accessories Wholesaler-Distributors ,CAN
+6,415290,Other New Motor Vehicle Parts and Accessories Wholesaler-Distributors ,CAN
+4,4153,Used Motor Vehicle Parts and Accessories Wholesaler-Distributors ,CAN
+5,41531,Used Motor Vehicle Parts and Accessories Wholesaler-Distributors ,CAN
+6,415310,Used Motor Vehicle Parts and Accessories Wholesaler-Distributors ,CAN
+3,416,Building Material and Supplies Wholesaler-Distributors ,CAN
+4,4161,"Electrical, Plumbing, Heating and Air-Conditioning Equipment and Supplies Wholesaler-Distributors ",CAN
+5,41611,Electrical Wiring and Construction Supplies Wholesaler-Distributors ,CAN
+6,416110,Electrical Wiring and Construction Supplies Wholesaler-Distributors ,CAN
+5,41612,"Plumbing, Heating and Air-Conditioning Equipment and Supplies Wholesaler-Distributors ",CAN
+6,416120,"Plumbing, Heating and Air-Conditioning Equipment and Supplies Wholesaler-Distributors ",CAN
+4,4162,Metal Service Centres ,CAN
+5,41621,Metal Service Centres ,CAN
+6,416210,Metal Service Centres ,CAN
+4,4163,"Lumber, Millwork, Hardware and Other Building Supplies Wholesaler-Distributors ",CAN
+5,41631,General-Line Building Supplies Wholesaler-Distributors ,CAN
+6,416310,General-Line Building Supplies Wholesaler-Distributors ,CAN
+5,41632,"Lumber, Plywood and Millwork Wholesaler-Distributors ",CAN
+6,416320,"Lumber, Plywood and Millwork Wholesaler-Distributors ",CAN
+5,41633,Hardware Wholesaler-Distributors ,CAN
+6,416330,Hardware Wholesaler-Distributors ,CAN
+5,41634,"Paint, Glass and Wallpaper Wholesaler-Distributors ",CAN
+6,416340,"Paint, Glass and Wallpaper Wholesaler-Distributors ",CAN
+5,41639,Other Specialty-Line Building Supplies Wholesaler-Distributors ,CAN
+6,416390,Other Specialty-Line Building Supplies Wholesaler-Distributors ,CAN
+3,417,"Machinery, Equipment and Supplies Wholesaler-Distributors ",CAN
+4,4171,"Farm, Lawn and Garden Machinery and Equipment Wholesaler-Distributors ",CAN
+5,41711,"Farm, Lawn and Garden Machinery and Equipment Wholesaler-Distributors ",CAN
+6,417110,"Farm, Lawn and Garden Machinery and Equipment Wholesaler-Distributors ",CAN
+4,4172,"Construction, Forestry, Mining, and Industrial Machinery, Equipment and Supplies Wholesaler-Distributors ",CAN
+5,41721,"Construction and Forestry Machinery, Equipment and Supplies Wholesaler-Distributors ",CAN
+6,417210,"Construction and Forestry Machinery, Equipment and Supplies Wholesaler-Distributors ",CAN
+5,41722,"Mining and Oil and Gas Well Machinery, Equipment and Supplies Wholesaler-Distributors ",CAN
+6,417220,"Mining and Oil and Gas Well Machinery, Equipment and Supplies Wholesaler-Distributors ",CAN
+5,41723,"Industrial Machinery, Equipment and Supplies Wholesaler-Distributors ",CAN
+6,417230,"Industrial Machinery, Equipment and Supplies Wholesaler-Distributors ",CAN
+4,4173,Computer and Communications Equipment and Supplies Wholesaler-Distributors ,CAN
+5,41731,"Computer, Computer Peripheral and Pre-Packaged Software Wholesaler-Distributors ",CAN
+6,417310,"Computer, Computer Peripheral and Pre-Packaged Software Wholesaler-Distributors ",CAN
+5,41732,"Electronic Components, Navigational and Communications Equipment and Supplies Wholesaler-Distributors ",CAN
+6,417320,"Electronic Components, Navigational and Communications Equipment and Supplies Wholesaler-Distributors ",CAN
+4,4179,"Other Machinery, Equipment and Supplies Wholesaler-Distributors ",CAN
+5,41791,Office and Store Machinery and Equipment Wholesaler-Distributors ,CAN
+6,417910,Office and Store Machinery and Equipment Wholesaler-Distributors ,CAN
+5,41792,"Service Establishment Machinery, Equipment and Supplies Wholesaler-Distributors ",CAN
+6,417920,"Service Establishment Machinery, Equipment and Supplies Wholesaler-Distributors ",CAN
+5,41793,"Professional Machinery, Equipment and Supplies Wholesaler-Distributors ",CAN
+6,417930,"Professional Machinery, Equipment and Supplies Wholesaler-Distributors ",CAN
+5,41799,"All Other Machinery, Equipment and Supplies Wholesaler-Distributors ",CAN
+6,417990,"All Other Machinery, Equipment and Supplies Wholesaler-Distributors ",CAN
+3,418,Miscellaneous Wholesaler-Distributors ,CAN
+4,4181,Recyclable Material Wholesaler-Distributors ,CAN
+5,41811,Recyclable Metal Wholesaler-Distributors ,CAN
+6,418110,Recyclable Metal Wholesaler-Distributors ,CAN
+5,41812,Recyclable Paper and Paperboard Wholesaler-Distributors ,CAN
+6,418120,Recyclable Paper and Paperboard Wholesaler-Distributors ,CAN
+5,41819,Other Recyclable Material Wholesaler-Distributors ,CAN
+6,418190,Other Recyclable Material Wholesaler-Distributors ,CAN
+4,4182,"Paper, Paper Product and Disposable Plastic Product Wholesaler-Distributors ",CAN
+5,41821,Stationery and Office Supplies Wholesaler-Distributors ,CAN
+6,418210,Stationery and Office Supplies Wholesaler-Distributors ,CAN
+5,41822,Other Paper and Disposable Plastic Product Wholesaler-Distributors ,CAN
+6,418220,Other Paper and Disposable Plastic Product Wholesaler-Distributors ,CAN
+4,4183,Agricultural Supplies Wholesaler-Distributors ,CAN
+5,41831,Agricultural Feed Wholesaler-Distributors ,CAN
+6,418310,Agricultural Feed Wholesaler-Distributors ,CAN
+5,41832,Seed Wholesaler-Distributors ,CAN
+6,418320,Seed Wholesaler-Distributors ,CAN
+5,41839,Agricultural Chemical and Other Farm Supplies Wholesaler-Distributors ,CAN
+6,418390,Agricultural Chemical and Other Farm Supplies Wholesaler-Distributors ,CAN
+4,4184,Chemical (except Agricultural) and Allied Product Wholesaler-Distributors ,CAN
+5,41841,Chemical (except Agricultural) and Allied Product Wholesaler-Distributors ,CAN
+6,418410,Chemical (except Agricultural) and Allied Product Wholesaler-Distributors ,CAN
+4,4189,Other Miscellaneous Wholesaler-Distributors ,CAN
+5,41891,Log and Wood Chip Wholesaler-Distributors ,CAN
+6,418910,Log and Wood Chip Wholesaler-Distributors ,CAN
+5,41892,"Mineral, Ore and Precious Metal Wholesaler-Distributors ",CAN
+6,418920,"Mineral, Ore and Precious Metal Wholesaler-Distributors ",CAN
+5,41893,Second-Hand Goods (except Machinery and Automotive) Wholesaler-Distributors ,CAN
+6,418930,Second-Hand Goods (except Machinery and Automotive) Wholesaler-Distributors ,CAN
+5,41899,All Other Wholesaler-Distributors ,CAN
+6,418990,All Other Wholesaler-Distributors ,CAN
+3,419,"Wholesale Electronic Markets, and Agents and Brokers ",US
+4,4191,"Wholesale Electronic Markets, and Agents and Brokers ",US
+5,41911,Business-to-Business Electronic Markets ,US
+6,419110,Business-to-Business Electronic Markets ,US
+5,41912,Wholesale Trade Agents and Brokers ,US
+6,419120,Wholesale Trade Agents and Brokers ,US
+3,441,Motor Vehicle and Parts Dealers ,US
+4,4411,Automobile Dealers ,US
+5,44111,New Car Dealers ,US
+6,441110,New Car Dealers ,US
+5,44112,Used Car Dealers ,US
+6,441120,Used Car Dealers ,US
+4,4412,Other Motor Vehicle Dealers ,US
+5,44121,Recreational Vehicle Dealers ,US
+6,441210,Recreational Vehicle Dealers ,US
+5,44122,"Motorcycle, Boat and Other Motor Vehicle Dealers ",US
+6,441220,"Motorcycle, Boat and Other Motor Vehicle Dealers ",CAN
+4,4413,"Automotive Parts, Accessories and Tire Stores ",US
+5,44131,Automotive Parts and Accessories Stores ,US
+6,441310,Automotive Parts and Accessories Stores ,US
+5,44132,Tire Dealers ,US
+6,441320,Tire Dealers ,US
+3,442,Furniture and Home Furnishings Stores ,US
+4,4421,Furniture Stores ,US
+5,44211,Furniture Stores ,US
+6,442110,Furniture Stores ,US
+4,4422,Home Furnishings Stores ,US
+5,44221,Floor Covering Stores ,US
+6,442210,Floor Covering Stores ,US
+5,44229,Other Home Furnishings Stores ,US
+6,442291,Window Treatment Stores ,US
+6,442292,Print and Picture Frame Stores ,CAN
+6,442298,All Other Home Furnishings Stores ,CAN
+3,443,Electronics and Appliance Stores ,US
+4,4431,Electronics and Appliance Stores ,US
+5,44311,"Appliance, Television and Other Electronics Stores ",US
+6,443110,"Appliance, Television and Other Electronics Stores ",CAN
+5,44312,Computer and Software Stores ,US
+6,443120,Computer and Software Stores ,US
+5,44313,Camera and Photographic Supplies Stores ,US
+6,443130,Camera and Photographic Supplies Stores ,US
+3,444,Building Material and Garden Equipment and Supplies Dealers ,US
+4,4441,Building Material and Supplies Dealers ,US
+5,44411,Home Centres ,US
+6,444110,Home Centres ,US
+5,44412,Paint and Wallpaper Stores ,US
+6,444120,Paint and Wallpaper Stores ,US
+5,44413,Hardware Stores ,US
+6,444130,Hardware Stores ,US
+5,44419,Other Building Material Dealers ,US
+6,444190,Other Building Material Dealers ,US
+4,4442,Lawn and Garden Equipment and Supplies Stores ,US
+5,44421,Outdoor Power Equipment Stores ,US
+6,444210,Outdoor Power Equipment Stores ,US
+5,44422,Nursery Stores and Garden Centres ,US
+6,444220,Nursery Stores and Garden Centres ,US
+3,445,Food and Beverage Stores ,US
+4,4451,Grocery Stores ,US
+5,44511,Supermarkets and Other Grocery (except Convenience) Stores ,US
+6,445110,Supermarkets and Other Grocery (except Convenience) Stores ,US
+5,44512,Convenience Stores ,US
+6,445120,Convenience Stores ,US
+4,4452,Specialty Food Stores ,US
+5,44521,Meat Markets ,US
+6,445210,Meat Markets ,US
+5,44522,Fish and Seafood Markets ,US
+6,445220,Fish and Seafood Markets ,US
+5,44523,Fruit and Vegetable Markets ,US
+6,445230,Fruit and Vegetable Markets ,US
+5,44529,Other Specialty Food Stores ,US
+6,445291,Baked Goods Stores ,US
+6,445292,Confectionery and Nut Stores ,US
+6,445299,All Other Specialty Food Stores ,US
+4,4453,"Beer, Wine and Liquor Stores ",US
+5,44531,"Beer, Wine and Liquor Stores ",US
+6,445310,"Beer, Wine and Liquor Stores ",US
+3,446,Health and Personal Care Stores ,US
+4,4461,Health and Personal Care Stores ,US
+5,44611,Pharmacies and Drug Stores ,US
+6,446110,Pharmacies and Drug Stores ,US
+5,44612,"Cosmetics, Beauty Supplies and Perfume Stores ",US
+6,446120,"Cosmetics, Beauty Supplies and Perfume Stores ",US
+5,44613,Optical Goods Stores ,US
+6,446130,Optical Goods Stores ,US
+5,44619,Other Health and Personal Care Stores ,US
+6,446191,Food (Health) Supplement Stores ,US
+6,446199,All Other Health and Personal Care Stores ,US
+3,447,Gasoline Stations ,US
+4,4471,Gasoline Stations ,US
+5,44711,Gasoline Stations with Convenience Stores ,US
+6,447110,Gasoline Stations with Convenience Stores ,US
+5,44719,Other Gasoline Stations ,US
+6,447190,Other Gasoline Stations ,US
+3,448,Clothing and Clothing Accessories Stores ,US
+4,4481,Clothing Stores ,US
+5,44811,Men's Clothing Stores ,US
+6,448110,Men's Clothing Stores ,US
+5,44812,Women's Clothing Stores ,US
+6,448120,Women's Clothing Stores ,US
+5,44813,Children's and Infants' Clothing Stores ,US
+6,448130,Children's and Infants' Clothing Stores ,US
+5,44814,Family Clothing Stores ,US
+6,448140,Family Clothing Stores ,US
+5,44815,Clothing Accessories Stores ,US
+6,448150,Clothing Accessories Stores ,US
+5,44819,Other Clothing Stores ,US
+6,448191,Fur Stores ,CAN
+6,448199,All Other Clothing Stores ,CAN
+4,4482,Shoe Stores ,US
+5,44821,Shoe Stores ,US
+6,448210,Shoe Stores ,US
+4,4483,"Jewellery, Luggage and Leather Goods Stores ",US
+5,44831,Jewellery Stores ,US
+6,448310,Jewellery Stores ,US
+5,44832,Luggage and Leather Goods Stores ,US
+6,448320,Luggage and Leather Goods Stores ,US
+3,451,"Sporting Goods, Hobby, Book and Music Stores ",US
+4,4511,"Sporting Goods, Hobby and Musical Instrument Stores ",US
+5,45111,Sporting Goods Stores ,US
+6,451110,Sporting Goods Stores ,US
+5,45112,"Hobby, Toy and Game Stores ",US
+6,451120,"Hobby, Toy and Game Stores ",US
+5,45113,"Sewing, Needlework and Piece Goods Stores ",US
+6,451130,"Sewing, Needlework and Piece Goods Stores ",US
+5,45114,Musical Instrument and Supplies Stores ,US
+6,451140,Musical Instrument and Supplies Stores ,US
+4,4512,"Book, Periodical and Music Stores ",US
+5,45121,Book Stores and News Dealers ,US
+6,451210,Book Stores and News Dealers ,CAN
+5,45122,"Pre-Recorded Tape, Compact Disc and Record Stores ",US
+6,451220,"Pre-Recorded Tape, Compact Disc and Record Stores ",US
+3,452,General Merchandise Stores ,US
+4,4521,Department Stores ,US
+5,45211,Department Stores ,US
+6,452110,Department Stores ,CAN
+4,4529,Other General Merchandise Stores ,US
+5,45291,Warehouse Clubs and Superstores ,US
+6,452910,Warehouse Clubs and Superstores ,US
+5,45299,All Other General Merchandise Stores ,US
+6,452991,Home and Auto Supplies Stores ,CAN
+6,452999,All Other Miscellaneous General Merchandise Stores ,CAN
+3,453,Miscellaneous Store Retailers ,US
+4,4531,Florists ,US
+5,45311,Florists ,US
+6,453110,Florists ,US
+4,4532,"Office Supplies, Stationery and Gift Stores ",US
+5,45321,Office Supplies and Stationery Stores ,US
+6,453210,Office Supplies and Stationery Stores ,US
+5,45322,"Gift, Novelty and Souvenir Stores ",US
+6,453220,"Gift, Novelty and Souvenir Stores ",US
+4,4533,Used Merchandise Stores ,US
+5,45331,Used Merchandise Stores ,US
+6,453310,Used Merchandise Stores ,US
+4,4539,Other Miscellaneous Store Retailers ,US
+5,45391,Pet and Pet Supplies Stores ,US
+6,453910,Pet and Pet Supplies Stores ,US
+5,45392,Art Dealers ,US
+6,453920,Art Dealers ,US
+5,45393,Mobile Home Dealers ,US
+6,453930,Mobile Home Dealers ,US
+5,45399,All Other Miscellaneous Store Retailers ,US
+6,453992,Beer and Wine-Making Supplies Stores ,CAN
+6,453999,All Other Miscellaneous Store Retailers (except Beer and Wine-Making Supplies Stores) ,CAN
+3,454,Non-Store Retailers ,US
+4,4541,Electronic Shopping and Mail-Order Houses ,US
+5,45411,Electronic Shopping and Mail-Order Houses ,US
+6,454111,Internet Shopping ,US
+6,454112,Electronic Auctions ,US
+6,454113,Mail-Order Houses ,US
+4,4542,Vending Machine Operators ,US
+5,45421,Vending Machine Operators ,US
+6,454210,Vending Machine Operators ,US
+4,4543,Direct Selling Establishments ,US
+5,45431,Fuel Dealers ,US
+6,454311,Heating Oil Dealers ,US
+6,454312,Liquefied Petroleum Gas (Bottled Gas) Dealers ,US
+6,454319,Other Fuel Dealers ,US
+5,45439,Other Direct Selling Establishments ,US
+6,454390,Other Direct Selling Establishments ,US
+3,481,Air Transportation,""
+4,4811,Scheduled Air Transportation,""
+5,48111,Scheduled Air Transportation,""
+6,481110,Scheduled Air Transportation ,CAN
+4,4812,Non-Scheduled Air Transportation,""
+5,48121,Non-Scheduled Air Transportation,""
+6,481214,Non-Scheduled Chartered Air Transportation ,CAN
+6,481215,Non-Scheduled Specialty Flying Services ,CAN
+3,482,Rail Transportation,""
+4,4821,Rail Transportation,""
+5,48211,Rail Transportation,""
+6,482112,Short-Haul Freight Rail Transportation ,US
+6,482113,Mainline Freight Rail Transportation ,CAN
+6,482114,Passenger Rail Transportation ,CAN
+3,483,Water Transportation,""
+4,4831,"Deep Sea, Coastal and Great Lakes Water Transportation",""
+5,48311,"Deep Sea, Coastal and Great Lakes Water Transportation",""
+6,483115,"Deep Sea, Coastal and Great Lakes Water Transportation (except by Ferries) ",CAN
+6,483116,"Deep Sea, Coastal and Great Lakes Water Transportation by Ferries ",CAN
+4,4832,Inland Water Transportation,""
+5,48321,Inland Water Transportation,""
+6,483213,Inland Water Transportation (except by Ferries) ,CAN
+6,483214,Inland Water Transportation by Ferries ,CAN
+3,484,Truck Transportation,""
+4,4841,General Freight Trucking,""
+5,48411,"General Freight Trucking, Local",""
+6,484110,"General Freight Trucking, Local ",US
+5,48412,"General Freight Trucking, Long Distance",""
+6,484121,"General Freight Trucking, Long Distance, Truck-Load ",US
+6,484122,"General Freight Trucking, Long Distance, Less Than Truck-Load ",US
+4,4842,Specialized Freight Trucking,""
+5,48421,Used Household and Office Goods Moving,""
+6,484210,Used Household and Office Goods Moving,""
+5,48422,"Specialized Freight (except Used Goods) Trucking, Local",""
+6,484221,"Bulk Liquids Trucking, Local ",CAN
+6,484222,"Dry Bulk Materials Trucking, Local ",CAN
+6,484223,"Forest Products Trucking, Local ",CAN
+6,484229,"Other Specialized Freight (except Used Goods) Trucking, Local ",CAN
+5,48423,"Specialized Freight (except Used Goods) Trucking, Long Distance",""
+6,484231,"Bulk Liquids Trucking, Long Distance ",CAN
+6,484232,"Dry Bulk Materials Trucking, Long Distance ",CAN
+6,484233,"Forest Products Trucking, Long Distance ",CAN
+6,484239,"Other Specialized Freight (except Used Goods) Trucking, Long Distance ",CAN
+3,485,Transit and Ground Passenger Transportation,""
+4,4851,Urban Transit Systems,""
+5,48511,Urban Transit Systems,""
+6,485110,Urban Transit Systems ,CAN
+4,4852,Interurban and Rural Bus Transportation,""
+5,48521,Interurban and Rural Bus Transportation,""
+6,485210,Interurban and Rural Bus Transportation,""
+4,4853,Taxi and Limousine Service,""
+5,48531,Taxi Service,""
+6,485310,Taxi Service ,US
+5,48532,Limousine Service,""
+6,485320,Limousine Service,""
+4,4854,School and Employee Bus Transportation,""
+5,48541,School and Employee Bus Transportation,""
+6,485410,School and Employee Bus Transportation,""
+4,4855,Charter Bus Industry,""
+5,48551,Charter Bus Industry,""
+6,485510,Charter Bus Industry,""
+4,4859,Other Transit and Ground Passenger Transportation,""
+5,48599,Other Transit and Ground Passenger Transportation,""
+6,485990,Other Transit and Ground Passenger Transportation ,CAN
+3,486,Pipeline Transportation,""
+4,4861,Pipeline Transportation of Crude Oil,""
+5,48611,Pipeline Transportation of Crude Oil,""
+6,486110,Pipeline Transportation of Crude Oil,""
+4,4862,Pipeline Transportation of Natural Gas,""
+5,48621,Pipeline Transportation of Natural Gas,""
+6,486210,Pipeline Transportation of Natural Gas,""
+4,4869,Other Pipeline Transportation,""
+5,48691,Pipeline Transportation of Refined Petroleum Products,""
+6,486910,Pipeline Transportation of Refined Petroleum Products,""
+5,48699,All Other Pipeline Transportation,""
+6,486990,All Other Pipeline Transportation,""
+3,487,Scenic and Sightseeing Transportation,""
+4,4871,"Scenic and Sightseeing Transportation, Land",""
+5,48711,"Scenic and Sightseeing Transportation, Land",""
+6,487110,"Scenic and Sightseeing Transportation, Land",""
+4,4872,"Scenic and Sightseeing Transportation, Water",""
+5,48721,"Scenic and Sightseeing Transportation, Water",""
+6,487210,"Scenic and Sightseeing Transportation, Water",""
+4,4879,"Scenic and Sightseeing Transportation, Other",""
+5,48799,"Scenic and Sightseeing Transportation, Other",""
+6,487990,"Scenic and Sightseeing Transportation, Other",""
+3,488,Support Activities for Transportation,""
+4,4881,Support Activities for Air Transportation,""
+5,48811,Airport Operations,""
+6,488111,Air Traffic Control,""
+6,488119,Other Airport Operations ,US
+5,48819,Other Support Activities for Air Transportation,""
+6,488190,Other Support Activities for Air Transportation,""
+4,4882,Support Activities for Rail Transportation,""
+5,48821,Support Activities for Rail Transportation,""
+6,488210,Support Activities for Rail Transportation,""
+4,4883,Support Activities for Water Transportation,""
+5,48831,Port and Harbour Operations,""
+6,488310,Port and Harbour Operations,""
+5,48832,Marine Cargo Handling,""
+6,488320,Marine Cargo Handling,""
+5,48833,Navigational Services to Shipping,""
+6,488331,Marine Salvage Services ,CAN
+6,488332,Ship Piloting Services ,CAN
+6,488339,Other Navigational Services to Shipping ,CAN
+5,48839,Other Support Activities for Water Transportation,""
+6,488390,Other Support Activities for Water Transportation,""
+4,4884,Support Activities for Road Transportation,""
+5,48841,Motor Vehicle Towing,""
+6,488410,Motor Vehicle Towing,""
+5,48849,Other Support Activities for Road Transportation,""
+6,488490,Other Support Activities for Road Transportation ,US
+4,4885,Freight Transportation Arrangement,""
+5,48851,Freight Transportation Arrangement,""
+6,488511,Marine Shipping Agencies ,CAN
+6,488519,Other Freight Transportation Arrangement ,CAN
+4,4889,Other Support Activities for Transportation,""
+5,48899,Other Support Activities for Transportation,""
+6,488990,Other Support Activities for Transportation ,MEX
+3,491,Postal Service,""
+4,4911,Postal Service,""
+5,49111,Postal Service,""
+6,491110,Postal Service,""
+3,492,Couriers and Messengers,""
+4,4921,Couriers,""
+5,49211,Couriers,""
+6,492110,Couriers,""
+4,4922,Local Messengers and Local Delivery,""
+5,49221,Local Messengers and Local Delivery,""
+6,492210,Local Messengers and Local Delivery,""
+3,493,Warehousing and Storage,""
+4,4931,Warehousing and Storage,""
+5,49311,General Warehousing and Storage,""
+6,493110,General Warehousing and Storage ,US
+5,49312,Refrigerated Warehousing and Storage,""
+6,493120,Refrigerated Warehousing and Storage,""
+5,49313,Farm Product Warehousing and Storage,""
+6,493130,Farm Product Warehousing and Storage,""
+5,49319,Other Warehousing and Storage,""
+6,493190,Other Warehousing and Storage,""
+2,51,Information and Cultural Industries,""
+3,511,Publishing Industries (except Internet),""
+4,5111,"Newspaper, Periodical, Book and Directory Publishers",""
+5,51111,Newspaper Publishers,""
+6,511110,Newspaper Publishers ,US
+5,51112,Periodical Publishers,""
+6,511120,Periodical Publishers ,US
+5,51113,Book Publishers,""
+6,511130,Book Publishers ,US
+5,51114,Directory and Mailing List Publishers,""
+6,511140,Directory and Mailing List Publishers ,US
+5,51119,Other Publishers,""
+6,511190,Other Publishers ,CAN
+4,5112,Software Publishers,""
+5,51121,Software Publishers,""
+6,511210,Software Publishers,""
+3,512,Motion Picture and Sound Recording Industries,""
+4,5121,Motion Picture and Video Industries,""
+5,51211,Motion Picture and Video Production,""
+6,512110,Motion Picture and Video Production ,US
+5,51212,Motion Picture and Video Distribution,""
+6,512120,Motion Picture and Video Distribution,""
+5,51213,Motion Picture and Video Exhibition,""
+6,512130,Motion Picture and Video Exhibition ,MEX
+5,51219,Post-Production and Other Motion Picture and Video Industries,""
+6,512190,Post-Production and Other Motion Picture and Video Industries ,MEX
+4,5122,Sound Recording Industries,""
+5,51221,Record Production,""
+6,512210,Record Production,""
+5,51222,Integrated Record Production/Distribution,""
+6,512220,Integrated Record Production/Distribution,""
+5,51223,Music Publishers,""
+6,512230,Music Publishers,""
+5,51224,Sound Recording Studios,""
+6,512240,Sound Recording Studios,""
+5,51229,Other Sound Recording Industries,""
+6,512290,Other Sound Recording Industries,""
+3,515,Broadcasting (except Internet),""
+4,5151,Radio and Television Broadcasting,""
+5,51511,Radio Broadcasting,""
+6,515110,Radio Broadcasting ,MEX
+5,51512,Television Broadcasting,""
+6,515120,Television Broadcasting,""
+4,5152,Pay and Specialty Television,""
+5,51521,Pay and Specialty Television,""
+6,515210,Pay and Specialty Television,""
+3,517,Telecommunications,""
+4,5171,Wired Telecommunications Carriers,""
+5,51711,Wired Telecommunications Carriers,""
+6,517111,Wired Telecommunications Carriers (except Cable) ,CAN
+6,517112,Cable and Other Program Distribution ,CAN
+4,5172,Wireless Telecommunications Carriers (except Satellite),""
+5,51721,Wireless Telecommunications Carriers (except Satellite),""
+6,517210,Wireless Telecommunications Carriers (except Satellite) ,MEX
+4,5174,Satellite Telecommunications,""
+5,51741,Satellite Telecommunications,""
+6,517410,Satellite Telecommunications,""
+4,5179,Other Telecommunications,""
+5,51791,Other Telecommunications,""
+6,517910,Other Telecommunications,""
+3,518,"Data Processing, Hosting, and Related Services",""
+4,5182,"Data Processing, Hosting, and Related Services",""
+5,51821,"Data Processing, Hosting, and Related Services",""
+6,518210,"Data Processing, Hosting, and Related Services",""
+3,519,Other Information Services,""
+4,5191,Other Information Services,""
+5,51911,News Syndicates,""
+6,519110,News Syndicates,""
+5,51912,Libraries and Archives,""
+6,519121,Libraries ,CAN
+6,519122,Archives ,CAN
+5,51913,"Internet Publishing and Broadcasting, and Web Search Portals",""
+6,519130,"Internet Publishing and Broadcasting, and Web Search Portals",""
+5,51919,All Other Information Services,""
+6,519190,All Other Information Services,""
+2,52,Finance and Insurance,""
+3,521,Monetary Authorities - Central Bank,""
+4,5211,Monetary Authorities - Central Bank,""
+5,52111,Monetary Authorities - Central Bank,""
+6,521110,Monetary Authorities - Central Bank,""
+3,522,Credit Intermediation and Related Activities,""
+4,5221,Depository Credit Intermediation ,US
+5,52211,Banking ,CAN
+6,522111,Personal and Commercial Banking Industry ,CAN
+6,522112,Corporate and Institutional Banking Industry ,CAN
+5,52213,Local Credit Unions ,US
+6,522130,Local Credit Unions ,US
+5,52219,Other Depository Credit Intermediation ,US
+6,522190,Other Depository Credit Intermediation ,US
+4,5222,Non-Depository Credit Intermediation ,US
+5,52221,Credit Card Issuing ,US
+6,522210,Credit Card Issuing ,US
+5,52222,Sales Financing ,US
+6,522220,Sales Financing ,US
+5,52229,Other Non-Depository Credit Intermediation ,US
+6,522291,Consumer Lending ,US
+6,522299,All Other Non-Depository Credit Intermediation ,CAN
+4,5223,Activities Related to Credit Intermediation ,US
+5,52231,Mortgage and Non-mortgage Loan Brokers ,US
+6,522310,Mortgage and Non-mortgage Loan Brokers ,US
+5,52232,"Financial Transactions Processing, Reserve and Clearing House Activities ",US
+6,522321,Central Credit Unions ,CAN
+6,522329,Other Financial Transactions Processing and Clearing House Activities ,CAN
+5,52239,Other Activities Related to Credit Intermediation ,US
+6,522390,Other Activities Related to Credit Intermediation ,US
+3,523,"Securities, Commodity Contracts, and Other Financial Investment and Related Activities",""
+4,5231,Securities and Commodity Contracts Intermediation and Brokerage,""
+5,52311,Investment Banking and Securities Dealing ,US
+6,523110,Investment Banking and Securities Dealing ,US
+5,52312,Securities Brokerage ,US
+6,523120,Securities Brokerage ,US
+5,52313,Commodity Contracts Dealing ,US
+6,523130,Commodity Contracts Dealing ,US
+5,52314,Commodity Contracts Brokerage ,US
+6,523140,Commodity Contracts Brokerage ,US
+4,5232,Securities and Commodity Exchanges,""
+5,52321,Securities and Commodity Exchanges,""
+6,523210,Securities and Commodity Exchanges,""
+4,5239,Other Financial Investment Activities,""
+5,52391,Miscellaneous Intermediation ,US
+6,523910,Miscellaneous Intermediation ,US
+5,52392,Portfolio Management ,US
+6,523920,Portfolio Management ,US
+5,52393,Investment Advice ,US
+6,523930,Investment Advice ,US
+5,52399,All Other Financial Investment Activities ,US
+6,523990,All Other Financial Investment Activities ,CAN
+3,524,Insurance Carriers and Related Activities,""
+4,5241,Insurance Carriers,""
+5,52411,"Direct Life, Health and Medical Insurance Carriers ",US
+6,524111,"Direct Individual Life, Health and Medical Insurance Carriers ",CAN
+6,524112,"Direct Group Life, Health and Medical Insurance Carriers ",CAN
+5,52412,"Direct Insurance (except Life, Health and Medical) Carriers ",US
+6,524121,Direct General Property and Casualty Insurance Carriers ,CAN
+6,524122,"Direct, Private, Automobile Insurance Carriers ",CAN
+6,524123,"Direct, Public, Automobile Insurance Carriers ",CAN
+6,524124,Direct Property Insurance Carriers ,CAN
+6,524125,Direct Liability Insurance Carriers ,CAN
+6,524129,"Other Direct Insurance (except Life, Health and Medical) Carriers ",CAN
+5,52413,Reinsurance Carriers ,US
+6,524131,Life Reinsurance Carriers ,CAN
+6,524132,Accident and Sickness Reinsurance Carriers ,CAN
+6,524133,Automobile Reinsurance Carriers ,CAN
+6,524134,Property Reinsurance Carriers ,CAN
+6,524135,Liability Reinsurance Carriers ,CAN
+6,524139,General and Other Reinsurance Carriers ,CAN
+4,5242,"Agencies, Brokerages and Other Insurance Related Activities",""
+5,52421,Insurance Agencies and Brokerages ,US
+6,524210,Insurance Agencies and Brokerages ,US
+5,52429,Other Insurance Related Activities ,US
+6,524291,Claims Adjusters ,US
+6,524299,All Other Insurance Related Activities ,CAN
+3,526,Funds and Other Financial Vehicles ,CAN
+4,5261,Pension Funds ,CAN
+5,52611,Pension Funds ,CAN
+6,526111,Trusteed Pension Funds ,CAN
+6,526112,Non-Trusteed Pension Funds ,CAN
+4,5269,Other Funds and Financial Vehicles ,CAN
+5,52691,Open-End Investment Funds ,CAN
+6,526911,Equity Funds - Canadian ,CAN
+6,526912,Equity Funds - Foreign ,CAN
+6,526913,Mortgage Funds ,CAN
+6,526914,Money Market Funds ,CAN
+6,526915,Bond and Income / Dividend Funds - Canadian ,CAN
+6,526916,Bond and Income / Dividend Funds - Foreign ,CAN
+6,526917,Balanced Funds / Asset Allocation Funds ,CAN
+6,526919,Other Open-Ended Funds ,CAN
+5,52693,Segregated (except Pension) Funds ,CAN
+6,526930,Segregated (except Pension) Funds ,CAN
+5,52698,All Other Funds and Financial Vehicles ,CAN
+6,526981,Securitization Vehicles ,CAN
+6,526989,All Other Miscellaneous Funds and Financial Vehicles ,CAN
+3,531,Real Estate,""
+4,5311,Lessors of Real Estate,""
+5,53111,Lessors of Residential Buildings and Dwellings ,US
+6,531111,Lessors of Residential Buildings and Dwellings (except Social Housing Projects) ,CAN
+6,531112,Lessors of Social Housing Projects ,CAN
+5,53112,Lessors of Non-Residential Buildings (except Mini-Warehouses) ,US
+6,531120,Lessors of Non-Residential Buildings (except Mini-Warehouses) ,US
+5,53113,Self-Storage Mini-Warehouses ,US
+6,531130,Self-Storage Mini-Warehouses ,US
+5,53119,Lessors of Other Real Estate Property ,US
+6,531190,Lessors of Other Real Estate Property ,US
+4,5312,Offices of Real Estate Agents and Brokers,""
+5,53121,Offices of Real Estate Agents and Brokers,""
+6,531211,Real Estate Agents ,CAN
+6,531212,Offices of Real Estate Brokers ,CAN
+4,5313,Activities Related to Real Estate,""
+5,53131,Real Estate Property Managers ,US
+6,531310,Real Estate Property Managers ,CAN
+5,53132,Offices of Real Estate Appraisers ,US
+6,531320,Offices of Real Estate Appraisers ,US
+5,53139,Other Activities Related to Real Estate ,US
+6,531390,Other Activities Related to Real Estate ,US
+3,532,Rental and Leasing Services,""
+4,5321,Automotive Equipment Rental and Leasing,""
+5,53211,Passenger Car Rental and Leasing,""
+6,532111,Passenger Car Rental ,US
+6,532112,Passenger Car Leasing ,US
+5,53212,"Truck, Utility Trailer and RV (Recreational Vehicle) Rental and Leasing",""
+6,532120,"Truck, Utility Trailer and RV (Recreational Vehicle) Rental and Leasing ",US
+4,5322,Consumer Goods Rental,""
+5,53221,Consumer Electronics and Appliance Rental,""
+6,532210,Consumer Electronics and Appliance Rental,""
+5,53222,Formal Wear and Costume Rental,""
+6,532220,Formal Wear and Costume Rental,""
+5,53223,Video Tape and Disc Rental,""
+6,532230,Video Tape and Disc Rental,""
+5,53229,Other Consumer Goods Rental,""
+6,532290,Other Consumer Goods Rental ,CAN
+4,5323,General Rental Centres,""
+5,53231,General Rental Centres,""
+6,532310,General Rental Centres,""
+4,5324,Commercial and Industrial Machinery and Equipment Rental and Leasing,""
+5,53241,"Construction, Transportation, Mining, and Forestry Machinery and Equipment Rental and Leasing",""
+6,532410,"Construction, Transportation, Mining, and Forestry Machinery and Equipment Rental and Leasing ",CAN
+5,53242,Office Machinery and Equipment Rental and Leasing,""
+6,532420,Office Machinery and Equipment Rental and Leasing,""
+5,53249,Other Commercial and Industrial Machinery and Equipment Rental and Leasing,""
+6,532490,Other Commercial and Industrial Machinery and Equipment Rental and Leasing ,US
+3,533,Lessors of Non-Financial Intangible Assets (Except Copyrighted Works),""
+4,5331,Lessors of Non-Financial Intangible Assets (Except Copyrighted Works),""
+5,53311,Lessors of Non-Financial Intangible Assets (Except Copyrighted Works),""
+6,533110,Lessors of Non-Financial Intangible Assets (Except Copyrighted Works),""
+3,541,"Professional, Scientific and Technical Services",""
+4,5411,Legal Services,""
+5,54111,Offices of Lawyers,""
+6,541110,Offices of Lawyers,""
+5,54112,Offices of Notaries,""
+6,541120,Offices of Notaries,""
+5,54119,Other Legal Services,""
+6,541190,Other Legal Services ,MEX
+4,5412,"Accounting, Tax Preparation, Bookkeeping and Payroll Services",""
+5,54121,"Accounting, Tax Preparation, Bookkeeping and Payroll Services",""
+6,541212,Offices of Accountants ,CAN
+6,541213,Tax Preparation Services ,US
+6,541215,"Bookkeeping, Payroll and Related Services ",CAN
+4,5413,"Architectural, Engineering and Related Services",""
+5,54131,Architectural Services,""
+6,541310,Architectural Services,""
+5,54132,Landscape Architectural Services,""
+6,541320,Landscape Architectural Services,""
+5,54133,Engineering Services,""
+6,541330,Engineering Services,""
+5,54134,Drafting Services,""
+6,541340,Drafting Services,""
+5,54135,Building Inspection Services,""
+6,541350,Building Inspection Services,""
+5,54136,Geophysical Surveying and Mapping Services,""
+6,541360,Geophysical Surveying and Mapping Services,""
+5,54137,Surveying and Mapping (except Geophysical) Services,""
+6,541370,Surveying and Mapping (except Geophysical) Services,""
+5,54138,Testing Laboratories,""
+6,541380,Testing Laboratories,""
+4,5414,Specialized Design Services,""
+5,54141,Interior Design Services,""
+6,541410,Interior Design Services,""
+5,54142,Industrial Design Services,""
+6,541420,Industrial Design Services,""
+5,54143,Graphic Design Services,""
+6,541430,Graphic Design Services,""
+5,54149,Other Specialized Design Services,""
+6,541490,Other Specialized Design Services,""
+4,5415,Computer Systems Design and Related Services,""
+5,54151,Computer Systems Design and Related Services,""
+6,541510,Computer Systems Design and Related Services ,MEX
+4,5416,"Management, Scientific and Technical Consulting Services",""
+5,54161,Management Consulting Services,""
+6,541611,Administrative Management and General Management Consulting Services ,US
+6,541612,Human Resources Consulting Services ,US
+6,541619,Other Management Consulting Services ,CAN
+5,54162,Environmental Consulting Services,""
+6,541620,Environmental Consulting Services,""
+5,54169,Other Scientific and Technical Consulting Services,""
+6,541690,Other Scientific and Technical Consulting Services,""
+4,5417,Scientific Research and Development Services,""
+5,54171,"Research and Development in the Physical, Engineering and Life Sciences",""
+6,541710,"Research and Development in the Physical, Engineering and Life Sciences ",CAN
+5,54172,Research and Development in the Social Sciences and Humanities,""
+6,541720,Research and Development in the Social Sciences and Humanities ,US
+4,5418,"Advertising, Public Relations, and Related Services",""
+5,54181,Advertising Agencies,""
+6,541810,Advertising Agencies,""
+5,54182,Public Relations Services,""
+6,541820,Public Relations Services,""
+5,54183,Media Buying Agencies,""
+6,541830,Media Buying Agencies,""
+5,54184,Media Representatives,""
+6,541840,Media Representatives,""
+5,54185,Display Advertising,""
+6,541850,Display Advertising,""
+5,54186,Direct Mail Advertising,""
+6,541860,Direct Mail Advertising,""
+5,54187,Advertising Material Distribution Services,""
+6,541870,Advertising Material Distribution Services,""
+5,54189,Other Services Related to Advertising,""
+6,541891,Specialty Advertising Distributors ,CAN
+6,541899,All Other Services Related to Advertising ,CAN
+4,5419,"Other Professional, Scientific and Technical Services",""
+5,54191,Marketing Research and Public Opinion Polling,""
+6,541910,Marketing Research and Public Opinion Polling,""
+5,54192,Photographic Services,""
+6,541920,Photographic Services ,MEX
+5,54193,Translation and Interpretation Services,""
+6,541930,Translation and Interpretation Services,""
+5,54194,Veterinary Services,""
+6,541940,Veterinary Services ,US
+5,54199,"All Other Professional, Scientific and Technical Services",""
+6,541990,"All Other Professional, Scientific and Technical Services",""
+2,55,Management of Companies and Enterprises,""
+3,551,Management of Companies and Enterprises,""
+4,5511,Management of Companies and Enterprises,""
+5,55111,Management of Companies and Enterprises,""
+6,551113,Holding Companies ,CAN
+6,551114,Head Offices ,US
+2,56,"Administrative and Support, Waste Management and Remediation Services",""
+3,561,Administrative and Support Services,""
+4,5611,Office Administrative Services,""
+5,56111,Office Administrative Services,""
+6,561110,Office Administrative Services,""
+4,5612,Facilities Support Services,""
+5,56121,Facilities Support Services,""
+6,561210,Facilities Support Services,""
+4,5613,Employment Services,""
+5,56131,Employment Placement Agencies and Executive Search Services,""
+6,561310,Employment Placement Agencies and Executive Search Services,""
+5,56132,Temporary Help Services,""
+6,561320,Temporary Help Services,""
+5,56133,Professional Employer Organizations,""
+6,561330,Professional Employer Organizations,""
+4,5614,Business Support Services,""
+5,56141,Document Preparation Services,""
+6,561410,Document Preparation Services,""
+5,56142,Telephone Call Centres,""
+6,561420,Telephone Call Centres ,CAN
+5,56143,Business Service Centres,""
+6,561430,Business Service Centres ,CAN
+5,56144,Collection Agencies,""
+6,561440,Collection Agencies,""
+5,56145,Credit Bureaus,""
+6,561450,Credit Bureaus,""
+5,56149,Other Business Support Services,""
+6,561490,Other Business Support Services ,MEX
+4,5615,Travel Arrangement and Reservation Services,""
+5,56151,Travel Agencies,""
+6,561510,Travel Agencies,""
+5,56152,Tour Operators,""
+6,561520,Tour Operators,""
+5,56159,Other Travel Arrangement and Reservation Services,""
+6,561590,Other Travel Arrangement and Reservation Services ,MEX
+4,5616,Investigation and Security Services,""
+5,56161,"Investigation, Guard and Armoured Car Services",""
+6,561611,Investigation Services ,US
+6,561612,Security Guard and Patrol Services ,US
+6,561613,Armoured Car Services ,US
+5,56162,Security Systems Services,""
+6,561621,Security Systems Services (except Locksmiths) ,US
+6,561622,Locksmiths ,US
+4,5617,Services to Buildings and Dwellings,""
+5,56171,Exterminating and Pest Control Services,""
+6,561710,Exterminating and Pest Control Services,""
+5,56172,Janitorial Services,""
+6,561721,Window Cleaning Services ,CAN
+6,561722,Janitorial Services (except Window Cleaning) ,CAN
+5,56173,Landscaping Services,""
+6,561730,Landscaping Services,""
+5,56174,Carpet and Upholstery Cleaning Services,""
+6,561740,Carpet and Upholstery Cleaning Services,""
+5,56179,Other Services to Buildings and Dwellings,""
+6,561791,Duct and Chimney Cleaning Services ,CAN
+6,561799,All Other Services to Buildings and Dwellings ,CAN
+4,5619,Other Support Services,""
+5,56191,Packaging and Labelling Services,""
+6,561910,Packaging and Labelling Services,""
+5,56192,Convention and Trade Show Organizers,""
+6,561920,Convention and Trade Show Organizers,""
+5,56199,All Other Support Services,""
+6,561990,All Other Support Services,""
+3,562,Waste Management and Remediation Services,""
+4,5621,Waste Collection ,US
+5,56211,Waste Collection ,US
+6,562110,Waste Collection ,CAN
+4,5622,Waste Treatment and Disposal ,US
+5,56221,Waste Treatment and Disposal ,US
+6,562210,Waste Treatment and Disposal ,CAN
+4,5629,Remediation and Other Waste Management Services ,US
+5,56291,Remediation Services ,US
+6,562910,Remediation Services ,US
+5,56292,Material Recovery Facilities ,US
+6,562920,Material Recovery Facilities ,US
+5,56299,All Other Waste Management Services ,US
+6,562990,All Other Waste Management Services ,CAN
+2,61,Educational Services,""
+3,611,Educational Services,""
+4,6111,Elementary and Secondary Schools,""
+5,61111,Elementary and Secondary Schools ,US
+6,611110,Elementary and Secondary Schools ,US
+4,6112,Community Colleges and C.E.G.E.P.s,""
+5,61121,Community Colleges and C.E.G.E.P.s,""
+6,611210,Community Colleges and C.E.G.E.P.s ,US
+4,6113,Universities,""
+5,61131,Universities,""
+6,611310,Universities ,US
+4,6114,Business Schools and Computer and Management Training,""
+5,61141,Business and Secretarial Schools,""
+6,611410,Business and Secretarial Schools ,US
+5,61142,Computer Training,""
+6,611420,Computer Training ,US
+5,61143,Professional and Management Development Training,""
+6,611430,Professional and Management Development Training ,US
+4,6115,Technical and Trade Schools,""
+5,61151,Technical and Trade Schools,""
+6,611510,Technical and Trade Schools ,CAN
+4,6116,Other Schools and Instruction,""
+5,61161,Fine Arts Schools,""
+6,611610,Fine Arts Schools ,US
+5,61162,Athletic Instruction,""
+6,611620,Athletic Instruction ,US
+5,61163,Language Schools,""
+6,611630,Language Schools ,US
+5,61169,All Other Schools and Instruction,""
+6,611690,All Other Schools and Instruction ,CAN
+4,6117,Educational Support Services,""
+5,61171,Educational Support Services,""
+6,611710,Educational Support Services,""
+2,62,Health Care and Social Assistance,""
+3,621,Ambulatory Health Care Services,""
+4,6211,Offices of Physicians,""
+5,62111,Offices of Physicians,""
+6,621110,Offices of Physicians ,CAN
+4,6212,Offices of Dentists,""
+5,62121,Offices of Dentists,""
+6,621210,Offices of Dentists ,US
+4,6213,Offices of Other Health Practitioners,""
+5,62131,Offices of Chiropractors,""
+6,621310,Offices of Chiropractors ,US
+5,62132,Offices of Optometrists,""
+6,621320,Offices of Optometrists,""
+5,62133,Offices of Mental Health Practitioners (except Physicians),""
+6,621330,Offices of Mental Health Practitioners (except Physicians) ,US
+5,62134,"Offices of Physical, Occupational, and Speech Therapists and Audiologists",""
+6,621340,"Offices of Physical, Occupational, and Speech Therapists and Audiologists ",US
+5,62139,Offices of All Other Health Practitioners,""
+6,621390,Offices of All Other Health Practitioners ,CAN
+4,6214,Out-Patient Care Centres,""
+5,62141,Family Planning Centres,""
+6,621410,Family Planning Centres ,US
+5,62142,Out-Patient Mental Health and Substance Abuse Centres,""
+6,621420,Out-Patient Mental Health and Substance Abuse Centres ,US
+5,62149,Other Out-Patient Care Centres,""
+6,621494,Community Health Centres ,CAN
+6,621499,All Other Out-Patient Care Centres ,CAN
+4,6215,Medical and Diagnostic Laboratories,""
+5,62151,Medical and Diagnostic Laboratories,""
+6,621510,Medical and Diagnostic Laboratories ,CAN
+4,6216,Home Health Care Services,""
+5,62161,Home Health Care Services,""
+6,621610,Home Health Care Services,""
+4,6219,Other Ambulatory Health Care Services,""
+5,62191,Ambulance Services,""
+6,621911,Ambulance (except Air Ambulance) Services ,CAN
+6,621912,Air Ambulance Services ,CAN
+5,62199,All Other Ambulatory Health Care Services,""
+6,621990,All Other Ambulatory Health Care Services ,CAN
+3,622,Hospitals,""
+4,6221,General Medical and Surgical Hospitals,""
+5,62211,General Medical and Surgical Hospitals,""
+6,622111,General (except Paediatric) Hospitals ,CAN
+6,622112,Paediatric Hospitals ,CAN
+4,6222,Psychiatric and Substance Abuse Hospitals,""
+5,62221,Psychiatric and Substance Abuse Hospitals,""
+6,622210,Psychiatric and Substance Abuse Hospitals ,US
+4,6223,Specialty (except Psychiatric and Substance Abuse) Hospitals,""
+5,62231,Specialty (except Psychiatric and Substance Abuse) Hospitals,""
+6,622310,Specialty (except Psychiatric and Substance Abuse) Hospitals ,US
+3,623,Nursing and Residential Care Facilities,""
+4,6231,Nursing Care Facilities,""
+5,62311,Nursing Care Facilities,""
+6,623110,Nursing Care Facilities ,US
+4,6232,"Residential Developmental Handicap, Mental Health and Substance Abuse Facilities",""
+5,62321,Residential Developmental Handicap Facilities,""
+6,623210,Residential Developmental Handicap Facilities ,US
+5,62322,Residential Mental Health and Substance Abuse Facilities,""
+6,623221,Residential Substance Abuse Facilities ,CAN
+6,623222,Homes for the Psychiatrically Disabled ,CAN
+4,6233,Community Care Facilities for the Elderly,""
+5,62331,Community Care Facilities for the Elderly,""
+6,623310,Community Care Facilities for the Elderly ,CAN
+4,6239,Other Residential Care Facilities,""
+5,62399,Other Residential Care Facilities,""
+6,623991,Transition Homes for Women ,CAN
+6,623992,Homes for Emotionally Disturbed Children ,CAN
+6,623993,Homes for the Physically Handicapped or Disabled ,CAN
+6,623999,All Other Residential Care Facilities ,CAN
+3,624,Social Assistance,""
+4,6241,Individual and Family Services,""
+5,62411,Child and Youth Services,""
+6,624110,Child and Youth Services ,US
+5,62412,Services for the Elderly and Persons with Disabilities,""
+6,624120,Services for the Elderly and Persons with Disabilities ,US
+5,62419,Other Individual and Family Services,""
+6,624190,Other Individual and Family Services ,US
+4,6242,"Community Food and Housing, and Emergency and Other Relief Services",""
+5,62421,Community Food Services,""
+6,624210,Community Food Services ,US
+5,62422,Community Housing Services,""
+6,624220,Community Housing Services ,CAN
+5,62423,Emergency and Other Relief Services,""
+6,624230,Emergency and Other Relief Services ,US
+4,6243,Vocational Rehabilitation Services,""
+5,62431,Vocational Rehabilitation Services,""
+6,624310,Vocational Rehabilitation Services ,US
+4,6244,Child Day-Care Services,""
+5,62441,Child Day-Care Services,""
+6,624410,Child Day-Care Services ,US
+3,711,"Performing Arts, Spectator Sports and Related Industries",""
+4,7111,Performing Arts Companies,""
+5,71111,Theatre Companies and Dinner Theatres,""
+6,711111,Theatre (except Musical) Companies ,CAN
+6,711112,Musical Theatre and Opera Companies ,CAN
+5,71112,Dance Companies,""
+6,711120,Dance Companies ,US
+5,71113,Musical Groups and Artists,""
+6,711130,Musical Groups and Artists ,US
+5,71119,Other Performing Arts Companies,""
+6,711190,Other Performing Arts Companies ,US
+4,7112,Spectator Sports,""
+5,71121,Spectator Sports,""
+6,711211,Sports Teams and Clubs ,US
+6,711213,Horse Race Tracks ,CAN
+6,711218,Other Spectator Sports ,CAN
+4,7113,"Promoters (Presenters) of Performing Arts, Sports and Similar Events",""
+5,71131,"Promoters (Presenters) of Performing Arts, Sports and Similar Events with Facilities",""
+6,711311,Live Theatres and Other Performing Arts Presenters with Facilities ,CAN
+6,711319,Sports Stadiums and Other Presenters with Facilities ,CAN
+5,71132,"Promoters (Presenters) of Performing Arts, Sports and Similar Events without Facilities",""
+6,711321,Performing Arts Promoters (Presenters) without Facilities ,CAN
+6,711322,Festivals without Facilities ,CAN
+6,711329,Sports Presenters and Other Presenters without Facilities ,CAN
+4,7114,"Agents and Managers for Artists, Athletes, Entertainers and Other Public Figures",""
+5,71141,"Agents and Managers for Artists, Athletes, Entertainers and Other Public Figures",""
+6,711410,"Agents and Managers for Artists, Athletes, Entertainers and Other Public Figures",""
+4,7115,"Independent Artists, Writers and Performers",""
+5,71151,"Independent Artists, Writers and Performers",""
+6,711511,"Independent Artists, Visual Arts ",CAN
+6,711512,"Independent Actors, Comedians and Performers ",CAN
+6,711513,Independent Writers and Authors ,CAN
+3,712,Heritage Institutions,""
+4,7121,Heritage Institutions,""
+5,71211,Museums,""
+6,712111,Non-Commercial Art Museums and Galleries ,CAN
+6,712115,History and Science Museums ,CAN
+6,712119,Other Museums ,CAN
+5,71212,Historic and Heritage Sites,""
+6,712120,Historic and Heritage Sites,""
+5,71213,Zoos and Botanical Gardens,""
+6,712130,Zoos and Botanical Gardens ,US
+5,71219,Nature Parks and Other Similar Institutions,""
+6,712190,Nature Parks and Other Similar Institutions,""
+3,713,"Amusement, Gambling and Recreation Industries",""
+4,7131,Amusement Parks and Arcades,""
+5,71311,Amusement and Theme Parks,""
+6,713110,Amusement and Theme Parks ,US
+5,71312,Amusement Arcades,""
+6,713120,Amusement Arcades,""
+4,7132,Gambling Industries,""
+5,71321,Casinos (except Casino Hotels),""
+6,713210,Casinos (except Casino Hotels),""
+5,71329,Other Gambling Industries,""
+6,713291,Lotteries ,MEX
+6,713299,All Other Gambling Industries ,MEX
+4,7139,Other Amusement and Recreation Industries,""
+5,71391,Golf Courses and Country Clubs,""
+6,713910,Golf Courses and Country Clubs,""
+5,71392,Skiing Facilities,""
+6,713920,Skiing Facilities,""
+5,71393,Marinas,""
+6,713930,Marinas,""
+5,71394,Fitness and Recreational Sports Centres,""
+6,713940,Fitness and Recreational Sports Centres ,US
+5,71395,Bowling Centres,""
+6,713950,Bowling Centres,""
+5,71399,All Other Amusement and Recreation Industries,""
+6,713990,All Other Amusement and Recreation Industries ,US
+2,72,Accommodation and Food Services,""
+3,721,Accommodation Services,""
+4,7211,Traveller Accommodation,""
+5,72111,Hotels (except Casino Hotels) and Motels,""
+6,721111,Hotels ,CAN
+6,721112,Motor Hotels ,CAN
+6,721113,Resorts ,CAN
+6,721114,Motels ,CAN
+5,72112,Casino Hotels,""
+6,721120,Casino Hotels,""
+5,72119,Other Traveller Accommodation,""
+6,721191,Bed and Breakfast ,US
+6,721192,Housekeeping Cottages and Cabins ,CAN
+6,721198,All Other Traveller Accommodation ,CAN
+4,7212,RV (Recreational Vehicle) Parks and Recreational Camps,""
+5,72121,RV (Recreational Vehicle) Parks and Recreational Camps,""
+6,721211,RV (Recreational Vehicle) Parks and Campgrounds ,US
+6,721212,Hunting and Fishing Camps ,CAN
+6,721213,Recreational (except Hunting and Fishing) and Vacation Camps ,CAN
+4,7213,Rooming and Boarding Houses,""
+5,72131,Rooming and Boarding Houses,""
+6,721310,Rooming and Boarding Houses ,US
+3,722,Food Services and Drinking Places,""
+4,7221,Full-Service Restaurants,""
+5,72211,Full-Service Restaurants,""
+6,722110,Full-Service Restaurants ,US
+4,7222,Limited-Service Eating Places,""
+5,72221,Limited-Service Eating Places,""
+6,722210,Limited-Service Eating Places ,CAN
+4,7223,Special Food Services,""
+5,72231,Food Service Contractors,""
+6,722310,Food Service Contractors,""
+5,72232,Caterers,""
+6,722320,Caterers,""
+5,72233,Mobile Food Services,""
+6,722330,Mobile Food Services,""
+4,7224,Drinking Places (Alcoholic Beverages),""
+5,72241,Drinking Places (Alcoholic Beverages),""
+6,722410,Drinking Places (Alcoholic Beverages) ,US
+2,81,Other Services (except Public Administration),""
+3,811,Repair and Maintenance,""
+4,8111,Automotive Repair and Maintenance,""
+5,81111,Automotive Mechanical and Electrical Repair and Maintenance,""
+6,811111,General Automotive Repair ,US
+6,811112,Automotive Exhaust System Repair ,US
+6,811119,Other Automotive Mechanical and Electrical Repair and Maintenance ,CAN
+5,81112,"Automotive Body, Paint, Interior and Glass Repair",""
+6,811121,"Automotive Body, Paint and Interior Repair and Maintenance ",US
+6,811122,Automotive Glass Replacement Shops ,US
+5,81119,Other Automotive Repair and Maintenance,""
+6,811192,Car Washes ,US
+6,811199,All Other Automotive Repair and Maintenance ,CAN
+4,8112,Electronic and Precision Equipment Repair and Maintenance,""
+5,81121,Electronic and Precision Equipment Repair and Maintenance,""
+6,811210,Electronic and Precision Equipment Repair and Maintenance ,CAN
+4,8113,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,""
+5,81131,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,""
+6,811310,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ,US
+4,8114,Personal and Household Goods Repair and Maintenance,""
+5,81141,Home and Garden Equipment and Appliance Repair and Maintenance,""
+6,811411,Home and Garden Equipment Repair and Maintenance ,US
+6,811412,Appliance Repair and Maintenance ,US
+5,81142,Reupholstery and Furniture Repair,""
+6,811420,Reupholstery and Furniture Repair,""
+5,81143,Footwear and Leather Goods Repair,""
+6,811430,Footwear and Leather Goods Repair,""
+5,81149,Other Personal and Household Goods Repair and Maintenance,""
+6,811490,Other Personal and Household Goods Repair and Maintenance ,US
+3,812,Personal and Laundry Services,""
+4,8121,Personal Care Services ,US
+5,81211,Hair Care and Esthetic Services ,US
+6,812114,Barber Shops ,CAN
+6,812115,Beauty Salons ,CAN
+6,812116,Unisex Hair Salons ,CAN
+5,81219,Other Personal Care Services ,US
+6,812190,Other Personal Care Services ,CAN
+4,8122,Funeral Services ,US
+5,81221,Funeral Homes ,US
+6,812210,Funeral Homes ,US
+5,81222,Cemeteries and Crematoria ,US
+6,812220,Cemeteries and Crematoria ,US
+4,8123,Dry Cleaning and Laundry Services ,US
+5,81231,Coin-Operated Laundries and Dry Cleaners ,US
+6,812310,Coin-Operated Laundries and Dry Cleaners ,US
+5,81232,Dry Cleaning and Laundry Services (except Coin-Operated) ,US
+6,812320,Dry Cleaning and Laundry Services (except Coin-Operated) ,US
+5,81233,Linen and Uniform Supply ,US
+6,812330,Linen and Uniform Supply ,CAN
+4,8129,Other Personal Services ,US
+5,81291,Pet Care (except Veterinary) Services ,US
+6,812910,Pet Care (except Veterinary) Services ,US
+5,81292,Photo Finishing Services ,US
+6,812921,Photo Finishing Laboratories (except One-Hour) ,US
+6,812922,One-Hour Photo Finishing ,US
+5,81293,Parking Lots and Garages ,US
+6,812930,Parking Lots and Garages ,US
+5,81299,All Other Personal Services ,US
+6,812990,All Other Personal Services ,US
+3,813,"Religious, Grant-Making, Civic, and Professional and Similar Organizations",""
+4,8131,Religious Organizations ,US
+5,81311,Religious Organizations ,US
+6,813110,Religious Organizations ,US
+4,8132,Grant-Making and Giving Services ,US
+5,81321,Grant-Making and Giving Services ,US
+6,813210,Grant-Making and Giving Services ,CAN
+4,8133,Social Advocacy Organizations ,US
+5,81331,Social Advocacy Organizations ,US
+6,813310,Social Advocacy Organizations ,CAN
+4,8134,Civic and Social Organizations ,US
+5,81341,Civic and Social Organizations ,US
+6,813410,Civic and Social Organizations ,US
+4,8139,"Business, Professional, Labour and Other Membership Organizations ",US
+5,81391,Business Associations ,US
+6,813910,Business Associations ,US
+5,81392,Professional Organizations ,US
+6,813920,Professional Organizations ,US
+5,81393,Labour Organizations ,US
+6,813930,Labour Organizations ,US
+5,81394,Political Organizations ,US
+6,813940,Political Organizations ,US
+5,81399,Other Membership Organizations ,US
+6,813990,Other Membership Organizations ,US
+3,814,Private Households,""
+4,8141,Private Households,""
+5,81411,Private Households,""
+6,814110,Private Households,""
+2,91,Public Administration,""
+3,911,Federal Government Public Administration ,CAN
+4,9111,Defence Services ,CAN
+5,91111,Defence Services ,CAN
+6,911110,Defence Services ,CAN
+4,9112,Federal Protective Services ,CAN
+5,91121,Federal Courts of Law ,CAN
+6,911210,Federal Courts of Law ,CAN
+5,91122,Federal Correctional Services ,CAN
+6,911220,Federal Correctional Services ,CAN
+5,91123,Federal Police Services ,CAN
+6,911230,Federal Police Services ,CAN
+5,91124,Federal Regulatory Services ,CAN
+6,911240,Federal Regulatory Services ,CAN
+5,91129,Other Federal Protective Services ,CAN
+6,911290,Other Federal Protective Services ,CAN
+4,9113,"Federal Labour, Employment and Immigration Services ",CAN
+5,91131,Federal Labour and Employment Services ,CAN
+6,911310,Federal Labour and Employment Services ,CAN
+5,91132,Immigration Services ,CAN
+6,911320,Immigration Services ,CAN
+5,91139,"Other Federal Labour, Employment and Immigration Services ",CAN
+6,911390,"Other Federal Labour, Employment and Immigration Services ",CAN
+4,9114,Foreign Affairs and International Assistance ,CAN
+5,91141,Foreign Affairs ,CAN
+6,911410,Foreign Affairs ,CAN
+5,91142,International Assistance ,CAN
+6,911420,International Assistance ,CAN
+4,9119,Other Federal Government Public Administration ,CAN
+5,91191,Other Federal Government Public Administration ,CAN
+6,911910,Other Federal Government Public Administration ,CAN
+3,912,Provincial and Territorial Public Administration ,CAN
+4,9121,Provincial Protective Services ,CAN
+5,91211,Provincial Courts of Law ,CAN
+6,912110,Provincial Courts of Law ,CAN
+5,91212,Provincial Correctional Services ,CAN
+6,912120,Provincial Correctional Services ,CAN
+5,91213,Provincial Police Services ,CAN
+6,912130,Provincial Police Services ,CAN
+5,91214,Provincial Fire-Fighting Services ,CAN
+6,912140,Provincial Fire-Fighting Services ,CAN
+5,91215,Provincial Regulatory Services ,CAN
+6,912150,Provincial Regulatory Services ,CAN
+5,91219,Other Provincial Protective Services ,CAN
+6,912190,Other Provincial Protective Services ,CAN
+4,9122,Provincial Labour and Employment Services ,CAN
+5,91221,Provincial Labour and Employment Services ,CAN
+6,912210,Provincial Labour and Employment Services ,CAN
+4,9129,Other Provincial and Territorial Public Administration ,CAN
+5,91291,Other Provincial and Territorial Public Administration ,CAN
+6,912910,Other Provincial and Territorial Public Administration ,CAN
+3,913,"Local, Municipal and Regional Public Administration ",CAN
+4,9131,Municipal Protective Services ,CAN
+5,91311,Municipal Courts of Law ,CAN
+6,913110,Municipal Courts of Law ,CAN
+5,91312,Municipal Correctional Services ,CAN
+6,913120,Municipal Correctional Services ,CAN
+5,91313,Municipal Police Services ,CAN
+6,913130,Municipal Police Services ,CAN
+5,91314,Municipal Fire-Fighting Services ,CAN
+6,913140,Municipal Fire-Fighting Services ,CAN
+5,91315,Municipal Regulatory Services ,CAN
+6,913150,Municipal Regulatory Services ,CAN
+5,91319,Other Municipal Protective Services ,CAN
+6,913190,Other Municipal Protective Services ,CAN
+4,9139,"Other Local, Municipal and Regional Public Administration ",CAN
+5,91391,"Other Local, Municipal and Regional Public Administration ",CAN
+6,913910,"Other Local, Municipal and Regional Public Administration ",CAN
+3,914,Aboriginal Public Administration ,CAN
+4,9141,Aboriginal Public Administration ,CAN
+5,91411,Aboriginal Public Administration ,CAN
+6,914110,Aboriginal Public Administration ,CAN
+3,919,International and Other Extra-Territorial Public Administration ,CAN
+4,9191,International and Other Extra-Territorial Public Administration ,CAN
+5,91911,International and Other Extra-Territorial Public Administration ,CAN
+6,919110,International and Other Extra-Territorial Public Administration ,CAN
