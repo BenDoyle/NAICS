@@ -8,7 +8,7 @@ out = []
 a.each do |fields|
 
   notes_regexp = /(CAN|MEX|US)/
-  name  = fields[1].strip.gsub(notes_regexp,'')
+  name  = fields[1].strip.gsub(notes_regexp,'').strip
   notes = fields[1].strip.match(notes_regexp) ? fields[1].strip.match(notes_regexp)[0] : ""
   
   out << {
