@@ -1384,3 +1384,1142 @@
 454319	 Other Fuel Dealers US
 45439	 Other Direct Selling Establishments US
 454390	 Other Direct Selling Establishments US
+
+	 48-49	 Transportation and Warehousing
+ 
+481	 Air Transportation
+ 
+4811	 Scheduled Air Transportation
+48111	 Scheduled Air Transportation
+481110	 Scheduled Air Transportation CAN
+ 
+4812	 Non-Scheduled Air Transportation
+48121	 Non-Scheduled Air Transportation
+481214	 Non-Scheduled Chartered Air Transportation CAN
+481215	 Non-Scheduled Specialty Flying Services CAN
+ 
+482	 Rail Transportation
+ 
+4821	 Rail Transportation
+48211	 Rail Transportation
+482112	 Short-Haul Freight Rail Transportation US
+482113	 Mainline Freight Rail Transportation CAN
+482114	 Passenger Rail Transportation CAN
+ 
+483	 Water Transportation
+ 
+4831	 Deep Sea, Coastal and Great Lakes Water Transportation
+48311	 Deep Sea, Coastal and Great Lakes Water Transportation
+483115	 Deep Sea, Coastal and Great Lakes Water Transportation (except by Ferries) CAN
+483116	 Deep Sea, Coastal and Great Lakes Water Transportation by Ferries CAN
+ 
+4832	 Inland Water Transportation
+48321	 Inland Water Transportation
+483213	 Inland Water Transportation (except by Ferries) CAN
+483214	 Inland Water Transportation by Ferries CAN
+ 
+484	 Truck Transportation
+ 
+4841	 General Freight Trucking
+48411	 General Freight Trucking, Local
+484110	 General Freight Trucking, Local US
+48412	 General Freight Trucking, Long Distance
+484121	 General Freight Trucking, Long Distance, Truck-Load US
+484122	 General Freight Trucking, Long Distance, Less Than Truck-Load US
+ 
+4842	 Specialized Freight Trucking
+48421	 Used Household and Office Goods Moving
+484210	 Used Household and Office Goods Moving
+48422	 Specialized Freight (except Used Goods) Trucking, Local
+484221	 Bulk Liquids Trucking, Local CAN
+484222	 Dry Bulk Materials Trucking, Local CAN
+484223	 Forest Products Trucking, Local CAN
+484229	 Other Specialized Freight (except Used Goods) Trucking, Local CAN
+48423	 Specialized Freight (except Used Goods) Trucking, Long Distance
+484231	 Bulk Liquids Trucking, Long Distance CAN
+484232	 Dry Bulk Materials Trucking, Long Distance CAN
+484233	 Forest Products Trucking, Long Distance CAN
+484239	 Other Specialized Freight (except Used Goods) Trucking, Long Distance CAN
+ 
+485	 Transit and Ground Passenger Transportation
+ 
+4851	 Urban Transit Systems
+48511	 Urban Transit Systems
+485110	 Urban Transit Systems CAN
+ 
+4852	 Interurban and Rural Bus Transportation
+48521	 Interurban and Rural Bus Transportation
+485210	 Interurban and Rural Bus Transportation
+ 
+4853	 Taxi and Limousine Service
+48531	 Taxi Service
+485310	 Taxi Service US
+48532	 Limousine Service
+485320	 Limousine Service
+ 
+4854	 School and Employee Bus Transportation
+48541	 School and Employee Bus Transportation
+485410	 School and Employee Bus Transportation
+ 
+4855	 Charter Bus Industry
+48551	 Charter Bus Industry
+485510	 Charter Bus Industry
+ 
+4859	 Other Transit and Ground Passenger Transportation
+48599	 Other Transit and Ground Passenger Transportation
+485990	 Other Transit and Ground Passenger Transportation CAN
+ 
+486	 Pipeline Transportation
+ 
+4861	 Pipeline Transportation of Crude Oil
+48611	 Pipeline Transportation of Crude Oil
+486110	 Pipeline Transportation of Crude Oil
+ 
+4862	 Pipeline Transportation of Natural Gas
+48621	 Pipeline Transportation of Natural Gas
+486210	 Pipeline Transportation of Natural Gas
+ 
+4869	 Other Pipeline Transportation
+48691	 Pipeline Transportation of Refined Petroleum Products
+486910	 Pipeline Transportation of Refined Petroleum Products
+48699	 All Other Pipeline Transportation
+486990	 All Other Pipeline Transportation
+ 
+487	 Scenic and Sightseeing Transportation
+ 
+4871	 Scenic and Sightseeing Transportation, Land
+48711	 Scenic and Sightseeing Transportation, Land
+487110	 Scenic and Sightseeing Transportation, Land
+ 
+4872	 Scenic and Sightseeing Transportation, Water
+48721	 Scenic and Sightseeing Transportation, Water
+487210	 Scenic and Sightseeing Transportation, Water
+ 
+4879	 Scenic and Sightseeing Transportation, Other
+48799	 Scenic and Sightseeing Transportation, Other
+487990	 Scenic and Sightseeing Transportation, Other
+ 
+488	 Support Activities for Transportation
+ 
+4881	 Support Activities for Air Transportation
+48811	 Airport Operations
+488111	 Air Traffic Control
+488119	 Other Airport Operations US
+48819	 Other Support Activities for Air Transportation
+488190	 Other Support Activities for Air Transportation
+ 
+4882	 Support Activities for Rail Transportation
+48821	 Support Activities for Rail Transportation
+488210	 Support Activities for Rail Transportation
+ 
+4883	 Support Activities for Water Transportation
+48831	 Port and Harbour Operations
+488310	 Port and Harbour Operations
+48832	 Marine Cargo Handling
+488320	 Marine Cargo Handling
+48833	 Navigational Services to Shipping
+488331	 Marine Salvage Services CAN
+488332	 Ship Piloting Services CAN
+488339	 Other Navigational Services to Shipping CAN
+48839	 Other Support Activities for Water Transportation
+488390	 Other Support Activities for Water Transportation
+ 
+4884	 Support Activities for Road Transportation
+48841	 Motor Vehicle Towing
+488410	 Motor Vehicle Towing
+48849	 Other Support Activities for Road Transportation
+488490	 Other Support Activities for Road Transportation US
+ 
+4885	 Freight Transportation Arrangement
+48851	 Freight Transportation Arrangement
+488511	 Marine Shipping Agencies CAN
+488519	 Other Freight Transportation Arrangement CAN
+ 
+4889	 Other Support Activities for Transportation
+48899	 Other Support Activities for Transportation
+488990	 Other Support Activities for Transportation MEX
+ 
+491	 Postal Service
+ 
+4911	 Postal Service
+49111	 Postal Service
+491110	 Postal Service
+ 
+492	 Couriers and Messengers
+ 
+4921	 Couriers
+49211	 Couriers
+492110	 Couriers
+ 
+4922	 Local Messengers and Local Delivery
+49221	 Local Messengers and Local Delivery
+492210	 Local Messengers and Local Delivery
+ 
+493	 Warehousing and Storage
+ 
+4931	 Warehousing and Storage
+49311	 General Warehousing and Storage
+493110	 General Warehousing and Storage US
+49312	 Refrigerated Warehousing and Storage
+493120	 Refrigerated Warehousing and Storage
+49313	 Farm Product Warehousing and Storage
+493130	 Farm Product Warehousing and Storage
+49319	 Other Warehousing and Storage
+493190	 Other Warehousing and Storage
+
+51	 Information and Cultural Industries
+ 
+511	 Publishing Industries (except Internet)
+ 
+5111	 Newspaper, Periodical, Book and Directory Publishers
+51111	 Newspaper Publishers
+511110	 Newspaper Publishers US
+51112	 Periodical Publishers
+511120	 Periodical Publishers US
+51113	 Book Publishers
+511130	 Book Publishers US
+51114	 Directory and Mailing List Publishers
+511140	 Directory and Mailing List Publishers US
+51119	 Other Publishers
+511190	 Other Publishers CAN
+ 
+5112	 Software Publishers
+51121	 Software Publishers
+511210	 Software Publishers
+ 
+512	 Motion Picture and Sound Recording Industries
+ 
+5121	 Motion Picture and Video Industries
+51211	 Motion Picture and Video Production
+512110	 Motion Picture and Video Production US
+51212	 Motion Picture and Video Distribution
+512120	 Motion Picture and Video Distribution
+51213	 Motion Picture and Video Exhibition
+512130	 Motion Picture and Video Exhibition MEX
+51219	 Post-Production and Other Motion Picture and Video Industries
+512190	 Post-Production and Other Motion Picture and Video Industries MEX
+ 
+5122	 Sound Recording Industries
+51221	 Record Production
+512210	 Record Production
+51222	 Integrated Record Production/Distribution
+512220	 Integrated Record Production/Distribution
+51223	 Music Publishers
+512230	 Music Publishers
+51224	 Sound Recording Studios
+512240	 Sound Recording Studios
+51229	 Other Sound Recording Industries
+512290	 Other Sound Recording Industries
+ 
+515	 Broadcasting (except Internet)
+ 
+5151	 Radio and Television Broadcasting
+51511	 Radio Broadcasting
+515110	 Radio Broadcasting MEX
+51512	 Television Broadcasting
+515120	 Television Broadcasting
+ 
+5152	 Pay and Specialty Television
+51521	 Pay and Specialty Television
+515210	 Pay and Specialty Television
+ 
+517	 Telecommunications
+ 
+5171	 Wired Telecommunications Carriers
+51711	 Wired Telecommunications Carriers
+517111	 Wired Telecommunications Carriers (except Cable) CAN
+517112	 Cable and Other Program Distribution CAN
+ 
+5172	 Wireless Telecommunications Carriers (except Satellite)
+51721	 Wireless Telecommunications Carriers (except Satellite)
+517210	 Wireless Telecommunications Carriers (except Satellite) MEX
+ 
+5174	 Satellite Telecommunications
+51741	 Satellite Telecommunications
+517410	 Satellite Telecommunications
+ 
+5179	 Other Telecommunications
+51791	 Other Telecommunications
+517910	 Other Telecommunications
+ 
+518	 Data Processing, Hosting, and Related Services
+ 
+5182	 Data Processing, Hosting, and Related Services
+51821	 Data Processing, Hosting, and Related Services
+518210	 Data Processing, Hosting, and Related Services
+ 
+519	 Other Information Services
+ 
+5191	 Other Information Services
+51911	 News Syndicates
+519110	 News Syndicates
+51912	 Libraries and Archives
+519121	 Libraries CAN
+519122	 Archives CAN
+51913	 Internet Publishing and Broadcasting, and Web Search Portals
+519130	 Internet Publishing and Broadcasting, and Web Search Portals
+51919	 All Other Information Services
+519190	 All Other Information Services
+
+52	 Finance and Insurance
+ 
+521	 Monetary Authorities - Central Bank
+ 
+5211	 Monetary Authorities - Central Bank
+52111	 Monetary Authorities - Central Bank
+521110	 Monetary Authorities - Central Bank
+ 
+522	 Credit Intermediation and Related Activities
+ 
+5221	 Depository Credit Intermediation US
+52211	 Banking CAN
+522111	 Personal and Commercial Banking Industry CAN
+522112	 Corporate and Institutional Banking Industry CAN
+52213	 Local Credit Unions US
+522130	 Local Credit Unions US
+52219	 Other Depository Credit Intermediation US
+522190	 Other Depository Credit Intermediation US
+ 
+5222	 Non-Depository Credit Intermediation US
+52221	 Credit Card Issuing US
+522210	 Credit Card Issuing US
+52222	 Sales Financing US
+522220	 Sales Financing US
+52229	 Other Non-Depository Credit Intermediation US
+522291	 Consumer Lending US
+522299	 All Other Non-Depository Credit Intermediation CAN
+ 
+5223	 Activities Related to Credit Intermediation US
+52231	 Mortgage and Non-mortgage Loan Brokers US
+522310	 Mortgage and Non-mortgage Loan Brokers US
+52232	 Financial Transactions Processing, Reserve and Clearing House Activities US
+522321	 Central Credit Unions CAN
+522329	 Other Financial Transactions Processing and Clearing House Activities CAN
+52239	 Other Activities Related to Credit Intermediation US
+522390	 Other Activities Related to Credit Intermediation US
+ 
+523	 Securities, Commodity Contracts, and Other Financial Investment and Related Activities
+ 
+5231	 Securities and Commodity Contracts Intermediation and Brokerage
+52311	 Investment Banking and Securities Dealing US
+523110	 Investment Banking and Securities Dealing US
+52312	 Securities Brokerage US
+523120	 Securities Brokerage US
+52313	 Commodity Contracts Dealing US
+523130	 Commodity Contracts Dealing US
+52314	 Commodity Contracts Brokerage US
+523140	 Commodity Contracts Brokerage US
+ 
+5232	 Securities and Commodity Exchanges
+52321	 Securities and Commodity Exchanges
+523210	 Securities and Commodity Exchanges
+ 
+5239	 Other Financial Investment Activities
+52391	 Miscellaneous Intermediation US
+523910	 Miscellaneous Intermediation US
+52392	 Portfolio Management US
+523920	 Portfolio Management US
+52393	 Investment Advice US
+523930	 Investment Advice US
+52399	 All Other Financial Investment Activities US
+523990	 All Other Financial Investment Activities CAN
+ 
+524	 Insurance Carriers and Related Activities
+ 
+5241	 Insurance Carriers
+52411	 Direct Life, Health and Medical Insurance Carriers US
+524111	 Direct Individual Life, Health and Medical Insurance Carriers CAN
+524112	 Direct Group Life, Health and Medical Insurance Carriers CAN
+52412	 Direct Insurance (except Life, Health and Medical) Carriers US
+524121	 Direct General Property and Casualty Insurance Carriers CAN
+524122	 Direct, Private, Automobile Insurance Carriers CAN
+524123	 Direct, Public, Automobile Insurance Carriers CAN
+524124	 Direct Property Insurance Carriers CAN
+524125	 Direct Liability Insurance Carriers CAN
+524129	 Other Direct Insurance (except Life, Health and Medical) Carriers CAN
+52413	 Reinsurance Carriers US
+524131	 Life Reinsurance Carriers CAN
+524132	 Accident and Sickness Reinsurance Carriers CAN
+524133	 Automobile Reinsurance Carriers CAN
+524134	 Property Reinsurance Carriers CAN
+524135	 Liability Reinsurance Carriers CAN
+524139	 General and Other Reinsurance Carriers CAN
+ 
+5242	 Agencies, Brokerages and Other Insurance Related Activities
+52421	 Insurance Agencies and Brokerages US
+524210	 Insurance Agencies and Brokerages US
+52429	 Other Insurance Related Activities US
+524291	 Claims Adjusters US
+524299	 All Other Insurance Related Activities CAN
+ 
+526	 Funds and Other Financial Vehicles CAN
+ 
+5261	 Pension Funds CAN
+52611	 Pension Funds CAN
+526111	 Trusteed Pension Funds CAN
+526112	 Non-Trusteed Pension Funds CAN
+ 
+5269	 Other Funds and Financial Vehicles CAN
+52691	 Open-End Investment Funds CAN
+526911	 Equity Funds - Canadian CAN
+526912	 Equity Funds - Foreign CAN
+526913	 Mortgage Funds CAN
+526914	 Money Market Funds CAN
+526915	 Bond and Income / Dividend Funds - Canadian CAN
+526916	 Bond and Income / Dividend Funds - Foreign CAN
+526917	 Balanced Funds / Asset Allocation Funds CAN
+526919	 Other Open-Ended Funds CAN
+52693	 Segregated (except Pension) Funds CAN
+526930	 Segregated (except Pension) Funds CAN
+52698	 All Other Funds and Financial Vehicles CAN
+526981	 Securitization Vehicles CAN
+526989	 All Other Miscellaneous Funds and Financial Vehicles CAN
+
+	 53	 Real Estate and Rental and Leasing
+ 
+531	 Real Estate
+ 
+5311	 Lessors of Real Estate
+53111	 Lessors of Residential Buildings and Dwellings US
+531111	 Lessors of Residential Buildings and Dwellings (except Social Housing Projects) CAN
+531112	 Lessors of Social Housing Projects CAN
+53112	 Lessors of Non-Residential Buildings (except Mini-Warehouses) US
+531120	 Lessors of Non-Residential Buildings (except Mini-Warehouses) US
+53113	 Self-Storage Mini-Warehouses US
+531130	 Self-Storage Mini-Warehouses US
+53119	 Lessors of Other Real Estate Property US
+531190	 Lessors of Other Real Estate Property US
+ 
+5312	 Offices of Real Estate Agents and Brokers
+53121	 Offices of Real Estate Agents and Brokers
+531211	 Real Estate Agents CAN
+531212	 Offices of Real Estate Brokers CAN
+ 
+5313	 Activities Related to Real Estate
+53131	 Real Estate Property Managers US
+531310	 Real Estate Property Managers CAN
+53132	 Offices of Real Estate Appraisers US
+531320	 Offices of Real Estate Appraisers US
+53139	 Other Activities Related to Real Estate US
+531390	 Other Activities Related to Real Estate US
+ 
+532	 Rental and Leasing Services
+ 
+5321	 Automotive Equipment Rental and Leasing
+53211	 Passenger Car Rental and Leasing
+532111	 Passenger Car Rental US
+532112	 Passenger Car Leasing US
+53212	 Truck, Utility Trailer and RV (Recreational Vehicle) Rental and Leasing
+532120	 Truck, Utility Trailer and RV (Recreational Vehicle) Rental and Leasing US
+ 
+5322	 Consumer Goods Rental
+53221	 Consumer Electronics and Appliance Rental
+532210	 Consumer Electronics and Appliance Rental
+53222	 Formal Wear and Costume Rental
+532220	 Formal Wear and Costume Rental
+53223	 Video Tape and Disc Rental
+532230	 Video Tape and Disc Rental
+53229	 Other Consumer Goods Rental
+532290	 Other Consumer Goods Rental CAN
+ 
+5323	 General Rental Centres
+53231	 General Rental Centres
+532310	 General Rental Centres
+ 
+5324	 Commercial and Industrial Machinery and Equipment Rental and Leasing
+53241	 Construction, Transportation, Mining, and Forestry Machinery and Equipment Rental and Leasing
+532410	 Construction, Transportation, Mining, and Forestry Machinery and Equipment Rental and Leasing CAN
+53242	 Office Machinery and Equipment Rental and Leasing
+532420	 Office Machinery and Equipment Rental and Leasing
+53249	 Other Commercial and Industrial Machinery and Equipment Rental and Leasing
+532490	 Other Commercial and Industrial Machinery and Equipment Rental and Leasing US
+ 
+533	 Lessors of Non-Financial Intangible Assets (Except Copyrighted Works)
+ 
+5331	 Lessors of Non-Financial Intangible Assets (Except Copyrighted Works)
+53311	 Lessors of Non-Financial Intangible Assets (Except Copyrighted Works)
+533110	 Lessors of Non-Financial Intangible Assets (Except Copyrighted Works)
+
+	 54	 Professional, Scientific and Technical Services
+ 
+541	 Professional, Scientific and Technical Services
+ 
+5411	 Legal Services
+54111	 Offices of Lawyers
+541110	 Offices of Lawyers
+54112	 Offices of Notaries
+541120	 Offices of Notaries
+54119	 Other Legal Services
+541190	 Other Legal Services MEX
+ 
+5412	 Accounting, Tax Preparation, Bookkeeping and Payroll Services
+54121	 Accounting, Tax Preparation, Bookkeeping and Payroll Services
+541212	 Offices of Accountants CAN
+541213	 Tax Preparation Services US
+541215	 Bookkeeping, Payroll and Related Services CAN
+ 
+5413	 Architectural, Engineering and Related Services
+54131	 Architectural Services
+541310	 Architectural Services
+54132	 Landscape Architectural Services
+541320	 Landscape Architectural Services
+54133	 Engineering Services
+541330	 Engineering Services
+54134	 Drafting Services
+541340	 Drafting Services
+54135	 Building Inspection Services
+541350	 Building Inspection Services
+54136	 Geophysical Surveying and Mapping Services
+541360	 Geophysical Surveying and Mapping Services
+54137	 Surveying and Mapping (except Geophysical) Services
+541370	 Surveying and Mapping (except Geophysical) Services
+54138	 Testing Laboratories
+541380	 Testing Laboratories
+ 
+5414	 Specialized Design Services
+54141	 Interior Design Services
+541410	 Interior Design Services
+54142	 Industrial Design Services
+541420	 Industrial Design Services
+54143	 Graphic Design Services
+541430	 Graphic Design Services
+54149	 Other Specialized Design Services
+541490	 Other Specialized Design Services
+ 
+5415	 Computer Systems Design and Related Services
+54151	 Computer Systems Design and Related Services
+541510	 Computer Systems Design and Related Services MEX
+ 
+5416	 Management, Scientific and Technical Consulting Services
+54161	 Management Consulting Services
+541611	 Administrative Management and General Management Consulting Services US
+541612	 Human Resources Consulting Services US
+541619	 Other Management Consulting Services CAN
+54162	 Environmental Consulting Services
+541620	 Environmental Consulting Services
+54169	 Other Scientific and Technical Consulting Services
+541690	 Other Scientific and Technical Consulting Services
+ 
+5417	 Scientific Research and Development Services
+54171	 Research and Development in the Physical, Engineering and Life Sciences
+541710	 Research and Development in the Physical, Engineering and Life Sciences CAN
+54172	 Research and Development in the Social Sciences and Humanities
+541720	 Research and Development in the Social Sciences and Humanities US
+ 
+5418	 Advertising, Public Relations, and Related Services
+54181	 Advertising Agencies
+541810	 Advertising Agencies
+54182	 Public Relations Services
+541820	 Public Relations Services
+54183	 Media Buying Agencies
+541830	 Media Buying Agencies
+54184	 Media Representatives
+541840	 Media Representatives
+54185	 Display Advertising
+541850	 Display Advertising
+54186	 Direct Mail Advertising
+541860	 Direct Mail Advertising
+54187	 Advertising Material Distribution Services
+541870	 Advertising Material Distribution Services
+54189	 Other Services Related to Advertising
+541891	 Specialty Advertising Distributors CAN
+541899	 All Other Services Related to Advertising CAN
+ 
+5419	 Other Professional, Scientific and Technical Services
+54191	 Marketing Research and Public Opinion Polling
+541910	 Marketing Research and Public Opinion Polling
+54192	 Photographic Services
+541920	 Photographic Services MEX
+54193	 Translation and Interpretation Services
+541930	 Translation and Interpretation Services
+54194	 Veterinary Services
+541940	 Veterinary Services US
+54199	 All Other Professional, Scientific and Technical Services
+541990	 All Other Professional, Scientific and Technical Services
+
+55	 Management of Companies and Enterprises
+ 
+551	 Management of Companies and Enterprises
+ 
+5511	 Management of Companies and Enterprises
+55111	 Management of Companies and Enterprises
+551113	 Holding Companies CAN
+551114	 Head Offices US
+
+56	 Administrative and Support, Waste Management and Remediation Services
+ 
+561	 Administrative and Support Services
+ 
+5611	 Office Administrative Services
+56111	 Office Administrative Services
+561110	 Office Administrative Services
+ 
+5612	 Facilities Support Services
+56121	 Facilities Support Services
+561210	 Facilities Support Services
+ 
+5613	 Employment Services
+56131	 Employment Placement Agencies and Executive Search Services
+561310	 Employment Placement Agencies and Executive Search Services
+56132	 Temporary Help Services
+561320	 Temporary Help Services
+56133	 Professional Employer Organizations
+561330	 Professional Employer Organizations
+ 
+5614	 Business Support Services
+56141	 Document Preparation Services
+561410	 Document Preparation Services
+56142	 Telephone Call Centres
+561420	 Telephone Call Centres CAN
+56143	 Business Service Centres
+561430	 Business Service Centres CAN
+56144	 Collection Agencies
+561440	 Collection Agencies
+56145	 Credit Bureaus
+561450	 Credit Bureaus
+56149	 Other Business Support Services
+561490	 Other Business Support Services MEX
+ 
+5615	 Travel Arrangement and Reservation Services
+56151	 Travel Agencies
+561510	 Travel Agencies
+56152	 Tour Operators
+561520	 Tour Operators
+56159	 Other Travel Arrangement and Reservation Services
+561590	 Other Travel Arrangement and Reservation Services MEX
+ 
+5616	 Investigation and Security Services
+56161	 Investigation, Guard and Armoured Car Services
+561611	 Investigation Services US
+561612	 Security Guard and Patrol Services US
+561613	 Armoured Car Services US
+56162	 Security Systems Services
+561621	 Security Systems Services (except Locksmiths) US
+561622	 Locksmiths US
+ 
+5617	 Services to Buildings and Dwellings
+56171	 Exterminating and Pest Control Services
+561710	 Exterminating and Pest Control Services
+56172	 Janitorial Services
+561721	 Window Cleaning Services CAN
+561722	 Janitorial Services (except Window Cleaning) CAN
+56173	 Landscaping Services
+561730	 Landscaping Services
+56174	 Carpet and Upholstery Cleaning Services
+561740	 Carpet and Upholstery Cleaning Services
+56179	 Other Services to Buildings and Dwellings
+561791	 Duct and Chimney Cleaning Services CAN
+561799	 All Other Services to Buildings and Dwellings CAN
+ 
+5619	 Other Support Services
+56191	 Packaging and Labelling Services
+561910	 Packaging and Labelling Services
+56192	 Convention and Trade Show Organizers
+561920	 Convention and Trade Show Organizers
+56199	 All Other Support Services
+561990	 All Other Support Services
+ 
+562	 Waste Management and Remediation Services
+ 
+5621	 Waste Collection US
+56211	 Waste Collection US
+562110	 Waste Collection CAN
+ 
+5622	 Waste Treatment and Disposal US
+56221	 Waste Treatment and Disposal US
+562210	 Waste Treatment and Disposal CAN
+ 
+5629	 Remediation and Other Waste Management Services US
+56291	 Remediation Services US
+562910	 Remediation Services US
+56292	 Material Recovery Facilities US
+562920	 Material Recovery Facilities US
+56299	 All Other Waste Management Services US
+562990	 All Other Waste Management Services CAN
+
+61	 Educational Services
+ 
+611	 Educational Services
+ 
+6111	 Elementary and Secondary Schools
+61111	 Elementary and Secondary Schools US
+611110	 Elementary and Secondary Schools US
+ 
+6112	 Community Colleges and C.E.G.E.P.s
+61121	 Community Colleges and C.E.G.E.P.s
+611210	 Community Colleges and C.E.G.E.P.s US
+ 
+6113	 Universities
+61131	 Universities
+611310	 Universities US
+ 
+6114	 Business Schools and Computer and Management Training
+61141	 Business and Secretarial Schools
+611410	 Business and Secretarial Schools US
+61142	 Computer Training
+611420	 Computer Training US
+61143	 Professional and Management Development Training
+611430	 Professional and Management Development Training US
+ 
+6115	 Technical and Trade Schools
+61151	 Technical and Trade Schools
+611510	 Technical and Trade Schools CAN
+ 
+6116	 Other Schools and Instruction
+61161	 Fine Arts Schools
+611610	 Fine Arts Schools US
+61162	 Athletic Instruction
+611620	 Athletic Instruction US
+61163	 Language Schools
+611630	 Language Schools US
+61169	 All Other Schools and Instruction
+611690	 All Other Schools and Instruction CAN
+ 
+6117	 Educational Support Services
+61171	 Educational Support Services
+611710	 Educational Support Services
+
+62	 Health Care and Social Assistance
+ 
+621	 Ambulatory Health Care Services
+ 
+6211	 Offices of Physicians
+62111	 Offices of Physicians
+621110	 Offices of Physicians CAN
+ 
+6212	 Offices of Dentists
+62121	 Offices of Dentists
+621210	 Offices of Dentists US
+ 
+6213	 Offices of Other Health Practitioners
+62131	 Offices of Chiropractors
+621310	 Offices of Chiropractors US
+62132	 Offices of Optometrists
+621320	 Offices of Optometrists
+62133	 Offices of Mental Health Practitioners (except Physicians)
+621330	 Offices of Mental Health Practitioners (except Physicians) US
+62134	 Offices of Physical, Occupational, and Speech Therapists and Audiologists
+621340	 Offices of Physical, Occupational, and Speech Therapists and Audiologists US
+62139	 Offices of All Other Health Practitioners
+621390	 Offices of All Other Health Practitioners CAN
+ 
+6214	 Out-Patient Care Centres
+62141	 Family Planning Centres
+621410	 Family Planning Centres US
+62142	 Out-Patient Mental Health and Substance Abuse Centres
+621420	 Out-Patient Mental Health and Substance Abuse Centres US
+62149	 Other Out-Patient Care Centres
+621494	 Community Health Centres CAN
+621499	 All Other Out-Patient Care Centres CAN
+ 
+6215	 Medical and Diagnostic Laboratories
+62151	 Medical and Diagnostic Laboratories
+621510	 Medical and Diagnostic Laboratories CAN
+ 
+6216	 Home Health Care Services
+62161	 Home Health Care Services
+621610	 Home Health Care Services
+ 
+6219	 Other Ambulatory Health Care Services
+62191	 Ambulance Services
+621911	 Ambulance (except Air Ambulance) Services CAN
+621912	 Air Ambulance Services CAN
+62199	 All Other Ambulatory Health Care Services
+621990	 All Other Ambulatory Health Care Services CAN
+ 
+622	 Hospitals
+ 
+6221	 General Medical and Surgical Hospitals
+62211	 General Medical and Surgical Hospitals
+622111	 General (except Paediatric) Hospitals CAN
+622112	 Paediatric Hospitals CAN
+ 
+6222	 Psychiatric and Substance Abuse Hospitals
+62221	 Psychiatric and Substance Abuse Hospitals
+622210	 Psychiatric and Substance Abuse Hospitals US
+ 
+6223	 Specialty (except Psychiatric and Substance Abuse) Hospitals
+62231	 Specialty (except Psychiatric and Substance Abuse) Hospitals
+622310	 Specialty (except Psychiatric and Substance Abuse) Hospitals US
+ 
+623	 Nursing and Residential Care Facilities
+ 
+6231	 Nursing Care Facilities
+62311	 Nursing Care Facilities
+623110	 Nursing Care Facilities US
+ 
+6232	 Residential Developmental Handicap, Mental Health and Substance Abuse Facilities
+62321	 Residential Developmental Handicap Facilities
+623210	 Residential Developmental Handicap Facilities US
+62322	 Residential Mental Health and Substance Abuse Facilities
+623221	 Residential Substance Abuse Facilities CAN
+623222	 Homes for the Psychiatrically Disabled CAN
+ 
+6233	 Community Care Facilities for the Elderly
+62331	 Community Care Facilities for the Elderly
+623310	 Community Care Facilities for the Elderly CAN
+ 
+6239	 Other Residential Care Facilities
+62399	 Other Residential Care Facilities
+623991	 Transition Homes for Women CAN
+623992	 Homes for Emotionally Disturbed Children CAN
+623993	 Homes for the Physically Handicapped or Disabled CAN
+623999	 All Other Residential Care Facilities CAN
+ 
+624	 Social Assistance
+ 
+6241	 Individual and Family Services
+62411	 Child and Youth Services
+624110	 Child and Youth Services US
+62412	 Services for the Elderly and Persons with Disabilities
+624120	 Services for the Elderly and Persons with Disabilities US
+62419	 Other Individual and Family Services
+624190	 Other Individual and Family Services US
+ 
+6242	 Community Food and Housing, and Emergency and Other Relief Services
+62421	 Community Food Services
+624210	 Community Food Services US
+62422	 Community Housing Services
+624220	 Community Housing Services CAN
+62423	 Emergency and Other Relief Services
+624230	 Emergency and Other Relief Services US
+ 
+6243	 Vocational Rehabilitation Services
+62431	 Vocational Rehabilitation Services
+624310	 Vocational Rehabilitation Services US
+ 
+6244	 Child Day-Care Services
+62441	 Child Day-Care Services
+624410	 Child Day-Care Services US
+
+	 71	 Arts, Entertainment and Recreation
+ 
+711	 Performing Arts, Spectator Sports and Related Industries
+ 
+7111	 Performing Arts Companies
+71111	 Theatre Companies and Dinner Theatres
+711111	 Theatre (except Musical) Companies CAN
+711112	 Musical Theatre and Opera Companies CAN
+71112	 Dance Companies
+711120	 Dance Companies US
+71113	 Musical Groups and Artists
+711130	 Musical Groups and Artists US
+71119	 Other Performing Arts Companies
+711190	 Other Performing Arts Companies US
+ 
+7112	 Spectator Sports
+71121	 Spectator Sports
+711211	 Sports Teams and Clubs US
+711213	 Horse Race Tracks CAN
+711218	 Other Spectator Sports CAN
+ 
+7113	 Promoters (Presenters) of Performing Arts, Sports and Similar Events
+71131	 Promoters (Presenters) of Performing Arts, Sports and Similar Events with Facilities
+711311	 Live Theatres and Other Performing Arts Presenters with Facilities CAN
+711319	 Sports Stadiums and Other Presenters with Facilities CAN
+71132	 Promoters (Presenters) of Performing Arts, Sports and Similar Events without Facilities
+711321	 Performing Arts Promoters (Presenters) without Facilities CAN
+711322	 Festivals without Facilities CAN
+711329	 Sports Presenters and Other Presenters without Facilities CAN
+ 
+7114	 Agents and Managers for Artists, Athletes, Entertainers and Other Public Figures
+71141	 Agents and Managers for Artists, Athletes, Entertainers and Other Public Figures
+711410	 Agents and Managers for Artists, Athletes, Entertainers and Other Public Figures
+ 
+7115	 Independent Artists, Writers and Performers
+71151	 Independent Artists, Writers and Performers
+711511	 Independent Artists, Visual Arts CAN
+711512	 Independent Actors, Comedians and Performers CAN
+711513	 Independent Writers and Authors CAN
+ 
+712	 Heritage Institutions
+ 
+7121	 Heritage Institutions
+71211	 Museums
+712111	 Non-Commercial Art Museums and Galleries CAN
+712115	 History and Science Museums CAN
+712119	 Other Museums CAN
+71212	 Historic and Heritage Sites
+712120	 Historic and Heritage Sites
+71213	 Zoos and Botanical Gardens
+712130	 Zoos and Botanical Gardens US
+71219	 Nature Parks and Other Similar Institutions
+712190	 Nature Parks and Other Similar Institutions
+ 
+713	 Amusement, Gambling and Recreation Industries
+ 
+7131	 Amusement Parks and Arcades
+71311	 Amusement and Theme Parks
+713110	 Amusement and Theme Parks US
+71312	 Amusement Arcades
+713120	 Amusement Arcades
+ 
+7132	 Gambling Industries
+71321	 Casinos (except Casino Hotels)
+713210	 Casinos (except Casino Hotels)
+71329	 Other Gambling Industries
+713291	 Lotteries MEX
+713299	 All Other Gambling Industries MEX
+ 
+7139	 Other Amusement and Recreation Industries
+71391	 Golf Courses and Country Clubs
+713910	 Golf Courses and Country Clubs
+71392	 Skiing Facilities
+713920	 Skiing Facilities
+71393	 Marinas
+713930	 Marinas
+71394	 Fitness and Recreational Sports Centres
+713940	 Fitness and Recreational Sports Centres US
+71395	 Bowling Centres
+713950	 Bowling Centres
+71399	 All Other Amusement and Recreation Industries
+713990	 All Other Amusement and Recreation Industries US
+
+72	 Accommodation and Food Services
+ 
+721	 Accommodation Services
+ 
+7211	 Traveller Accommodation
+72111	 Hotels (except Casino Hotels) and Motels
+721111	 Hotels CAN
+721112	 Motor Hotels CAN
+721113	 Resorts CAN
+721114	 Motels CAN
+72112	 Casino Hotels
+721120	 Casino Hotels
+72119	 Other Traveller Accommodation
+721191	 Bed and Breakfast US
+721192	 Housekeeping Cottages and Cabins CAN
+721198	 All Other Traveller Accommodation CAN
+ 
+7212	 RV (Recreational Vehicle) Parks and Recreational Camps
+72121	 RV (Recreational Vehicle) Parks and Recreational Camps
+721211	 RV (Recreational Vehicle) Parks and Campgrounds US
+721212	 Hunting and Fishing Camps CAN
+721213	 Recreational (except Hunting and Fishing) and Vacation Camps CAN
+ 
+7213	 Rooming and Boarding Houses
+72131	 Rooming and Boarding Houses
+721310	 Rooming and Boarding Houses US
+ 
+722	 Food Services and Drinking Places
+ 
+7221	 Full-Service Restaurants
+72211	 Full-Service Restaurants
+722110	 Full-Service Restaurants US
+ 
+7222	 Limited-Service Eating Places
+72221	 Limited-Service Eating Places
+722210	 Limited-Service Eating Places CAN
+ 
+7223	 Special Food Services
+72231	 Food Service Contractors
+722310	 Food Service Contractors
+72232	 Caterers
+722320	 Caterers
+72233	 Mobile Food Services
+722330	 Mobile Food Services
+ 
+7224	 Drinking Places (Alcoholic Beverages)
+72241	 Drinking Places (Alcoholic Beverages)
+722410	 Drinking Places (Alcoholic Beverages) US
+
+81	 Other Services (except Public Administration)
+ 
+811	 Repair and Maintenance
+ 
+8111	 Automotive Repair and Maintenance
+81111	 Automotive Mechanical and Electrical Repair and Maintenance
+811111	 General Automotive Repair US
+811112	 Automotive Exhaust System Repair US
+811119	 Other Automotive Mechanical and Electrical Repair and Maintenance CAN
+81112	 Automotive Body, Paint, Interior and Glass Repair
+811121	 Automotive Body, Paint and Interior Repair and Maintenance US
+811122	 Automotive Glass Replacement Shops US
+81119	 Other Automotive Repair and Maintenance
+811192	 Car Washes US
+811199	 All Other Automotive Repair and Maintenance CAN
+ 
+8112	 Electronic and Precision Equipment Repair and Maintenance
+81121	 Electronic and Precision Equipment Repair and Maintenance
+811210	 Electronic and Precision Equipment Repair and Maintenance CAN
+ 
+8113	 Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance
+81131	 Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance
+811310	 Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance US
+ 
+8114	 Personal and Household Goods Repair and Maintenance
+81141	 Home and Garden Equipment and Appliance Repair and Maintenance
+811411	 Home and Garden Equipment Repair and Maintenance US
+811412	 Appliance Repair and Maintenance US
+81142	 Reupholstery and Furniture Repair
+811420	 Reupholstery and Furniture Repair
+81143	 Footwear and Leather Goods Repair
+811430	 Footwear and Leather Goods Repair
+81149	 Other Personal and Household Goods Repair and Maintenance
+811490	 Other Personal and Household Goods Repair and Maintenance US
+ 
+812	 Personal and Laundry Services
+ 
+8121	 Personal Care Services US
+81211	 Hair Care and Esthetic Services US
+812114	 Barber Shops CAN
+812115	 Beauty Salons CAN
+812116	 Unisex Hair Salons CAN
+81219	 Other Personal Care Services US
+812190	 Other Personal Care Services CAN
+ 
+8122	 Funeral Services US
+81221	 Funeral Homes US
+812210	 Funeral Homes US
+81222	 Cemeteries and Crematoria US
+812220	 Cemeteries and Crematoria US
+ 
+8123	 Dry Cleaning and Laundry Services US
+81231	 Coin-Operated Laundries and Dry Cleaners US
+812310	 Coin-Operated Laundries and Dry Cleaners US
+81232	 Dry Cleaning and Laundry Services (except Coin-Operated) US
+812320	 Dry Cleaning and Laundry Services (except Coin-Operated) US
+81233	 Linen and Uniform Supply US
+812330	 Linen and Uniform Supply CAN
+ 
+8129	 Other Personal Services US
+81291	 Pet Care (except Veterinary) Services US
+812910	 Pet Care (except Veterinary) Services US
+81292	 Photo Finishing Services US
+812921	 Photo Finishing Laboratories (except One-Hour) US
+812922	 One-Hour Photo Finishing US
+81293	 Parking Lots and Garages US
+812930	 Parking Lots and Garages US
+81299	 All Other Personal Services US
+812990	 All Other Personal Services US
+ 
+813	 Religious, Grant-Making, Civic, and Professional and Similar Organizations
+ 
+8131	 Religious Organizations US
+81311	 Religious Organizations US
+813110	 Religious Organizations US
+ 
+8132	 Grant-Making and Giving Services US
+81321	 Grant-Making and Giving Services US
+813210	 Grant-Making and Giving Services CAN
+ 
+8133	 Social Advocacy Organizations US
+81331	 Social Advocacy Organizations US
+813310	 Social Advocacy Organizations CAN
+ 
+8134	 Civic and Social Organizations US
+81341	 Civic and Social Organizations US
+813410	 Civic and Social Organizations US
+ 
+8139	 Business, Professional, Labour and Other Membership Organizations US
+81391	 Business Associations US
+813910	 Business Associations US
+81392	 Professional Organizations US
+813920	 Professional Organizations US
+81393	 Labour Organizations US
+813930	 Labour Organizations US
+81394	 Political Organizations US
+813940	 Political Organizations US
+81399	 Other Membership Organizations US
+813990	 Other Membership Organizations US
+ 
+814	 Private Households
+ 
+8141	 Private Households
+81411	 Private Households
+814110	 Private Households
+
+91	 Public Administration
+ 
+911	 Federal Government Public Administration CAN
+ 
+9111	 Defence Services CAN
+91111	 Defence Services CAN
+911110	 Defence Services CAN
+ 
+9112	 Federal Protective Services CAN
+91121	 Federal Courts of Law CAN
+911210	 Federal Courts of Law CAN
+91122	 Federal Correctional Services CAN
+911220	 Federal Correctional Services CAN
+91123	 Federal Police Services CAN
+911230	 Federal Police Services CAN
+91124	 Federal Regulatory Services CAN
+911240	 Federal Regulatory Services CAN
+91129	 Other Federal Protective Services CAN
+911290	 Other Federal Protective Services CAN
+ 
+9113	 Federal Labour, Employment and Immigration Services CAN
+91131	 Federal Labour and Employment Services CAN
+911310	 Federal Labour and Employment Services CAN
+91132	 Immigration Services CAN
+911320	 Immigration Services CAN
+91139	 Other Federal Labour, Employment and Immigration Services CAN
+911390	 Other Federal Labour, Employment and Immigration Services CAN
+ 
+9114	 Foreign Affairs and International Assistance CAN
+91141	 Foreign Affairs CAN
+911410	 Foreign Affairs CAN
+91142	 International Assistance CAN
+911420	 International Assistance CAN
+ 
+9119	 Other Federal Government Public Administration CAN
+91191	 Other Federal Government Public Administration CAN
+911910	 Other Federal Government Public Administration CAN
+ 
+912	 Provincial and Territorial Public Administration CAN
+ 
+9121	 Provincial Protective Services CAN
+91211	 Provincial Courts of Law CAN
+912110	 Provincial Courts of Law CAN
+91212	 Provincial Correctional Services CAN
+912120	 Provincial Correctional Services CAN
+91213	 Provincial Police Services CAN
+912130	 Provincial Police Services CAN
+91214	 Provincial Fire-Fighting Services CAN
+912140	 Provincial Fire-Fighting Services CAN
+91215	 Provincial Regulatory Services CAN
+912150	 Provincial Regulatory Services CAN
+91219	 Other Provincial Protective Services CAN
+912190	 Other Provincial Protective Services CAN
+ 
+9122	 Provincial Labour and Employment Services CAN
+91221	 Provincial Labour and Employment Services CAN
+912210	 Provincial Labour and Employment Services CAN
+ 
+9129	 Other Provincial and Territorial Public Administration CAN
+91291	 Other Provincial and Territorial Public Administration CAN
+912910	 Other Provincial and Territorial Public Administration CAN
+ 
+913	 Local, Municipal and Regional Public Administration CAN
+ 
+9131	 Municipal Protective Services CAN
+91311	 Municipal Courts of Law CAN
+913110	 Municipal Courts of Law CAN
+91312	 Municipal Correctional Services CAN
+913120	 Municipal Correctional Services CAN
+91313	 Municipal Police Services CAN
+913130	 Municipal Police Services CAN
+91314	 Municipal Fire-Fighting Services CAN
+913140	 Municipal Fire-Fighting Services CAN
+91315	 Municipal Regulatory Services CAN
+913150	 Municipal Regulatory Services CAN
+91319	 Other Municipal Protective Services CAN
+913190	 Other Municipal Protective Services CAN
+ 
+9139	 Other Local, Municipal and Regional Public Administration CAN
+91391	 Other Local, Municipal and Regional Public Administration CAN
+913910	 Other Local, Municipal and Regional Public Administration CAN
+ 
+914	 Aboriginal Public Administration CAN
+ 
+9141	 Aboriginal Public Administration CAN
+91411	 Aboriginal Public Administration CAN
+914110	 Aboriginal Public Administration CAN
+ 
+919	 International and Other Extra-Territorial Public Administration CAN
+ 
+9191	 International and Other Extra-Territorial Public Administration CAN
+91911	 International and Other Extra-Territorial Public Administration CAN
+919110	 International and Other Extra-Territorial Public Administration CAN
